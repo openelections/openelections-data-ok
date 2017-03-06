@@ -1,0 +1,231 @@
+county,office,district,party,candidate,votes
+Mccurtain,State House,1,R,RUSTY FARLEY,4392
+Mccurtain,State House,1,D,DENNIS R. BAILEY,5749
+Sequoyah,State House,2,R,LAWRENCE J. MANN,4576
+Sequoyah,State House,2,D,GLEN BUD SMITHSON,7277
+Delaware,State House,5,R,DOUG COX,8860
+Delaware,State House,5,D,KELLY KERR,3197
+Mayes,State House,5,R,DOUG COX,1539
+Mayes,State House,5,D,KELLY KERR,915
+Rogers,State House,9,R,TAD M. JONES,11421
+Rogers,State House,9,D,BILL SNYDER,6848
+Nowata,State House,10,R,STEVE MARTIN,1704
+Nowata,State House,10,D,ERIC EPPERSON,2711
+Osage,State House,10,R,STEVE MARTIN,575
+Osage,State House,10,D,ERIC EPPERSON,297
+Washington,State House,10,R,STEVE MARTIN,5163
+Washington,State House,10,D,ERIC EPPERSON,3251
+Muskogee,State House,13,R,DEBBIE LIENHART,2733
+Muskogee,State House,13,D,JERRY McPEAK,8568
+Wagoner,State House,13,R,DEBBIE LIENHART,1195
+Wagoner,State House,13,D,JERRY McPEAK,759
+Cherokee,State House,14,R,GEORGE FAUGHT,816
+Cherokee,State House,14,D,EUGENE BLANKENSHIP,826
+Muskogee,State House,14,R,GEORGE FAUGHT,6633
+Muskogee,State House,14,D,EUGENE BLANKENSHIP,5136
+Tulsa,State House,23,R,SUE TIBBS,6650
+Tulsa,State House,23,D,CONNIE DODSON,4638
+Hughes,State House,25,R,TODD THOMSEN,43
+Hughes,State House,25,D,GARY STARNS,127
+Mcclain,State House,25,R,TODD THOMSEN,185
+Mcclain,State House,25,D,GARY STARNS,89
+Pontotoc,State House,25,R,TODD THOMSEN,6796
+Pontotoc,State House,25,D,GARY STARNS,6104
+Pottawatomie,State House,25,R,TODD THOMSEN,163
+Pottawatomie,State House,25,D,GARY STARNS,153
+Cleveland,State House,27,R,SHANE JETT,1627
+Cleveland,State House,27,D,COLE KOSZARA,802
+Pottawatomie,State House,27,R,SHANE JETT,7947
+Pottawatomie,State House,27,D,COLE KOSZARA,2718
+Lincoln,State House,28,R,RONALD G. SHEPPARD,571
+Lincoln,State House,28,D,RYAN DEAN KIESEL,368
+Okfuskee,State House,28,R,RONALD G. SHEPPARD,364
+Okfuskee,State House,28,D,RYAN DEAN KIESEL,615
+Pottawatomie,State House,28,R,RONALD G. SHEPPARD,972
+Pottawatomie,State House,28,D,RYAN DEAN KIESEL,773
+Seminole,State House,28,R,RONALD G. SHEPPARD,3329
+Seminole,State House,28,D,RYAN DEAN KIESEL,5190
+Creek,State House,30,R,MARK E. McCULLOUGH,8237
+Creek,State House,30,D,JOE CROWDER,4877
+Tulsa,State House,30,R,MARK E. McCULLOUGH,856
+Tulsa,State House,30,D,JOE CROWDER,467
+Logan,State House,31,R,JASON W. MURPHEY,11208
+Logan,State House,31,D,JENNIFER SHERRILL,5263
+Oklahoma,State House,31,R,JASON W. MURPHEY,1770
+Oklahoma,State House,31,D,JENNIFER SHERRILL,421
+Logan,State House,33,R,LEE R. DENNEY,194
+Logan,State House,33,D,MIKE PIERSON,1087
+Payne,State House,33,R,LEE R. DENNEY,9300
+Payne,State House,33,D,MIKE PIERSON,3590
+Payne,State House,34,R,AARON CARLSON,7179
+Payne,State House,34,D,CORY T. WILLIAMS,7242
+Noble,State House,35,R,REX DUNCAN,2714
+Noble,State House,35,D,RODGER ENSIGN,717
+Osage,State House,35,R,REX DUNCAN,2239
+Osage,State House,35,D,RODGER ENSIGN,1574
+Pawnee,State House,35,R,REX DUNCAN,3271
+Pawnee,State House,35,D,RODGER ENSIGN,3211
+Payne,State House,35,R,REX DUNCAN,636
+Payne,State House,35,D,RODGER ENSIGN,440
+Osage,State House,36,R,EDDIE FIELDS,6063
+Osage,State House,36,D,SCOTT N. BIGHORSE,4138
+Tulsa,State House,36,R,EDDIE FIELDS,2461
+Tulsa,State House,36,D,SCOTT N. BIGHORSE,1762
+Kay,State House,37,R,BRENT COLLE,4733
+Kay,State House,37,D,KEN LUTTRELL,6940
+Osage,State House,37,R,BRENT COLLE,544
+Osage,State House,37,D,KEN LUTTRELL,882
+Oklahoma,State House,39,R,MARIAN COOKSEY,15040
+Oklahoma,State House,39,D,GRAHAM GUHL,5210
+Oklahoma,State House,39,I,RICHARD PRAWDZIENSKI,1161
+Garfield,State House,40,R,MIKE JACKSON,8880
+Garfield,State House,40,D,PIERCE JONES,2940
+Canadian,State House,41,R,JOHN ENNS,8144
+Canadian,State House,41,I,SCOTT COOPER,1772
+Garfield,State House,41,R,JOHN ENNS,6098
+Garfield,State House,41,I,SCOTT COOPER,839
+Kingfisher,State House,41,R,JOHN ENNS,686
+Kingfisher,State House,41,I,SCOTT COOPER,154
+Oklahoma,State House,41,R,JOHN ENNS,352
+Oklahoma,State House,41,I,SCOTT COOPER,171
+Cleveland,State House,42,R,LISA J. BILLY,221
+Cleveland,State House,42,D,BRAD PERRY,186
+Garvin,State House,42,R,LISA J. BILLY,3744
+Garvin,State House,42,D,BRAD PERRY,2284
+Grady,State House,42,R,LISA J. BILLY,23
+Grady,State House,42,D,BRAD PERRY,27
+Mcclain,State House,42,R,LISA J. BILLY,6237
+Mcclain,State House,42,D,BRAD PERRY,2335
+Cleveland,State House,44,R,TOD J. BARRETT,4823
+Cleveland,State House,44,D,BILL NATIONS,8953
+Cleveland,State House,45,R,AARON STILES,8220
+Cleveland,State House,45,D,WALLACE COLLINS,9132
+Cleveland,State House,46,R,SCOTT MARTIN,10159
+Cleveland,State House,46,D,MIRANDA NORMAN,5660
+Mcclain,State House,46,R,SCOTT MARTIN,2731
+Mcclain,State House,46,D,MIRANDA NORMAN,1051
+Canadian,State House,47,R,LESLIE OSBORN,4494
+Canadian,State House,47,D,HAROLD JACKSON,1563
+Grady,State House,47,R,LESLIE OSBORN,6509
+Grady,State House,47,D,HAROLD JACKSON,3933
+Carter,State House,48,R,PAT OWNBEY,7915
+Carter,State House,48,D,JOHN L. MOORE,5207
+Carter,State House,49,R,SEAN OLIVER,2228
+Carter,State House,49,D,SAMSON RAY BUCK,3022
+Love,State House,49,R,SEAN OLIVER,1209
+Love,State House,49,D,SAMSON RAY BUCK,2531
+Marshall,State House,49,R,SEAN OLIVER,1961
+Marshall,State House,49,D,SAMSON RAY BUCK,3257
+Comanche,State House,50,R,DENNIS JOHNSON,328
+Comanche,State House,50,D,DAISY LAWLER,227
+Cotton,State House,50,R,DENNIS JOHNSON,272
+Cotton,State House,50,D,DAISY LAWLER,374
+Stephens,State House,50,R,DENNIS JOHNSON,8620
+Stephens,State House,50,D,DAISY LAWLER,5321
+Cotton,State House,51,R,COREY HOLLAND,1110
+Cotton,State House,51,D,TOMMY COSGROVE,663
+Grady,State House,51,R,COREY HOLLAND,2763
+Grady,State House,51,D,TOMMY COSGROVE,1552
+Jefferson,State House,51,R,COREY HOLLAND,1062
+Jefferson,State House,51,D,TOMMY COSGROVE,1291
+Mcclain,State House,51,R,COREY HOLLAND,821
+Mcclain,State House,51,D,TOMMY COSGROVE,387
+Stephens,State House,51,R,COREY HOLLAND,2316
+Stephens,State House,51,D,TOMMY COSGROVE,2556
+Greer,State House,52,R,CHARLES L. ORTEGA,340
+Greer,State House,52,D,DAN McMAHAN,262
+Jackson,State House,52,R,CHARLES L. ORTEGA,5843
+Jackson,State House,52,D,DAN McMAHAN,3031
+Kiowa,State House,52,R,CHARLES L. ORTEGA,708
+Kiowa,State House,52,D,DAN McMAHAN,600
+Cleveland,State House,53,R,RANDY TERRILL,11724
+Cleveland,State House,53,D,TROY GREEN,7013
+Blaine,State House,57,R,HAROLD WRIGHT,399
+Blaine,State House,57,D,PERRY ADAMS,357
+Canadian,State House,57,R,HAROLD WRIGHT,2069
+Canadian,State House,57,D,PERRY ADAMS,728
+Custer,State House,57,R,HAROLD WRIGHT,5129
+Custer,State House,57,D,PERRY ADAMS,5308
+Blaine,State House,59,R,MIKE SANDERS,2397
+Blaine,State House,59,D,DONALD EDWARD RUSSELL,881
+Canadian,State House,59,R,MIKE SANDERS,95
+Canadian,State House,59,D,DONALD EDWARD RUSSELL,21
+Dewey,State House,59,R,MIKE SANDERS,1560
+Dewey,State House,59,D,DONALD EDWARD RUSSELL,572
+Kingfisher,State House,59,R,MIKE SANDERS,4438
+Kingfisher,State House,59,D,DONALD EDWARD RUSSELL,979
+Major,State House,59,R,MIKE SANDERS,1037
+Major,State House,59,D,DONALD EDWARD RUSSELL,204
+Woodward,State House,59,R,MIKE SANDERS,1567
+Woodward,State House,59,D,DONALD EDWARD RUSSELL,272
+Beckham,State House,60,R,DAN GAMBILL,2084
+Beckham,State House,60,D,PURCY D. WALKER,5253
+Ellis,State House,60,R,DAN GAMBILL,590
+Ellis,State House,60,D,PURCY D. WALKER,1198
+Greer,State House,60,R,DAN GAMBILL,511
+Greer,State House,60,D,PURCY D. WALKER,958
+Harmon,State House,60,R,DAN GAMBILL,214
+Harmon,State House,60,D,PURCY D. WALKER,838
+Roger Mills,State House,60,R,DAN GAMBILL,412
+Roger Mills,State House,60,D,PURCY D. WALKER,1382
+Beaver,State House,61,R,GUS BLACKWELL,1580
+Beaver,State House,61,D,JORDAN SHEARER,840
+Cimarron,State House,61,R,GUS BLACKWELL,783
+Cimarron,State House,61,D,JORDAN SHEARER,474
+Ellis,State House,61,R,GUS BLACKWELL,59
+Ellis,State House,61,D,JORDAN SHEARER,29
+Harper,State House,61,R,GUS BLACKWELL,931
+Harper,State House,61,D,JORDAN SHEARER,618
+Texas,State House,61,R,GUS BLACKWELL,3850
+Texas,State House,61,D,JORDAN SHEARER,2339
+Woodward,State House,61,R,GUS BLACKWELL,128
+Woodward,State House,61,D,JORDAN SHEARER,102
+Comanche,State House,62,R,T.W. SHANNON,6484
+Comanche,State House,62,D,RANDY WARREN,4139
+Tulsa,State House,66,R,JAY K. RAMEY,3037
+Tulsa,State House,66,D,LUCKY LAMONS,8130
+Tulsa,State House,67,R,PAM PETERSON,15837
+Tulsa,State House,67,D,SEBASTIAN LANTOS,4800
+Tulsa,State House,71,R,DANIEL S. SULLIVAN,7938
+Tulsa,State House,71,D,GEORGE BULLOCK,6702
+Tulsa,State House,72,D,SENECA SCOTT,6078
+Tulsa,State House,72,I,LAWRENCE KIRKPATRICK,1343
+Tulsa,State House,78,R,JAY MATLOCK,6200
+Tulsa,State House,78,D,JEANNIE McDANIEL,8824
+Tulsa,State House,79,R,WELDON WATSON,9705
+Tulsa,State House,79,D,CHAD HAWKINS,5397
+Oklahoma,State House,82,R,GUY LIEBMANN,14651
+Oklahoma,State House,82,D,JANE ANDERSON,6901
+Oklahoma,State House,83,R,RANDY McDANIEL,12030
+Oklahoma,State House,83,D,EDWARD K HOLZBERGER,6598
+Oklahoma,State House,84,R,SALLY KERN,7232
+Oklahoma,State House,84,D,RON MARLETT,5249
+Oklahoma,State House,85,R,DAVID DANK,9479
+Oklahoma,State House,85,D,BART JAY ROBEY,7715
+Oklahoma,State House,87,R,JASON NELSON,6939
+Oklahoma,State House,87,D,DANA ORWIG,6753
+Oklahoma,State House,90,R,CHARLES KEY,5743
+Oklahoma,State House,90,D,LINDA JAMES,4097
+Oklahoma,State House,93,R,MIKE CHRISTIAN,4224
+Oklahoma,State House,93,D,DAVID CASTILLO,3006
+Oklahoma,State House,93,I,JACK CHERRY,596
+Oklahoma,State House,94,R,KYLE E. COULTER,4190
+Oklahoma,State House,94,D,SCOTT INMAN,8173
+Oklahoma,State House,95,R,CHARLIE JOYNER,7417
+Oklahoma,State House,95,D,MICHAEL A. WALKER,5225
+Oklahoma,State House,96,R,LEWIS H. MOORE,12363
+Oklahoma,State House,96,D,DIANNE HUNTER,6750
+Oklahoma,State House,97,R,JOE LOTT,3321
+Oklahoma,State House,97,D,MIKE SHELTON,13138
+Tulsa,State House,98,R,JOHN TREBILCOCK,4411
+Tulsa,State House,98,D,GREG FREDERICK,2048
+Wagoner,State House,98,R,JOHN TREBILCOCK,8056
+Wagoner,State House,98,D,GREG FREDERICK,3637
+Oklahoma,State House,99,R,WILLARD LINZY,2113
+Oklahoma,State House,99,D,ANASTASIA A. PITTMAN,10480
+Oklahoma,State House,100,R,MIKE THOMPSON,9682
+Oklahoma,State House,100,D,JAMES BAGGETT,5116
+Cleveland,State House,101,R,GARY BANZ,524
+Cleveland,State House,101,D,DONNIE LEWIS,227
+Oklahoma,State House,101,R,GARY BANZ,9359
+Oklahoma,State House,101,D,DONNIE LEWIS,6320
