@@ -1,0 +1,71 @@
+county,office,district,party,candidate,votes
+Atoka,State Senate,5,R,PATRICK K. MILLER,1045
+Atoka,State Senate,5,D,JERRY ELLIS,1880
+Choctaw,State Senate,5,R,PATRICK K. MILLER,1632
+Choctaw,State Senate,5,D,JERRY ELLIS,3707
+Mccurtain,State Senate,5,R,PATRICK K. MILLER,2488
+Mccurtain,State Senate,5,D,JERRY ELLIS,7788
+Pushmataha,State Senate,5,R,PATRICK K. MILLER,1185
+Pushmataha,State Senate,5,D,JERRY ELLIS,3122
+Haskell,State Senate,7,R,KENNY SHERRILL,2325
+Haskell,State Senate,7,D,RICHARD C. LERBLANCE,2254
+Latimer,State Senate,7,R,KENNY SHERRILL,1781
+Latimer,State Senate,7,D,RICHARD C. LERBLANCE,2324
+Pittsburg,State Senate,7,R,KENNY SHERRILL,7398
+Pittsburg,State Senate,7,D,RICHARD C. LERBLANCE,9584
+Sequoyah,State Senate,7,R,KENNY SHERRILL,678
+Sequoyah,State Senate,7,D,RICHARD C. LERBLANCE,740
+Cleveland,State Senate,15,R,JONATHAN NICHOLS,17985
+Cleveland,State Senate,15,D,DIANE M. DRUM,12703
+Mcclain,State Senate,15,R,JONATHAN NICHOLS,5140
+Mcclain,State Senate,15,D,DIANE M. DRUM,2316
+Cleveland,State Senate,17,R,"DONALD ROMINGER, JR",1160
+Cleveland,State Senate,17,D,CHARLIE LASTER,858
+Oklahoma,State Senate,17,R,"DONALD ROMINGER, JR",2903
+Oklahoma,State Senate,17,D,CHARLIE LASTER,2181
+Pottawatomie,State Senate,17,R,"DONALD ROMINGER, JR",8095
+Pottawatomie,State Senate,17,D,CHARLIE LASTER,12778
+Lincoln,State Senate,21,R,JIM HALLIGAN,761
+Lincoln,State Senate,21,D,BOB MURPHY,729
+Logan,State Senate,21,R,JIM HALLIGAN,1986
+Logan,State Senate,21,D,BOB MURPHY,2722
+Payne,State Senate,21,R,JIM HALLIGAN,14964
+Payne,State Senate,21,D,BOB MURPHY,9298
+Beaver,State Senate,27,R,BRYCE MARLATT,1684
+Beaver,State Senate,27,D,BOWDY E PEACH,708
+Blaine,State Senate,27,R,BRYCE MARLATT,859
+Blaine,State Senate,27,D,BOWDY E PEACH,541
+Cimarron,State Senate,27,R,BRYCE MARLATT,844
+Cimarron,State Senate,27,D,BOWDY E PEACH,403
+Harper,State Senate,27,R,BRYCE MARLATT,983
+Harper,State Senate,27,D,BOWDY E PEACH,557
+Major,State Senate,27,R,BRYCE MARLATT,2569
+Major,State Senate,27,D,BOWDY E PEACH,834
+Texas,State Senate,27,R,BRYCE MARLATT,4229
+Texas,State Senate,27,D,BOWDY E PEACH,1889
+Woods,State Senate,27,R,BRYCE MARLATT,2276
+Woods,State Senate,27,D,BOWDY E PEACH,1582
+Woodward,State Senate,27,R,BRYCE MARLATT,5453
+Woodward,State Senate,27,D,BOWDY E PEACH,2248
+Comanche,State Senate,31,R,DON BARRINGTON,6936
+Comanche,State Senate,31,D,KEITH ERWIN,6636
+Cotton,State Senate,31,R,DON BARRINGTON,1565
+Cotton,State Senate,31,D,KEITH ERWIN,884
+Grady,State Senate,31,R,DON BARRINGTON,1291
+Grady,State Senate,31,D,KEITH ERWIN,827
+Jefferson,State Senate,31,R,DON BARRINGTON,1416
+Jefferson,State Senate,31,D,KEITH ERWIN,980
+Stephens,State Senate,31,R,DON BARRINGTON,2865
+Stephens,State Senate,31,D,KEITH ERWIN,1601
+Tulsa,State Senate,33,R,GARY A. CASEY,10693
+Tulsa,State Senate,33,D,TOM ADELSON,18315
+Tulsa,State Senate,37,R,DAN NEWBERRY,23064
+Tulsa,State Senate,37,D,NANCY C. RILEY,13293
+Logan,State Senate,41,R,CLARK JOLLEY,4022
+Logan,State Senate,41,D,DAVID TAYLOR,1510
+Oklahoma,State Senate,41,R,CLARK JOLLEY,25791
+Oklahoma,State Senate,41,D,DAVID TAYLOR,9940
+Cleveland,State Senate,43,R,JIM REYNOLDS,6467
+Cleveland,State Senate,43,D,DAVID BOREN,4540
+Oklahoma,State Senate,43,R,JIM REYNOLDS,7391
+Oklahoma,State Senate,43,D,DAVID BOREN,9159

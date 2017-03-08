@@ -1,0 +1,227 @@
+county,office,district,party,candidate,votes
+Creek,U.S. House,1,R,JOHN SULLIVAN,1784
+Creek,U.S. House,1,D,GEORGIANNA W. OLIVER,665
+Rogers,U.S. House,1,R,JOHN SULLIVAN,6226
+Rogers,U.S. House,1,D,GEORGIANNA W. OLIVER,2217
+Tulsa,U.S. House,1,R,JOHN SULLIVAN,150664
+Tulsa,U.S. House,1,D,GEORGIANNA W. OLIVER,81978
+Wagoner,U.S. House,1,R,JOHN SULLIVAN,19579
+Wagoner,U.S. House,1,D,GEORGIANNA W. OLIVER,8407
+Washington,U.S. House,1,R,JOHN SULLIVAN,15151
+Washington,U.S. House,1,D,GEORGIANNA W. OLIVER,5623
+Adair,U.S. House,2,R,RAYMOND J. WICKSON,1955
+Adair,U.S. House,2,D,DAN BOREN,4316
+Atoka,U.S. House,2,R,RAYMOND J. WICKSON,1201
+Atoka,U.S. House,2,D,DAN BOREN,3223
+Bryan,U.S. House,2,R,RAYMOND J. WICKSON,3664
+Bryan,U.S. House,2,D,DAN BOREN,8841
+Cherokee,U.S. House,2,R,RAYMOND J. WICKSON,4216
+Cherokee,U.S. House,2,D,DAN BOREN,11293
+Choctaw,U.S. House,2,R,RAYMOND J. WICKSON,1247
+Choctaw,U.S. House,2,D,DAN BOREN,3772
+Coal,U.S. House,2,R,RAYMOND J. WICKSON,560
+Coal,U.S. House,2,D,DAN BOREN,1567
+Craig,U.S. House,2,R,RAYMOND J. WICKSON,1519
+Craig,U.S. House,2,D,DAN BOREN,4063
+Delaware,U.S. House,2,R,RAYMOND J. WICKSON,5045
+Delaware,U.S. House,2,D,DAN BOREN,9065
+Haskell,U.S. House,2,R,RAYMOND J. WICKSON,1119
+Haskell,U.S. House,2,D,DAN BOREN,3196
+Hughes,U.S. House,2,R,RAYMOND J. WICKSON,1086
+Hughes,U.S. House,2,D,DAN BOREN,3467
+Johnston,U.S. House,2,R,RAYMOND J. WICKSON,1021
+Johnston,U.S. House,2,D,DAN BOREN,2636
+Latimer,U.S. House,2,R,RAYMOND J. WICKSON,935
+Latimer,U.S. House,2,D,DAN BOREN,2967
+Leflore,U.S. House,2,R,RAYMOND J. WICKSON,4691
+Leflore,U.S. House,2,D,DAN BOREN,10611
+Mccurtain,U.S. House,2,R,RAYMOND J. WICKSON,3178
+Mccurtain,U.S. House,2,D,DAN BOREN,6405
+Mcintosh,U.S. House,2,R,RAYMOND J. WICKSON,1967
+Mcintosh,U.S. House,2,D,DAN BOREN,5661
+Mayes,U.S. House,2,R,RAYMOND J. WICKSON,4588
+Mayes,U.S. House,2,D,DAN BOREN,10431
+Muskogee,U.S. House,2,R,RAYMOND J. WICKSON,5675
+Muskogee,U.S. House,2,D,DAN BOREN,19078
+Nowata,U.S. House,2,R,RAYMOND J. WICKSON,1246
+Nowata,U.S. House,2,D,DAN BOREN,2910
+Okfuskee,U.S. House,2,R,RAYMOND J. WICKSON,952
+Okfuskee,U.S. House,2,D,DAN BOREN,2877
+Okmulgee,U.S. House,2,R,RAYMOND J. WICKSON,3900
+Okmulgee,U.S. House,2,D,DAN BOREN,10112
+Ottawa,U.S. House,2,R,RAYMOND J. WICKSON,3062
+Ottawa,U.S. House,2,D,DAN BOREN,7028
+Pittsburg,U.S. House,2,R,RAYMOND J. WICKSON,4337
+Pittsburg,U.S. House,2,D,DAN BOREN,11644
+Pushmataha,U.S. House,2,R,RAYMOND J. WICKSON,991
+Pushmataha,U.S. House,2,D,DAN BOREN,3096
+Rogers,U.S. House,2,R,RAYMOND J. WICKSON,10624
+Rogers,U.S. House,2,D,DAN BOREN,16876
+Sequoyah,U.S. House,2,R,RAYMOND J. WICKSON,4036
+Sequoyah,U.S. House,2,D,DAN BOREN,8622
+Alfalfa,U.S. House,3,R,FRANK D. LUCAS,1108
+Alfalfa,U.S. House,3,D,FRANKIE ROBBINS,156
+Alfalfa,U.S. House,3,I,FORREST MICHAEL,1091
+Beaver,U.S. House,3,R,FRANK D. LUCAS,1908
+Beaver,U.S. House,3,D,FRANKIE ROBBINS,211
+Beaver,U.S. House,3,I,FORREST MICHAEL,115
+Beckham,U.S. House,3,R,FRANK D. LUCAS,5369
+Beckham,U.S. House,3,D,FRANKIE ROBBINS,1258
+Beckham,U.S. House,3,I,FORREST MICHAEL,333
+Blaine,U.S. House,3,R,FRANK D. LUCAS,2931
+Blaine,U.S. House,3,D,FRANKIE ROBBINS,754
+Blaine,U.S. House,3,I,FORREST MICHAEL,198
+Caddo,U.S. House,3,R,FRANK D. LUCAS,5806
+Caddo,U.S. House,3,D,FRANKIE ROBBINS,2914
+Caddo,U.S. House,3,I,FORREST MICHAEL,446
+Canadian,U.S. House,3,R,FRANK D. LUCAS,21173
+Canadian,U.S. House,3,D,FRANKIE ROBBINS,5913
+Canadian,U.S. House,3,I,FORREST MICHAEL,1713
+Cimarron,U.S. House,3,R,FRANK D. LUCAS,957
+Cimarron,U.S. House,3,D,FRANKIE ROBBINS,127
+Cimarron,U.S. House,3,I,FORREST MICHAEL,82
+Creek,U.S. House,3,R,FRANK D. LUCAS,14812
+Creek,U.S. House,3,D,FRANKIE ROBBINS,7182
+Creek,U.S. House,3,I,FORREST MICHAEL,1519
+Custer,U.S. House,3,R,FRANK D. LUCAS,7650
+Custer,U.S. House,3,D,FRANKIE ROBBINS,1839
+Custer,U.S. House,3,I,FORREST MICHAEL,487
+Dewey,U.S. House,3,R,FRANK D. LUCAS,1725
+Dewey,U.S. House,3,D,FRANKIE ROBBINS,250
+Dewey,U.S. House,3,I,FORREST MICHAEL,98
+Ellis,U.S. House,3,R,FRANK D. LUCAS,1527
+Ellis,U.S. House,3,D,FRANKIE ROBBINS,176
+Ellis,U.S. House,3,I,FORREST MICHAEL,108
+Garfield,U.S. House,3,R,FRANK D. LUCAS,15164
+Garfield,U.S. House,3,D,FRANKIE ROBBINS,3866
+Garfield,U.S. House,3,I,FORREST MICHAEL,1485
+Grant,U.S. House,3,R,FRANK D. LUCAS,1442
+Grant,U.S. House,3,D,FRANKIE ROBBINS,562
+Grant,U.S. House,3,I,FORREST MICHAEL,226
+Greer,U.S. House,3,R,FRANK D. LUCAS,1396
+Greer,U.S. House,3,D,FRANKIE ROBBINS,433
+Greer,U.S. House,3,I,FORREST MICHAEL,71
+Harmon,U.S. House,3,R,FRANK D. LUCAS,693
+Harmon,U.S. House,3,D,FRANKIE ROBBINS,261
+Harmon,U.S. House,3,I,FORREST MICHAEL,35
+Harper,U.S. House,3,R,FRANK D. LUCAS,1254
+Harper,U.S. House,3,D,FRANKIE ROBBINS,158
+Harper,U.S. House,3,I,FORREST MICHAEL,61
+Jackson,U.S. House,3,R,FRANK D. LUCAS,5954
+Jackson,U.S. House,3,D,FRANKIE ROBBINS,1878
+Jackson,U.S. House,3,I,FORREST MICHAEL,312
+Kay,U.S. House,3,R,FRANK D. LUCAS,11228
+Kay,U.S. House,3,D,FRANKIE ROBBINS,4258
+Kay,U.S. House,3,I,FORREST MICHAEL,1449
+Kingfisher,U.S. House,3,R,FRANK D. LUCAS,4891
+Kingfisher,U.S. House,3,D,FRANKIE ROBBINS,724
+Kingfisher,U.S. House,3,I,FORREST MICHAEL,324
+Kiowa,U.S. House,3,R,FRANK D. LUCAS,2454
+Kiowa,U.S. House,3,D,FRANKIE ROBBINS,892
+Kiowa,U.S. House,3,I,FORREST MICHAEL,142
+Lincoln,U.S. House,3,R,FRANK D. LUCAS,8782
+Lincoln,U.S. House,3,D,FRANKIE ROBBINS,3287
+Lincoln,U.S. House,3,I,FORREST MICHAEL,810
+Logan,U.S. House,3,R,FRANK D. LUCAS,11065
+Logan,U.S. House,3,D,FRANKIE ROBBINS,4487
+Logan,U.S. House,3,I,FORREST MICHAEL,1003
+Major,U.S. House,3,R,FRANK D. LUCAS,2468
+Major,U.S. House,3,D,FRANKIE ROBBINS,320
+Major,U.S. House,3,I,FORREST MICHAEL,448
+Noble,U.S. House,3,R,FRANK D. LUCAS,3518
+Noble,U.S. House,3,D,FRANKIE ROBBINS,952
+Noble,U.S. House,3,I,FORREST MICHAEL,281
+Osage,U.S. House,3,R,FRANK D. LUCAS,9683
+Osage,U.S. House,3,D,FRANKIE ROBBINS,6942
+Osage,U.S. House,3,I,FORREST MICHAEL,1111
+Pawnee,U.S. House,3,R,FRANK D. LUCAS,3749
+Pawnee,U.S. House,3,D,FRANKIE ROBBINS,1934
+Pawnee,U.S. House,3,I,FORREST MICHAEL,473
+Payne,U.S. House,3,R,FRANK D. LUCAS,17224
+Payne,U.S. House,3,D,FRANKIE ROBBINS,7430
+Payne,U.S. House,3,I,FORREST MICHAEL,1929
+Roger Mills,U.S. House,3,R,FRANK D. LUCAS,1471
+Roger Mills,U.S. House,3,D,FRANKIE ROBBINS,194
+Roger Mills,U.S. House,3,I,FORREST MICHAEL,98
+Texas,U.S. House,3,R,FRANK D. LUCAS,4498
+Texas,U.S. House,3,D,FRANKIE ROBBINS,776
+Texas,U.S. House,3,I,FORREST MICHAEL,395
+Washita,U.S. House,3,R,FRANK D. LUCAS,3516
+Washita,U.S. House,3,D,FRANKIE ROBBINS,771
+Washita,U.S. House,3,I,FORREST MICHAEL,226
+Woods,U.S. House,3,R,FRANK D. LUCAS,2729
+Woods,U.S. House,3,D,FRANKIE ROBBINS,546
+Woods,U.S. House,3,I,FORREST MICHAEL,337
+Woodward,U.S. House,3,R,FRANK D. LUCAS,6161
+Woodward,U.S. House,3,D,FRANKIE ROBBINS,846
+Woodward,U.S. House,3,I,FORREST MICHAEL,350
+Canadian,U.S. House,4,R,TOM COLE,10343
+Canadian,U.S. House,4,D,BLAKE CUMMINGS,2680
+Canadian,U.S. House,4,,DAVID E. JOYCE,723
+Canadian,U.S. House,4,I,,13746
+Carter,U.S. House,4,R,TOM COLE,11114
+Carter,U.S. House,4,D,BLAKE CUMMINGS,5151
+Carter,U.S. House,4,,DAVID E. JOYCE,693
+Carter,U.S. House,4,I,,16958
+Cleveland,U.S. House,4,R,TOM COLE,59887
+Cleveland,U.S. House,4,D,BLAKE CUMMINGS,28117
+Cleveland,U.S. House,4,,DAVID E. JOYCE,4771
+Cleveland,U.S. House,4,I,,92775
+Comanche,U.S. House,4,R,TOM COLE,18963
+Comanche,U.S. House,4,D,BLAKE CUMMINGS,10605
+Comanche,U.S. House,4,,DAVID E. JOYCE,1273
+Comanche,U.S. House,4,I,,30841
+Cotton,U.S. House,4,R,TOM COLE,1586
+Cotton,U.S. House,4,D,BLAKE CUMMINGS,614
+Cotton,U.S. House,4,,DAVID E. JOYCE,88
+Cotton,U.S. House,4,I,,2288
+Garvin,U.S. House,4,R,TOM COLE,6412
+Garvin,U.S. House,4,D,BLAKE CUMMINGS,3043
+Garvin,U.S. House,4,,DAVID E. JOYCE,499
+Garvin,U.S. House,4,I,,9954
+Grady,U.S. House,4,R,TOM COLE,13294
+Grady,U.S. House,4,D,BLAKE CUMMINGS,4898
+Grady,U.S. House,4,,DAVID E. JOYCE,993
+Grady,U.S. House,4,I,,19185
+Jefferson,U.S. House,4,R,TOM COLE,1393
+Jefferson,U.S. House,4,D,BLAKE CUMMINGS,744
+Jefferson,U.S. House,4,,DAVID E. JOYCE,77
+Jefferson,U.S. House,4,I,,2214
+Love,U.S. House,4,R,TOM COLE,2182
+Love,U.S. House,4,D,BLAKE CUMMINGS,1143
+Love,U.S. House,4,,DAVID E. JOYCE,111
+Love,U.S. House,4,I,,3436
+Mcclain,U.S. House,4,R,TOM COLE,9843
+Mcclain,U.S. House,4,D,BLAKE CUMMINGS,3038
+Mcclain,U.S. House,4,,DAVID E. JOYCE,600
+Mcclain,U.S. House,4,I,,13481
+Marshall,U.S. House,4,R,TOM COLE,3206
+Marshall,U.S. House,4,D,BLAKE CUMMINGS,1430
+Marshall,U.S. House,4,,DAVID E. JOYCE,198
+Marshall,U.S. House,4,I,,4834
+Murray,U.S. House,4,R,TOM COLE,3317
+Murray,U.S. House,4,D,BLAKE CUMMINGS,1432
+Murray,U.S. House,4,,DAVID E. JOYCE,213
+Murray,U.S. House,4,I,,4962
+Oklahoma,U.S. House,4,R,TOM COLE,15183
+Oklahoma,U.S. House,4,D,BLAKE CUMMINGS,7771
+Oklahoma,U.S. House,4,,DAVID E. JOYCE,1328
+Oklahoma,U.S. House,4,I,,24282
+Pontotoc,U.S. House,4,R,TOM COLE,8801
+Pontotoc,U.S. House,4,D,BLAKE CUMMINGS,3897
+Pontotoc,U.S. House,4,,DAVID E. JOYCE,576
+Pontotoc,U.S. House,4,I,,13274
+Stephens,U.S. House,4,R,TOM COLE,12640
+Stephens,U.S. House,4,D,BLAKE CUMMINGS,4281
+Stephens,U.S. House,4,,DAVID E. JOYCE,757
+Stephens,U.S. House,4,I,,17678
+Tillman,U.S. House,4,R,TOM COLE,1916
+Tillman,U.S. House,4,D,BLAKE CUMMINGS,830
+Tillman,U.S. House,4,,DAVID E. JOYCE,127
+Tillman,U.S. House,4,I,,2873
+Oklahoma,U.S. House,5,R,MARY FALLIN,148529
+Oklahoma,U.S. House,5,D,STEVEN L. PERRY,80500
+Pottawatomie,U.S. House,5,R,MARY FALLIN,17735
+Pottawatomie,U.S. House,5,D,STEVEN L. PERRY,6098
+Seminole,U.S. House,5,R,MARY FALLIN,5661
+Seminole,U.S. House,5,D,STEVEN L. PERRY,2398
