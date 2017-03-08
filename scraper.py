@@ -116,3 +116,4 @@ scrape('https://www.ok.gov/elections/documents/08ussen.pdf', 'U.S. Senate', "200
 scrape('https://www.ok.gov/elections/documents/08usrep.pdf', 'U.S. House', "2008/20081104__ok__general__us_house__county.csv")
 scrape('https://www.ok.gov/elections/documents/08ss.pdf', 'State Senate', "2008/20081104__ok__general__state_senate__county.csv")
 scrape('https://www.ok.gov/elections/documents/08sh.pdf', 'State House', "2008/20081104__ok__general__state_house__county.csv")
+scrape('https://www.ok.gov/elections/documents/08corp.pdf', 'Corporation Commissioner', "2008/20081104__ok__general__corp_commissioner__county.csv")
