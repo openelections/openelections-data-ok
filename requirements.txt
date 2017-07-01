@@ -4,3 +4,4 @@ pyparsing==2.1.10
 PyPDF2==1.26.0
 requests==2.13.0
 six==1.10.0
+pandas>=0.13
