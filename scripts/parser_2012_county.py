@@ -15,7 +15,7 @@ def parse_2012():
     df = df.rename(columns={'county_name': 'county',
                             'race_description': 'office',
                             'cand_absmail_votes': 'absentee',
-                            'cand_early_votes': 'early',
+                            'cand_early_votes': 'early_votes',
                             'cand_elecday_votes': 'election_day',
                             'cand_tot_votes': 'votes',
                             'cand_name': 'candidate',
