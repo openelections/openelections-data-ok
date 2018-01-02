@@ -1,0 +1,623 @@
+county,office,candidate,party,absentee,early,election_day,votes,district
+Adair,President,Barack Obama,DEM,200,151,1776,2127,
+Adair,President,Mitt Romney,REP,196,302,3883,4381,
+Adair,U.S. House,Rob Wallace,DEM,156,160,1696,2012,02
+Adair,U.S. House,Markwayne Mullin,REP,240,280,3779,4299,02
+Adair,U.S. House,Michael Fulks,IND,12,15,176,203,02
+Adair,State Senate,Jim Bynum,DEM,265,231,2837,3333,3
+Adair,State Senate,Wayne Shaw,REP,144,224,2786,3154,3
+Adair,State House,Will Fourkiller,DEM,331,344,4072,4747,86
+Adair,State House,Russell Don Turner,REP,83,111,1584,1778,86
+Alfalfa,President,Barack Obama,DEM,20,25,277,322,
+Alfalfa,President,Mitt Romney,REP,115,154,1492,1761,
+Alfalfa,U.S. House,Timothy Ray Murray,DEM,15,17,191,223,03
+Alfalfa,U.S. House,Frank Lucas,REP,116,151,1516,1783,03
+Alfalfa,U.S. House,William Sanders,IND,3,11,62,76,03
+Atoka,President,Barack Obama,DEM,48,261,934,1243,
+Atoka,President,Mitt Romney,REP,119,680,2739,3538,
+Atoka,U.S. House,Rob Wallace,DEM,50,367,1395,1812,02
+Atoka,U.S. House,Markwayne Mullin,REP,102,558,2097,2757,02
+Atoka,U.S. House,Michael Fulks,IND,5,15,154,174,02
+Atoka,State Senate,Jerry Ellis,DEM,8,52,543,603,5
+Atoka,State Senate,Howard Houchen,REP,13,33,339,385,5
+Atoka,State House,Doris Anne Row,DEM,39,182,710,931,22
+Atoka,State House,Charles Mccall,REP,80,460,1531,2071,22
+Beaver,President,Barack Obama,DEM,18,14,212,244,
+Beaver,President,Mitt Romney,REP,144,245,1673,2062,
+Beaver,U.S. House,Timothy Ray Murray,DEM,11,9,153,173,03
+Beaver,U.S. House,Frank Lucas,REP,147,240,1655,2042,03
+Beaver,U.S. House,William Sanders,IND,4,9,74,87,03
+Beaver,State Senate,A. Bryce Marlatt,REP,142,225,1595,1962,27
+Beaver,State Senate,Tommy Nicholson,IND,17,25,230,272,27
+Beckham,President,Barack Obama,DEM,44,147,1226,1417,
+Beckham,President,Mitt Romney,REP,200,610,4698,5508,
+Beckham,U.S. House,Timothy Ray Murray,DEM,33,113,816,962,03
+Beckham,U.S. House,Frank Lucas,REP,201,624,4894,5719,03
+Beckham,U.S. House,William Sanders,IND,7,20,208,235,03
+Blaine,President,Barack Obama,DEM,37,94,861,992,
+Blaine,President,Mitt Romney,REP,108,284,2432,2824,
+Blaine,U.S. House,Timothy Ray Murray,DEM,20,70,524,614,03
+Blaine,U.S. House,Frank Lucas,REP,113,279,2560,2952,03
+Blaine,U.S. House,William Sanders,IND,11,27,208,246,03
+Bryan,President,Barack Obama,DEM,79,344,3258,3681,
+Bryan,President,Mitt Romney,REP,257,1082,8181,9520,
+Bryan,U.S. House,Rob Wallace,DEM,90,425,4401,4916,02
+Bryan,U.S. House,Markwayne Mullin,REP,213,933,6385,7531,02
+Bryan,U.S. House,Michael Fulks,IND,13,55,541,609,02
+Bryan,State House,Jerry Tomlinson,DEM,98,455,3573,4126,21
+Bryan,State House,Dustin Roberts,REP,190,885,6243,7318,21
+Caddo,President,Barack Obama,DEM,69,271,2824,3164,
+Caddo,President,Mitt Romney,REP,218,400,5069,5687,
+Caddo,U.S. House,Timothy Ray Murray,DEM,60,221,2159,2440,03
+Caddo,U.S. House,Frank Lucas,REP,217,435,5416,6068,03
+Caddo,U.S. House,William Sanders,IND,7,17,299,323,03
+Caddo,State House,David Perryman,DEM,67,331,2234,2632,56
+Caddo,State House,Chuck Utsler,REP,73,235,1635,1943,56
+Caddo,State House,Kendra Menz-Kimble,DEM,32,25,1034,1091,60
+Caddo,State House,Dan Fisher,REP,54,22,1031,1107,60
+Canadian,President,Barack Obama,DEM,473,989,9075,10537,
+Canadian,President,Mitt Romney,REP,2036,2660,30929,35625,
+Canadian,U.S. House,Timothy Ray Murray,DEM,305,706,5778,6789,03
+Canadian,U.S. House,Frank Lucas,REP,1587,2314,25560,29461,03
+Canadian,U.S. House,William Sanders,IND,91,107,1673,1871,03
+Canadian,U.S. House,Donna Marie Bebo,DEM,68,82,1045,1195,04
+Canadian,U.S. House,Tom Cole,REP,381,401,5275,6057,04
+Canadian,U.S. House,Rj Harris,IND,28,18,372,418,04
+Canadian,State House,Leon Pivinski,DEM,147,215,2202,2564,47
+Canadian,State House,Leslie Kathryn Osborn,REP,671,793,8538,10002,47
+Canadian,State House,Kendra Menz-Kimble,DEM,136,425,3067,3628,60
+Canadian,State House,Dan Fisher,REP,291,655,5740,6686,60
+Carter,President,Barack Obama,DEM,193,559,4156,4908,
+Carter,President,Mitt Romney,REP,461,1209,10544,12214,
+Carter,U.S. House,Donna Marie Bebo,DEM,168,494,3693,4355,04
+Carter,U.S. House,Tom Cole,REP,457,1202,10394,12053,04
+Carter,U.S. House,Rj Harris,IND,16,56,556,628,04
+Carter,State House,Brian Spencer,DEM,144,398,2852,3394,48
+Carter,State House,Patrick Ownbey,REP,363,991,7593,8947,48
+Cherokee,President,Barack Obama,DEM,174,1230,4740,6144,
+Cherokee,President,Mitt Romney,REP,367,1480,6315,8162,
+Cherokee,U.S. House,Rob Wallace,DEM,167,1196,4665,6028,02
+Cherokee,U.S. House,Markwayne Mullin,REP,325,1392,5761,7478,02
+Cherokee,U.S. House,Michael Fulks,IND,35,131,633,799,02
+Cherokee,State Senate,Jim Bynum,DEM,63,370,1951,2384,3
+Cherokee,State Senate,Wayne Shaw,REP,99,262,1301,1662,3
+Cherokee,State Senate,Earl Garrison,DEM,108,1034,3074,4216,9
+Cherokee,State Senate,Barney Taylor,REP,126,633,2156,2915,9
+Cherokee,State House,Jerry Rains,DEM,19,38,610,667,14
+Cherokee,State House,Arthur Hulbert,REP,63,58,738,859,14
+Cherokee,State House,Will Fourkiller,DEM,33,173,836,1042,86
+Cherokee,State House,Russell Don Turner,REP,28,114,418,560,86
+Choctaw,President,Barack Obama,DEM,35,186,1273,1494,
+Choctaw,President,Mitt Romney,REP,106,589,2877,3572,
+Choctaw,U.S. House,Rob Wallace,DEM,46,253,1796,2095,02
+Choctaw,U.S. House,Markwayne Mullin,REP,78,484,2158,2720,02
+Choctaw,U.S. House,Michael Fulks,IND,10,31,148,189,02
+Choctaw,State Senate,Jerry Ellis,DEM,57,366,2405,2828,5
+Choctaw,State Senate,Howard Houchen,REP,78,407,1715,2200,5
+Cimarron,President,Barack Obama,DEM,6,26,83,115,
+Cimarron,President,Mitt Romney,REP,93,292,697,1082,
+Cimarron,U.S. House,Timothy Ray Murray,DEM,7,18,67,92,03
+Cimarron,U.S. House,Frank Lucas,REP,88,284,669,1041,03
+Cimarron,U.S. House,William Sanders,IND,2,9,42,53,03
+Cimarron,State Senate,A. Bryce Marlatt,REP,85,246,625,956,27
+Cimarron,State Senate,Tommy Nicholson,IND,9,58,121,188,27
+Cleveland,President,Barack Obama,DEM,1807,2875,30089,34771,
+Cleveland,President,Mitt Romney,REP,3654,3224,52238,59116,
+Cleveland,U.S. House,Donna Marie Bebo,DEM,1529,2541,24499,28569,04
+Cleveland,U.S. House,Tom Cole,REP,3643,3279,53093,60015,04
+Cleveland,U.S. House,Rj Harris,IND,216,247,4289,4752,04
+Cleveland,State Senate,Claudia Griffith,DEM,572,983,8747,10302,15
+Cleveland,State Senate,Rob Standridge,REP,1043,1105,15194,17342,15
+Cleveland,State House,Matt Branstetter,DEM,71,69,1780,1920,20
+Cleveland,State House,Bobby Cleveland,REP,139,89,2920,3148,20
+Cleveland,State House,Randy Gilbert,DEM,89,99,1709,1897,27
+Cleveland,State House,Josh Cockroft,REP,268,174,3894,4336,27
+Cleveland,State House,Paula Roberts,DEM,349,753,5685,6787,45
+Cleveland,State House,Aaron Stiles,REP,393,553,5857,6803,45
+Coal,President,Barack Obama,DEM,21,108,520,649,
+Coal,President,Mitt Romney,REP,52,312,1346,1710,
+Coal,U.S. House,Rob Wallace,DEM,26,165,840,1031,02
+Coal,U.S. House,Markwayne Mullin,REP,39,235,945,1219,02
+Coal,U.S. House,Michael Fulks,IND,3,14,64,81,02
+Comanche,President,Barack Obama,DEM,575,2069,9877,12521,
+Comanche,President,Mitt Romney,REP,915,1808,14941,17664,
+Comanche,U.S. House,Donna Marie Bebo,DEM,468,1870,8307,10645,04
+Comanche,U.S. House,Tom Cole,REP,903,1874,15398,18175,04
+Comanche,U.S. House,Rj Harris,IND,77,103,1036,1216,04
+Comanche,State Senate,Tony Terrill,DEM,193,732,3610,4535,31
+Comanche,State Senate,Don Barrington,REP,324,704,6354,7382,31
+Cotton,President,Barack Obama,DEM,25,94,538,657,
+Cotton,President,Mitt Romney,REP,63,290,1443,1796,
+Cotton,U.S. House,Donna Marie Bebo,DEM,21,74,453,548,04
+Cotton,U.S. House,Tom Cole,REP,60,295,1407,1762,04
+Cotton,U.S. House,Rj Harris,IND,5,11,103,119,04
+Cotton,State Senate,Tony Terrill,DEM,21,72,466,559,31
+Cotton,State Senate,Don Barrington,REP,65,308,1506,1879,31
+Craig,President,Barack Obama,DEM,52,117,1578,1747,
+Craig,President,Mitt Romney,REP,127,276,3156,3559,
+Craig,U.S. House,Rob Wallace,DEM,52,114,1642,1808,02
+Craig,U.S. House,Markwayne Mullin,REP,115,265,2889,3269,02
+Craig,U.S. House,Michael Fulks,IND,4,12,200,216,02
+Creek,President,Barack Obama,DEM,236,910,5982,7128,
+Creek,President,Mitt Romney,REP,630,2229,16127,18986,
+Creek,U.S. House,John Olson,DEM,8,58,520,586,01
+Creek,U.S. House,Jim Bridenstine,REP,48,230,1646,1924,01
+Creek,U.S. House,Craig Allen,IND,3,9,116,128,01
+Creek,U.S. House,Timothy Ray Murray,DEM,196,711,4599,5506,03
+Creek,U.S. House,Frank Lucas,REP,551,1954,13852,16357,03
+Creek,U.S. House,William Sanders,IND,37,134,1163,1334,03
+Creek,State House,David Narcomey,DEM,91,281,2420,2792,29
+Creek,State House,Skye Mcniel,REP,265,829,8155,9249,29
+Custer,President,Barack Obama,DEM,90,270,1999,2359,
+Custer,President,Mitt Romney,REP,291,790,6365,7446,
+Custer,U.S. House,Timothy Ray Murray,DEM,70,200,1271,1541,03
+Custer,U.S. House,Frank Lucas,REP,294,822,6784,7900,03
+Custer,U.S. House,William Sanders,IND,9,35,307,351,03
+Delaware,President,Barack Obama,DEM,225,346,3625,4196,
+Delaware,President,Mitt Romney,REP,650,814,8616,10080,
+Delaware,U.S. House,Rob Wallace,DEM,226,371,3892,4489,02
+Delaware,U.S. House,Markwayne Mullin,REP,604,752,7753,9109,02
+Delaware,U.S. House,Michael Fulks,IND,42,30,495,567,02
+Delaware,State Senate,Jim Bynum,DEM,211,226,2890,3327,3
+Delaware,State Senate,Wayne Shaw,REP,346,406,4620,5372,3
+Delaware,State House,Will Fourkiller,DEM,76,49,1452,1577,86
+Delaware,State House,Russell Don Turner,REP,69,44,895,1008,86
+Dewey,President,Barack Obama,DEM,16,12,273,301,
+Dewey,President,Mitt Romney,REP,105,137,1550,1792,
+Dewey,U.S. House,Timothy Ray Murray,DEM,7,9,160,176,03
+Dewey,U.S. House,Frank Lucas,REP,111,134,1574,1819,03
+Dewey,U.S. House,William Sanders,IND,3,7,83,93,03
+Dewey,State Senate,A. Bryce Marlatt,REP,88,127,1420,1635,27
+Dewey,State Senate,Tommy Nicholson,IND,28,22,329,379,27
+Ellis,President,Barack Obama,DEM,14,24,188,226,
+Ellis,President,Mitt Romney,REP,66,184,1325,1575,
+Ellis,U.S. House,Timothy Ray Murray,DEM,12,21,115,148,03
+Ellis,U.S. House,Frank Lucas,REP,65,179,1338,1582,03
+Ellis,U.S. House,William Sanders,IND,3,11,64,78,03
+Ellis,State Senate,A. Bryce Marlatt,REP,66,185,1267,1518,27
+Ellis,State Senate,Tommy Nicholson,IND,13,22,218,253,27
+Garfield,President,Barack Obama,DEM,200,716,3817,4733,
+Garfield,President,Mitt Romney,REP,778,2010,12389,15177,
+Garfield,U.S. House,Timothy Ray Murray,DEM,151,506,2644,3301,03
+Garfield,U.S. House,Frank Lucas,REP,768,2088,12784,15640,03
+Garfield,U.S. House,William Sanders,IND,34,118,721,873,03
+Garvin,President,Barack Obama,DEM,91,276,2192,2559,
+Garvin,President,Mitt Romney,REP,235,787,5903,6925,
+Garvin,U.S. House,Donna Marie Bebo,DEM,83,260,1944,2287,04
+Garvin,U.S. House,Tom Cole,REP,227,770,5816,6813,04
+Garvin,U.S. House,Rj Harris,IND,13,28,314,355,04
+Garvin,State Senate,Susan Paddack,DEM,181,691,4836,5708,13
+Garvin,State Senate,Fred Smith,REP,89,329,1769,2187,13
+Garvin,State Senate,Mike Fullerton,DEM,9,7,407,423,43
+Garvin,State Senate,Corey Brooks,REP,36,28,1007,1071,43
+Garvin,State House,Matt Branstetter,DEM,31,103,480,614,20
+Garvin,State House,Bobby Cleveland,REP,63,171,680,914,20
+Garvin,State House,Doris Anne Row,DEM,18,33,759,810,22
+Garvin,State House,Charles Mccall,REP,24,60,708,792,22
+Garvin,State House,Steven Vines,DEM,38,149,1115,1302,42
+Garvin,State House,Lisa Billy,REP,132,515,4039,4686,42
+Garvin,State House,Brian Spencer,DEM,4,3,104,111,48
+Garvin,State House,Patrick Ownbey,REP,5,17,152,174,48
+Grady,President,Barack Obama,DEM,224,489,4073,4786,
+Grady,President,Mitt Romney,REP,722,1237,12874,14833,
+Grady,U.S. House,Donna Marie Bebo,DEM,187,438,3415,4040,04
+Grady,U.S. House,Tom Cole,REP,711,1232,12742,14685,04
+Grady,U.S. House,Rj Harris,IND,37,55,708,800,04
+Grady,State Senate,Mike Fullerton,DEM,14,22,505,541,43
+Grady,State Senate,Corey Brooks,REP,54,41,905,1000,43
+Grady,State House,Leon Pivinski,DEM,31,37,526,594,47
+Grady,State House,Leslie Kathryn Osborn,REP,137,105,2071,2313,47
+Grady,State House,Stewart Meyer,DEM,127,261,2896,3284,51
+Grady,State House,Scott Biggs,REP,312,458,4769,5539,51
+Grady,State House,David Perryman,DEM,128,412,2459,2999,56
+Grady,State House,Chuck Utsler,REP,156,400,3088,3644,56
+Grant,President,Barack Obama,DEM,20,26,347,393,
+Grant,President,Mitt Romney,REP,84,117,1474,1675,
+Grant,U.S. House,Timothy Ray Murray,DEM,12,18,220,250,03
+Grant,U.S. House,Frank Lucas,REP,82,117,1545,1744,03
+Grant,U.S. House,William Sanders,IND,11,8,54,73,03
+Greer,President,Barack Obama,DEM,13,58,417,488,
+Greer,President,Mitt Romney,REP,57,188,1099,1344,
+Greer,U.S. House,Timothy Ray Murray,DEM,10,47,303,360,03
+Greer,U.S. House,Frank Lucas,REP,61,187,1158,1406,03
+Greer,U.S. House,William Sanders,IND,0,9,52,61,03
+Harmon,President,Barack Obama,DEM,5,36,223,264,
+Harmon,President,Mitt Romney,REP,35,99,525,659,
+Harmon,U.S. House,Timothy Ray Murray,DEM,5,28,162,195,03
+Harmon,U.S. House,Frank Lucas,REP,32,100,566,698,03
+Harmon,U.S. House,William Sanders,IND,3,4,12,19,03
+Harper,President,Barack Obama,DEM,11,17,145,173,
+Harper,President,Mitt Romney,REP,43,108,1110,1261,
+Harper,U.S. House,Timothy Ray Murray,DEM,7,12,88,107,03
+Harper,U.S. House,Frank Lucas,REP,43,108,1131,1282,03
+Harper,U.S. House,William Sanders,IND,1,5,30,36,03
+Harper,State Senate,A. Bryce Marlatt,REP,46,96,1059,1201,27
+Harper,State Senate,Tommy Nicholson,IND,5,26,164,195,27
+Haskell,President,Barack Obama,DEM,63,138,974,1175,
+Haskell,President,Mitt Romney,REP,111,353,2605,3069,
+Haskell,U.S. House,Rob Wallace,DEM,69,177,1385,1631,02
+Haskell,U.S. House,Markwayne Mullin,REP,102,294,2070,2466,02
+Haskell,U.S. House,Michael Fulks,IND,2,13,118,133,02
+Haskell,State Senate,J. Paul Lane,DEM,77,186,1384,1647,7
+Haskell,State Senate,Larry Boggs,REP,101,298,2175,2574,7
+Hughes,President,Barack Obama,DEM,38,111,1221,1370,
+Hughes,President,Mitt Romney,REP,118,246,2474,2838,
+Hughes,U.S. House,Rob Wallace,DEM,52,160,1641,1853,02
+Hughes,U.S. House,Markwayne Mullin,REP,87,179,1858,2124,02
+Hughes,U.S. House,Michael Fulks,IND,14,10,145,169,02
+Hughes,State Senate,J. Paul Lane,DEM,21,42,889,952,7
+Hughes,State Senate,Larry Boggs,REP,48,76,1129,1253,7
+Hughes,State Senate,Susan Paddack,DEM,52,177,1262,1491,13
+Hughes,State Senate,Fred Smith,REP,35,54,383,472,13
+Jackson,President,Barack Obama,DEM,95,320,1539,1954,
+Jackson,President,Mitt Romney,REP,266,1071,4628,5965,
+Jackson,U.S. House,Timothy Ray Murray,DEM,78,267,1244,1589,03
+Jackson,U.S. House,Frank Lucas,REP,262,1081,4640,5983,03
+Jackson,U.S. House,William Sanders,IND,12,38,233,283,03
+Jefferson,President,Barack Obama,DEM,25,89,491,605,
+Jefferson,President,Mitt Romney,REP,59,227,1348,1634,
+Jefferson,U.S. House,Donna Marie Bebo,DEM,16,75,470,561,04
+Jefferson,U.S. House,Tom Cole,REP,64,224,1271,1559,04
+Jefferson,U.S. House,Rj Harris,IND,4,13,60,77,04
+Jefferson,State Senate,Tony Terrill,DEM,15,66,525,606,31
+Jefferson,State Senate,Don Barrington,REP,68,250,1295,1613,31
+Johnston,President,Barack Obama,DEM,21,146,970,1137,
+Johnston,President,Mitt Romney,REP,78,389,2182,2649,
+Johnston,U.S. House,Rob Wallace,DEM,27,205,1441,1673,02
+Johnston,U.S. House,Markwayne Mullin,REP,69,308,1524,1901,02
+Johnston,U.S. House,Michael Fulks,IND,1,21,142,164,02
+Johnston,State House,Doris Anne Row,DEM,31,260,1524,1815,22
+Johnston,State House,Charles Mccall,REP,68,276,1626,1970,22
+Kay,President,Barack Obama,DEM,167,265,4195,4627,
+Kay,President,Mitt Romney,REP,503,818,10178,11499,
+Kay,U.S. House,Timothy Ray Murray,DEM,116,212,3180,3508,03
+Kay,U.S. House,Frank Lucas,REP,515,828,10330,11673,03
+Kay,U.S. House,William Sanders,IND,33,35,762,830,03
+Kay,State House,Nancy Niemann,DEM,151,244,3660,4055,37
+Kay,State House,Steven Vaughan,REP,329,459,5408,6196,37
+Kingfisher,President,Barack Obama,DEM,30,101,767,898,
+Kingfisher,President,Mitt Romney,REP,170,650,4050,4870,
+Kingfisher,U.S. House,Timothy Ray Murray,DEM,22,67,452,541,03
+Kingfisher,U.S. House,Frank Lucas,REP,166,656,4105,4927,03
+Kingfisher,U.S. House,William Sanders,IND,11,27,245,283,03
+Kiowa,President,Barack Obama,DEM,36,122,948,1106,
+Kiowa,President,Mitt Romney,REP,96,250,1970,2316,
+Kiowa,U.S. House,Timothy Ray Murray,DEM,29,73,601,703,03
+Kiowa,U.S. House,Frank Lucas,REP,97,293,2234,2624,03
+Kiowa,U.S. House,William Sanders,IND,6,5,75,86,03
+Kiowa,State House,David Perryman,DEM,16,23,428,467,56
+Kiowa,State House,Chuck Utsler,REP,14,23,342,379,56
+Latimer,President,Barack Obama,DEM,48,173,949,1170,
+Latimer,President,Mitt Romney,REP,107,275,2246,2628,
+Latimer,U.S. House,Rob Wallace,DEM,67,226,1450,1743,02
+Latimer,U.S. House,Markwayne Mullin,REP,79,207,1587,1873,02
+Latimer,U.S. House,Michael Fulks,IND,3,13,161,177,02
+Latimer,State Senate,J. Paul Lane,DEM,64,225,1439,1728,7
+Latimer,State Senate,Larry Boggs,REP,85,224,1761,2070,7
+Leflore,President,Barack Obama,DEM,151,427,4084,4662,
+Leflore,President,Mitt Romney,REP,353,1275,9549,11177,
+Leflore,U.S. House,Rob Wallace,DEM,210,694,6233,7137,02
+Leflore,U.S. House,Markwayne Mullin,REP,265,917,6628,7810,02
+Leflore,U.S. House,Michael Fulks,IND,19,74,703,796,02
+Leflore,State Senate,Jerry Ellis,DEM,72,116,2033,2221,5
+Leflore,State Senate,Howard Houchen,REP,65,118,1391,1574,5
+Leflore,State House,James Lockhart,DEM,210,756,6050,7016,3
+Leflore,State House,Roger Mattox,REP,161,673,3883,4717,3
+Lincoln,President,Barack Obama,DEM,99,300,2874,3273,
+Lincoln,President,Mitt Romney,REP,336,884,8333,9553,
+Lincoln,U.S. House,Timothy Ray Murray,DEM,84,205,2299,2588,03
+Lincoln,U.S. House,Frank Lucas,REP,321,924,8255,9500,03
+Lincoln,U.S. House,William Sanders,IND,21,51,578,650,03
+Lincoln,State House,Keith Kinnamon,DEM,171,509,4508,5188,32
+Lincoln,State House,Jason Smalley,REP,259,675,6672,7606,32
+Logan,President,Barack Obama,DEM,249,736,3739,4724,
+Logan,President,Mitt Romney,REP,608,1586,10120,12314,
+Logan,U.S. House,Timothy Ray Murray,DEM,195,628,3023,3846,03
+Logan,U.S. House,Frank Lucas,REP,609,1586,10080,12275,03
+Logan,U.S. House,William Sanders,IND,39,85,664,788,03
+Logan,State House,Keith Kinnamon,DEM,12,47,649,708,32
+Logan,State House,Jason Smalley,REP,18,18,182,218,32
+Love,President,Barack Obama,DEM,28,106,900,1034,
+Love,President,Mitt Romney,REP,59,317,2060,2436,
+Love,U.S. House,Donna Marie Bebo,DEM,29,95,813,937,04
+Love,U.S. House,Tom Cole,REP,54,311,2016,2381,04
+Love,U.S. House,Rj Harris,IND,5,12,117,134,04
+Major,President,Barack Obama,DEM,34,82,330,446,
+Major,President,Mitt Romney,REP,127,369,2204,2700,
+Major,U.S. House,Timothy Ray Murray,DEM,17,44,208,269,03
+Major,U.S. House,Frank Lucas,REP,133,379,2218,2730,03
+Major,U.S. House,William Sanders,IND,8,27,112,147,03
+Major,State Senate,A. Bryce Marlatt,REP,126,382,2158,2666,27
+Major,State Senate,Tommy Nicholson,IND,24,63,330,417,27
+Marshall,President,Barack Obama,DEM,43,185,1168,1396,
+Marshall,President,Mitt Romney,REP,220,640,2884,3744,
+Marshall,U.S. House,Rob Wallace,DEM,37,257,1485,1779,02
+Marshall,U.S. House,Markwayne Mullin,REP,204,535,2323,3062,02
+Marshall,U.S. House,Michael Fulks,IND,15,30,195,240,02
+Mayes,President,Barack Obama,DEM,146,467,4210,4823,
+Mayes,President,Mitt Romney,REP,287,974,8376,9637,
+Mayes,U.S. House,Rob Wallace,DEM,130,463,4261,4854,02
+Mayes,U.S. House,Markwayne Mullin,REP,283,943,7795,9021,02
+Mayes,U.S. House,Michael Fulks,IND,19,38,518,575,02
+Mayes,State Senate,Jim Bynum,DEM,25,54,1318,1397,3
+Mayes,State Senate,Wayne Shaw,REP,58,135,1676,1869,3
+Murray,President,Barack Obama,DEM,63,227,1250,1540,
+Murray,President,Mitt Romney,REP,117,471,3018,3606,
+Murray,U.S. House,Donna Marie Bebo,DEM,48,183,1038,1269,04
+Murray,U.S. House,Tom Cole,REP,118,494,3056,3668,04
+Murray,U.S. House,Rj Harris,IND,7,19,151,177,04
+Murray,State House,Doris Anne Row,DEM,110,425,2401,2936,22
+Murray,State House,Charles Mccall,REP,58,235,1601,1894,22
+Murray,State House,Brian Spencer,DEM,5,12,104,121,48
+Murray,State House,Patrick Ownbey,REP,0,25,160,185,48
+Muskogee,President,Barack Obama,DEM,301,1543,8108,9952,
+Muskogee,President,Mitt Romney,REP,452,1697,11255,13404,
+Muskogee,U.S. House,Rob Wallace,DEM,310,1635,8730,10675,02
+Muskogee,U.S. House,Markwayne Mullin,REP,402,1469,9660,11531,02
+Muskogee,U.S. House,Michael Fulks,IND,32,134,930,1096,02
+Muskogee,State Senate,Earl Garrison,DEM,378,2139,10458,12975,9
+Muskogee,State Senate,Barney Taylor,REP,175,680,3706,4561,9
+Muskogee,State House,Jerry Rains,DEM,164,751,4082,4997,14
+Muskogee,State House,Arthur Hulbert,REP,208,936,4883,6027,14
+Muskogee,State House,Jerry Shoemake,DEM,28,42,773,843,16
+Muskogee,State House,James Delso,REP,23,19,473,515,16
+Mcclain,President,Barack Obama,DEM,155,273,2766,3194,
+Mcclain,President,Mitt Romney,REP,588,923,9601,11112,
+Mcclain,U.S. House,Donna Marie Bebo,DEM,135,239,2273,2647,04
+Mcclain,U.S. House,Tom Cole,REP,571,922,9483,10976,04
+Mcclain,U.S. House,Rj Harris,IND,30,30,568,628,04
+Mcclain,State Senate,Mike Fullerton,DEM,167,305,3335,3807,43
+Mcclain,State Senate,Corey Brooks,REP,560,875,8866,10301,43
+Mcclain,State House,Matt Branstetter,DEM,73,105,1448,1626,20
+Mcclain,State House,Bobby Cleveland,REP,243,276,3729,4248,20
+Mcclain,State House,Steven Vines,DEM,85,133,1197,1415,42
+Mcclain,State House,Lisa Billy,REP,285,625,5113,6023,42
+Mcclain,State House,Stewart Meyer,DEM,8,15,191,214,51
+Mcclain,State House,Scott Biggs,REP,36,30,543,609,51
+Mccurtain,President,Barack Obama,DEM,78,210,2152,2440,
+Mccurtain,President,Mitt Romney,REP,228,632,6775,7635,
+Mccurtain,U.S. House,Rob Wallace,DEM,106,330,3446,3882,02
+Mccurtain,U.S. House,Markwayne Mullin,REP,180,481,5069,5730,02
+Mccurtain,U.S. House,Michael Fulks,IND,13,16,260,289,02
+Mccurtain,State Senate,Jerry Ellis,DEM,188,599,6748,7535,5
+Mccurtain,State Senate,Howard Houchen,REP,113,231,2130,2474,5
+Mcintosh,President,Barack Obama,DEM,100,216,2463,2779,
+Mcintosh,President,Mitt Romney,REP,165,348,3996,4509,
+Mcintosh,U.S. House,Rob Wallace,DEM,110,227,2806,3143,02
+Mcintosh,U.S. House,Markwayne Mullin,REP,141,320,3369,3830,02
+Mcintosh,U.S. House,Michael Fulks,IND,10,17,273,300,02
+Noble,President,Barack Obama,DEM,33,200,910,1143,
+Noble,President,Mitt Romney,REP,146,723,2619,3488,
+Noble,U.S. House,Timothy Ray Murray,DEM,24,135,608,767,03
+Noble,U.S. House,Frank Lucas,REP,148,756,2712,3616,03
+Noble,U.S. House,William Sanders,IND,5,23,201,229,03
+Nowata,President,Barack Obama,DEM,37,156,1051,1244,
+Nowata,President,Mitt Romney,REP,112,331,2389,2832,
+Nowata,U.S. House,Rob Wallace,DEM,34,149,1115,1298,02
+Nowata,U.S. House,Markwayne Mullin,REP,110,323,2187,2620,02
+Nowata,U.S. House,Michael Fulks,IND,4,12,122,138,02
+Okfuskee,President,Barack Obama,DEM,52,103,1101,1256,
+Okfuskee,President,Mitt Romney,REP,83,275,1977,2335,
+Okfuskee,U.S. House,Rob Wallace,DEM,58,124,1278,1460,02
+Okfuskee,U.S. House,Markwayne Mullin,REP,75,247,1644,1966,02
+Okfuskee,U.S. House,Michael Fulks,IND,3,12,126,141,02
+Okfuskee,State Senate,J. Paul Lane,DEM,15,19,214,248,7
+Okfuskee,State Senate,Larry Boggs,REP,13,51,248,312,7
+Oklahoma,President,Barack Obama,DEM,5297,9711,91974,106982,
+Oklahoma,President,Mitt Romney,REP,10930,4153,134645,149728,
+Oklahoma,U.S. House,Donna Marie Bebo,DEM,388,595,6582,7565,04
+Oklahoma,U.S. House,Tom Cole,REP,844,297,13580,14721,04
+Oklahoma,U.S. House,Rj Harris,IND,46,32,1094,1172,04
+Oklahoma,U.S. House,Tom Guild,DEM,4289,8569,75551,88409,05
+Oklahoma,U.S. House,James Lankford,REP,9963,3966,119167,133096,05
+Oklahoma,U.S. House,Pat Martin,IND,175,178,4455,4808,05
+Oklahoma,U.S. House,Robert Murphy,IND,200,142,4288,4630,05
+Oklahoma,State Senate,Claudia Griffith,DEM,54,166,1219,1439,15
+Oklahoma,State Senate,Rob Standridge,REP,92,30,1325,1447,15
+Oklahoma,State Senate,Clark Jolley,REP,2295,1026,24096,27417,41
+Oklahoma,State Senate,Richard Prawdzienski,IND,437,404,6271,7112,41
+Oklahoma,State House,Ed Holzberger,DEM,360,661,4884,5905,83
+Oklahoma,State House,Randy Mcdaniel,REP,1085,409,9500,10994,83
+Oklahoma,State House,Nick Singer,DEM,243,357,5092,5692,87
+Oklahoma,State House,Jason Nelson,REP,461,174,6417,7052,87
+Oklahoma,State House,Kay Floyd,DEM,266,419,6786,7471,88
+Oklahoma,State House,Aaron Kaspereit,REP,181,112,3044,3337,88
+Oklahoma,State House,Anastasia Pittman,DEM,408,1841,8392,10641,99
+Oklahoma,State House,Willard Linzy,REP,123,157,1824,2104,99
+Oklahoma,State House,Stephen Covert,DEM,242,287,4593,5122,10
+Oklahoma,State House,Gary Banz,REP,575,181,9921,10677,10
+Okmulgee,President,Barack Obama,DEM,133,558,4741,5432,
+Okmulgee,President,Mitt Romney,REP,230,621,6880,7731,
+Okmulgee,U.S. House,Rob Wallace,DEM,131,563,4910,5604,02
+Okmulgee,U.S. House,Markwayne Mullin,REP,204,575,6262,7041,02
+Okmulgee,U.S. House,Michael Fulks,IND,17,35,431,483,02
+Okmulgee,State House,Jerry Shoemake,DEM,122,607,5049,5778,16
+Okmulgee,State House,James Delso,REP,99,246,2185,2530,16
+Osage,President,Barack Obama,DEM,387,302,6015,6704,
+Osage,President,Mitt Romney,REP,565,435,10242,11242,
+Osage,U.S. House,Timothy Ray Murray,DEM,352,250,5379,5981,03
+Osage,U.S. House,Frank Lucas,REP,530,436,9788,10754,03
+Osage,U.S. House,William Sanders,IND,55,36,897,988,03
+Osage,State Senate,Jabar Shumate,DEM,165,100,2202,2467,11
+Osage,State Senate,Dave Bell,REP,35,7,334,376,11
+Osage,State Senate,Curtis Mullins,IND,10,4,98,112,11
+Osage,State House,Jim Massey,DEM,173,129,3392,3694,36
+Osage,State House,Sean Roberts,REP,309,189,6111,6609,36
+Osage,State House,Nancy Niemann,DEM,60,112,1098,1270,37
+Osage,State House,Steven Vaughan,REP,88,146,1280,1514,37
+Osage,State House,David Iii,DEM,18,2,129,149,66
+Osage,State House,Jadine Nollan,REP,37,7,460,504,66
+Ottawa,President,Barack Obama,DEM,105,288,3116,3509,
+Ottawa,President,Mitt Romney,REP,238,528,5700,6466,
+Ottawa,U.S. House,Rob Wallace,DEM,111,322,3485,3918,02
+Ottawa,U.S. House,Markwayne Mullin,REP,200,458,4786,5444,02
+Ottawa,U.S. House,Michael Fulks,IND,19,32,432,483,02
+Pawnee,President,Barack Obama,DEM,84,172,1557,1813,
+Pawnee,President,Mitt Romney,REP,157,325,3750,4232,
+Pawnee,U.S. House,Timothy Ray Murray,DEM,70,127,1280,1477,03
+Pawnee,U.S. House,Frank Lucas,REP,151,349,3705,4205,03
+Pawnee,U.S. House,William Sanders,IND,16,18,296,330,03
+Payne,President,Barack Obama,DEM,381,1604,7213,9198,
+Payne,President,Mitt Romney,REP,672,2261,13548,16481,
+Payne,U.S. House,Timothy Ray Murray,DEM,293,1232,5341,6866,03
+Payne,U.S. House,Frank Lucas,REP,673,2447,13989,17109,03
+Payne,U.S. House,William Sanders,IND,51,153,1267,1471,03
+Pittsburg,President,Barack Obama,DEM,199,458,4174,4831,
+Pittsburg,President,Mitt Romney,REP,400,991,9450,10841,
+Pittsburg,U.S. House,Rob Wallace,DEM,219,599,5713,6531,02
+Pittsburg,U.S. House,Markwayne Mullin,REP,344,790,7185,8319,02
+Pittsburg,U.S. House,Michael Fulks,IND,29,61,643,733,02
+Pittsburg,State Senate,J. Paul Lane,DEM,265,736,6602,7603,7
+Pittsburg,State Senate,Larry Boggs,REP,312,706,6983,8001,7
+Pontotoc,President,Barack Obama,DEM,136,542,3269,3947,
+Pontotoc,President,Mitt Romney,REP,278,1251,7416,8945,
+Pontotoc,U.S. House,Donna Marie Bebo,DEM,117,431,2597,3145,04
+Pontotoc,U.S. House,Tom Cole,REP,275,1306,7639,9220,04
+Pontotoc,U.S. House,Rj Harris,IND,16,56,443,515,04
+Pontotoc,State Senate,Susan Paddack,DEM,305,1477,8767,10549,13
+Pontotoc,State Senate,Fred Smith,REP,98,301,1909,2308,13
+Pottawatomie,President,Barack Obama,DEM,280,823,6085,7188,
+Pottawatomie,President,Mitt Romney,REP,617,1780,13853,16250,
+Pottawatomie,U.S. House,Tom Guild,DEM,243,765,5642,6650,05
+Pottawatomie,U.S. House,James Lankford,REP,599,1773,13410,15782,05
+Pottawatomie,U.S. House,Pat Martin,IND,17,25,409,451,05
+Pottawatomie,U.S. House,Robert Murphy,IND,17,33,368,418,05
+Pottawatomie,State Senate,Susan Paddack,DEM,36,30,976,1042,13
+Pottawatomie,State Senate,Fred Smith,REP,46,32,759,837,13
+Pottawatomie,State House,Matt Branstetter,DEM,3,1,111,115,20
+Pottawatomie,State House,Bobby Cleveland,REP,9,2,144,155,20
+Pottawatomie,State House,Patty Sue Wagstaff,DEM,210,693,3949,4852,26
+Pottawatomie,State House,Justin Freeland Wood,REP,284,1027,6146,7457,26
+Pottawatomie,State House,Randy Gilbert,DEM,85,221,2763,3069,27
+Pottawatomie,State House,Josh Cockroft,REP,134,370,3232,3736,27
+Pottawatomie,State House,Marilyn Rainwater,DEM,27,88,999,1114,28
+Pottawatomie,State House,Tom Newell,REP,113,189,2457,2759,28
+Pushmataha,President,Barack Obama,DEM,36,123,884,1043,
+Pushmataha,President,Mitt Romney,REP,91,337,2659,3087,
+Pushmataha,U.S. House,Rob Wallace,DEM,44,171,1488,1703,02
+Pushmataha,U.S. House,Markwayne Mullin,REP,69,265,1869,2203,02
+Pushmataha,U.S. House,Michael Fulks,IND,9,16,150,175,02
+Pushmataha,State Senate,Jerry Ellis,DEM,64,285,2384,2733,5
+Pushmataha,State Senate,Howard Houchen,REP,61,165,1151,1377,5
+Roger Mills,President,Barack Obama,DEM,9,33,230,272,
+Roger Mills,President,Mitt Romney,REP,63,178,1161,1402,
+Roger Mills,U.S. House,Timothy Ray Murray,DEM,7,21,145,173,03
+Roger Mills,U.S. House,Frank Lucas,REP,64,187,1206,1457,03
+Roger Mills,U.S. House,William Sanders,IND,2,3,39,44,03
+Rogers,President,Barack Obama,DEM,368,1151,7629,9148,
+Rogers,President,Mitt Romney,REP,1247,3330,22976,27553,
+Rogers,U.S. House,John Olson,DEM,81,113,1324,1518,01
+Rogers,U.S. House,Jim Bridenstine,REP,286,408,4348,5042,01
+Rogers,U.S. House,Craig Allen,IND,19,12,294,325,01
+Rogers,U.S. House,Rob Wallace,DEM,288,1055,6363,7706,02
+Rogers,U.S. House,Markwayne Mullin,REP,866,2720,17037,20623,02
+Rogers,U.S. House,Michael Fulks,IND,49,147,1158,1354,02
+Rogers,State Senate,Jim Bynum,DEM,29,53,779,861,3
+Rogers,State Senate,Wayne Shaw,REP,50,104,1202,1356,3
+Rogers,State House,Shawna Keller,DEM,23,43,881,947,23
+Rogers,State House,Terry O'Donnell,REP,110,174,2235,2519,23
+Seminole,President,Barack Obama,DEM,72,258,2270,2600,
+Seminole,President,Mitt Romney,REP,188,390,4278,4856,
+Seminole,U.S. House,Tom Guild,DEM,66,243,2136,2445,05
+Seminole,U.S. House,James Lankford,REP,175,379,4171,4725,05
+Seminole,U.S. House,Pat Martin,IND,3,10,122,135,05
+Seminole,U.S. House,Robert Murphy,IND,6,7,115,128,05
+Seminole,State Senate,Susan Paddack,DEM,26,46,980,1052,13
+Seminole,State Senate,Fred Smith,REP,20,39,456,515,13
+Seminole,State House,Marilyn Rainwater,DEM,80,293,2715,3088,28
+Seminole,State House,Tom Newell,REP,167,347,3824,4338,28
+Sequoyah,President,Barack Obama,DEM,137,418,3638,4193,
+Sequoyah,President,Mitt Romney,REP,325,1149,8104,9578,
+Sequoyah,U.S. House,Rob Wallace,DEM,179,579,4542,5300,02
+Sequoyah,U.S. House,Markwayne Mullin,REP,276,912,6567,7755,02
+Sequoyah,U.S. House,Michael Fulks,IND,18,61,467,546,02
+Sequoyah,State House,Rick Agent,DEM,178,650,4609,5437,2
+Sequoyah,State House,John Bennett,REP,217,790,5309,6316,2
+Stephens,President,Barack Obama,DEM,140,378,3421,3939,
+Stephens,President,Mitt Romney,REP,431,1112,11365,12908,
+Stephens,U.S. House,Donna Marie Bebo,DEM,109,344,2910,3363,04
+Stephens,U.S. House,Tom Cole,REP,423,1103,11246,12772,04
+Stephens,U.S. House,Rj Harris,IND,29,42,590,661,04
+Stephens,State Senate,Tony Terrill,DEM,21,96,850,967,31
+Stephens,State Senate,Don Barrington,REP,114,296,2694,3104,31
+Stephens,State Senate,Mike Fullerton,DEM,121,348,3477,3946,43
+Stephens,State Senate,Corey Brooks,REP,292,739,7611,8642,43
+Stephens,State House,Stewart Meyer,DEM,39,106,1477,1622,51
+Stephens,State House,Scott Biggs,REP,88,183,2813,3084,51
+Texas,President,Barack Obama,DEM,52,100,710,862,
+Texas,President,Mitt Romney,REP,259,683,3988,4930,
+Texas,U.S. House,Timothy Ray Murray,DEM,34,79,547,660,03
+Texas,U.S. House,Frank Lucas,REP,259,654,3898,4811,03
+Texas,U.S. House,William Sanders,IND,15,43,231,289,03
+Texas,State Senate,A. Bryce Marlatt,REP,239,627,3783,4649,27
+Texas,State Senate,Tommy Nicholson,IND,51,123,785,959,27
+Tillman,President,Barack Obama,DEM,23,109,774,906,
+Tillman,President,Mitt Romney,REP,41,291,1483,1815,
+Tillman,U.S. House,Donna Marie Bebo,DEM,20,94,606,720,04
+Tillman,U.S. House,Tom Cole,REP,39,291,1553,1883,04
+Tillman,U.S. House,Rj Harris,IND,4,11,78,93,04
+Tillman,State Senate,Tony Terrill,DEM,24,107,710,841,31
+Tillman,State Senate,Don Barrington,REP,36,284,1507,1827,31
+Tulsa,President,Barack Obama,DEM,3786,5055,73903,82744,
+Tulsa,President,Mitt Romney,REP,7562,4016,133484,145062,
+Tulsa,U.S. House,John Olson,DEM,3556,4843,68026,76425,01
+Tulsa,U.S. House,Jim Bridenstine,REP,7185,3923,128443,139551,01
+Tulsa,U.S. House,Craig Allen,IND,398,271,9475,10144,01
+Tulsa,State Senate,Jabar Shumate,DEM,575,1781,10390,12746,11
+Tulsa,State Senate,Dave Bell,REP,148,161,2727,3036,11
+Tulsa,State Senate,Curtis Mullins,IND,29,74,1189,1292,11
+Tulsa,State Senate,Julie Hall,DEM,787,628,12983,14398,39
+Tulsa,State Senate,Brian Crain,REP,1166,599,17253,19018,39
+Tulsa,State House,Jerry Shoemake,DEM,1,0,46,47,16
+Tulsa,State House,James Delso,REP,4,0,110,114,16
+Tulsa,State House,Shawna Keller,DEM,88,147,2934,3169,23
+Tulsa,State House,Terry O'Donnell,REP,101,57,3063,3221,23
+Tulsa,State House,David Narcomey,DEM,10,13,412,435,29
+Tulsa,State House,Skye Mcniel,REP,33,31,1100,1164,29
+Tulsa,State House,Jim Massey,DEM,44,31,1040,1115,36
+Tulsa,State House,Sean Roberts,REP,126,51,2308,2485,36
+Tulsa,State House,David Iii,DEM,168,220,3852,4240,66
+Tulsa,State House,Jadine Nollan,REP,294,252,7795,8341,66
+Tulsa,State House,Dan Arthrell,DEM,367,409,5695,6471,71
+Tulsa,State House,Katie Henke,REP,492,302,6570,7364,71
+Tulsa,State House,Seneca Scott,DEM,181,455,5360,5996,72
+Tulsa,State House,Randall Reese,REP,78,80,2089,2247,72
+Tulsa,State House,Glenda Puett,DEM,177,218,4705,5100,76
+Tulsa,State House,David Brumbaugh,REP,551,235,9893,10679,76
+Tulsa,State House,Jeannie Mcdaniel,DEM,422,394,8006,8822,78
+Tulsa,State House,Paul Catalano,REP,226,167,5141,5534,78
+Wagoner,President,Barack Obama,DEM,296,572,6923,7791,
+Wagoner,President,Mitt Romney,REP,889,1306,18705,20900,
+Wagoner,U.S. House,John Olson,DEM,287,578,6651,7516,01
+Wagoner,U.S. House,Jim Bridenstine,REP,831,1215,17676,19722,01
+Wagoner,U.S. House,Craig Allen,IND,50,71,1180,1301,01
+Wagoner,State House,Wade Rousselot,DEM,203,799,6342,7344,12
+Wagoner,State House,David Tackett,REP,268,567,5437,6272,12
+Wagoner,State House,Jerry Shoemake,DEM,36,38,804,878,16
+Wagoner,State House,James Delso,REP,76,74,1526,1676,16
+Wagoner,State House,Shawna Keller,DEM,12,7,277,296,23
+Wagoner,State House,Terry O'Donnell,REP,16,8,438,462,23
+Washington,President,Barack Obama,DEM,198,711,4623,5532,
+Washington,President,Mitt Romney,REP,666,1849,13153,15668,
+Washington,U.S. House,John Olson,DEM,186,695,4495,5376,01
+Washington,U.S. House,Jim Bridenstine,REP,630,1767,12448,14845,01
+Washington,U.S. House,Craig Allen,IND,40,89,780,909,01
+Washita,President,Barack Obama,DEM,43,86,693,822,
+Washita,President,Mitt Romney,REP,157,299,3038,3494,
+Washita,U.S. House,Timothy Ray Murray,DEM,25,51,470,546,03
+Washita,U.S. House,Frank Lucas,REP,173,326,3132,3631,03
+Washita,U.S. House,William Sanders,IND,2,7,124,133,03
+Woods,President,Barack Obama,DEM,37,125,509,671,
+Woods,President,Mitt Romney,REP,116,393,2218,2727,
+Woods,U.S. House,Timothy Ray Murray,DEM,25,99,314,438,03
+Woods,U.S. House,Frank Lucas,REP,117,402,2289,2808,03
+Woods,U.S. House,William Sanders,IND,13,15,124,152,03
+Woods,State Senate,A. Bryce Marlatt,REP,111,395,2193,2699,27
+Woods,State Senate,Tommy Nicholson,IND,32,97,475,604,27
+Woodward,President,Barack Obama,DEM,33,167,933,1133,
+Woodward,President,Mitt Romney,REP,224,977,4744,5945,
+Woodward,U.S. House,Timothy Ray Murray,DEM,16,97,530,643,03
+Woodward,U.S. House,Frank Lucas,REP,229,999,4919,6147,03
+Woodward,U.S. House,William Sanders,IND,9,46,220,275,03
+Woodward,State Senate,A. Bryce Marlatt,REP,223,972,4745,5940,27
+Woodward,State Senate,Tommy Nicholson,IND,22,153,831,1006,27
