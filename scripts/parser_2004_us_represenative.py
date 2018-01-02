@@ -5,32 +5,26 @@ import numpy as np
 
 def parser_2004():
   columns = ['test1','test2','test3']
-  candidate_name_list = []
-  #columns = ['County','Carson','Coburn','Bilyeu','Total Votes']
   election_results = []
+  candidate_vote_totals = []
   original_df = pd.read_csv('../tabula/2004/tabula-04usrep.csv',names=columns)
 
-  
-  # output = original_df.ix[3][1]
-  # for index, rows in original_df.iterrows():
-  #   try:
-  #     print(rows)
-  #   except UnicodeEncodeError:
-  #     print('BAD')
+
   for index, rows in original_df.iterrows():
     if original_df.ix[index][1].rfind('DISTRICT') != -1:
-      candidate_count = header_split(index, original_df)
-      county_split(index, original_df, candidate_count)
+      return_list = header_split(index, original_df)
+      county_split(index, original_df, return_list)
 
 
-def county_split(df_index, df, candidate_count):
+def county_split(df_index, df, return_list):
   county_index = df_index + 5
+  candidate_count = return_list[0]
   while df.ix[county_index][0] != 'STATE TOTAL:':
     county_name = df.ix[county_index][0]
     candidate_vote_totals = df.ix[county_index][1].split(' ')[0:candidate_count]
     candidate_vote_totals.insert(0,county_name)
     county_index = county_index + 1
-    print(candidate_vote_totals)
+    election_output(return_list[0],return_list[1],return_list[2],candidate_vote_totals)
 
 def header_split(df_index, df):
   candidate_name_list = []
@@ -41,9 +35,23 @@ def header_split(df_index, df):
   candidate_first_name = [x for x in candidate_first_name if x.find('.') == -1 and x.find('TOTAL') == -1]
   candidate_last_name_split = df.ix[df_last_name_index][1].split(' ')
   candidate_last_name = [x for x in candidate_last_name_split if x.find('(') == -1 and x.find('VOTES') == -1]
+  candidate_party = [x for x in candidate_last_name_split if x.find('(') != -1]
   for index, value in enumerate(candidate_first_name):
     candidate_name_list.append(value + ' ' + candidate_last_name[index])
-  return len(candidate_name_list)
+  return_list = [len(candidate_name_list),candidate_name_list,candidate_party]
+  return return_list
+
+def election_output(district, candidates, candidate_party, candidates_vote_totals):
+  election_results = []
+  print(candidates)
+  # for index, value in enumerate(candidates):
+  #   index_value = index+1
+  #   election_results.append(str(candidates_vote_totals[0])+'U.S. House of Represenatives'+str(district)+candidate_party[index]+value+str(candidates_vote_totals[index_value]))
+  # print(election_results)
+
+
+  #candidate_df = pd.DataFrame(election_results, columns=('County','Office','District','Party','Candidate','Votes'))
+  #candidate_df.to_csv('../2004/20041102__ok__general__us_represenative__county.csv',index=False)
 
   #   election_results.append([original_df['County'][index],'U.S. Senate',' ','DEM','Brad Carson',original_df['Carson'][index]])
   #   election_results.append([original_df['County'][index],'U.S. Senate',' ','REP','Tom Coburn',original_df['Coburn'][index]])
