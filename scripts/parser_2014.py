@@ -13,7 +13,7 @@ def parse_2014():
     format.
     '''
     df = pd.read_csv(
-        'http://www.ok.gov/elections/support/20140826_prec_csv.zip')
+        'http://www.ok.gov/elections/support/20181106_prec_csv.zip')
 
     df = df.rename(columns={'county_name': 'county',
                             'race_description': 'office',
@@ -85,7 +85,7 @@ def parse_2014():
 #    assert dft.loc['U.S. Senate'].total_votes.sum() == 1448047
 #    assert dft.loc['U.S. House'].total_votes.sum() == 1133244
 
-    df.to_csv('2014/20140826__ok__primary__precinct.csv', index=False)
+    df.to_csv('2018/20181106__ok__general__precinct.csv', index=False)
 
 if __name__ == '__main__':
     parse_2014()

@@ -3,14 +3,17 @@ from __future__ import print_function, division
 import pandas as pd
 
 positions = ['President', 'U.S. Senate', 'U.S. House',
-            'State Senate','State House', 'Governor']
+            'State Senate','State House', 'Governor', 'Lieutenant Governor',
+            'Superintendent of Public Instruction', 'Commissioner of Labor',
+            'Attorney General', 'State Auditor', 'State Treasurer',
+            'Insurance Commissioner', 'Corporation Commissioner']
 
 def parse_2012():
     '''Reads in CSV from Oklahoma Elections and parses into OpenElections
     format.
     '''
     df = pd.read_csv(
-        'http://www.ok.gov/elections/support/12gen_cnty_csv.zip')
+        'http://www.ok.gov/elections/support/20181106_cnty_csv.zip')
 
     df = df.rename(columns={'county_name': 'county',
                             'race_description': 'office',
@@ -30,6 +33,24 @@ def parse_2012():
 
     # clean up office descriptions
     df.loc[df['office'].str.contains(
+        'LIEUTENANT GOVERNOR'), 'office'] = 'Lieutenant Governor'
+    df.loc[df['office'].str.contains(
+        'GOVERNOR'), 'office'] = 'Governor'
+    df.loc[df['office'].str.contains(
+        'SUPERINTENDENT OF PUBLIC INSTRUCTION'), 'office'] = 'Superintendent of Public Instruction'
+    df.loc[df['office'].str.contains(
+        'COMMISSIONER OF LABOR'), 'office'] = 'Commissioner of Labor'
+    df.loc[df['office'].str.contains(
+        'ATTORNEY GENERAL'), 'office'] = 'Attorney General'
+    df.loc[df['office'].str.contains(
+        'STATE AUDITOR'), 'office'] = 'State Auditor'
+    df.loc[df['office'].str.contains(
+        'STATE TREASURER'), 'office'] = 'State Treasurer'
+    df.loc[df['office'].str.contains(
+        'INSURANCE COMMISSIONER'), 'office'] = 'Insurance Commissioner'
+    df.loc[df['office'].str.contains(
+        'CORPORATION COMMISSIONER'), 'office'] = 'Corporation Commissioner'
+    df.loc[df['office'].str.contains(
         'PRESIDENT'), 'office'] = 'President'
     df.loc[df['office'].str.contains(
         'UNITED STATES SENATOR'), 'office'] = 'U.S. Senate'
@@ -45,12 +66,6 @@ def parse_2012():
 
     # clean up candidate names
     df.loc[df['candidate'].str.contains(
-        'CLINTON'), 'candidate'] = 'Hillary Clinton'
-    df.loc[df['candidate'].str.contains(
-        'JOHNSON'), 'candidate'] = 'Gary Johnson'
-    df.loc[df['candidate'].str.contains(
-        'TRUMP'), 'candidate'] = 'Donald Trump'
-    df.loc[df['candidate'].str.contains(
         'JUSTIN JJ HUMPHREY', case=False), 'candidate'] = 'Justin Humphrey'
     df.candidate = df.candidate.str.title()
     df.candidate = df.candidate.str.replace(r'^(\S+)\s+(.*\b).\s+(\S+)$',
@@ -65,10 +80,8 @@ def parse_2012():
 
     # https://www.ok.gov/elections/support/20161108_seb.html
     dft = df.groupby(['office', 'candidate']).agg({'votes': 'sum'})
-    assert dft.loc['President'].votes.sum() == 1334872
-    assert dft.loc['U.S. House'].votes.sum() == 1325935
 
-    df.to_csv('../2012/20121106__ok__general__county.csv', index=False)
+    df.to_csv('2018/20181106__ok__general__county.csv', index=False)
 
 if __name__ == '__main__':
     parse_2012()
