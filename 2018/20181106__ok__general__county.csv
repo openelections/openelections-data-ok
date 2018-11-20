@@ -1,0 +1,2431 @@
+county,office,candidate,party,absentee,early_votes,election_day,votes,district
+Adair,Governor,Chris Powell,LIB,6,22,213,241,
+Adair,Governor,Kevin Stitt,REP,68,181,2938,3187,
+Adair,Governor,Drew Edmondson,DEM,54,144,1547,1745,
+Adair,Lieutenant Governor,Matt Pinnell,REP,77,199,3195,3471,
+Adair,Lieutenant Governor,Anastasia Pittman,DEM,47,133,1272,1452,
+Adair,Lieutenant Governor,Ivan Holmes,IND,5,13,193,211,
+Adair,State Auditor,John Yeutter,LIB,27,90,1016,1133,
+Adair,State Auditor,Cindy Byrd,REP,91,228,3393,3712,
+Adair,Attorney General,Mike Hunter,REP,83,211,3368,3662,
+Adair,Attorney General,Mark Myles,DEM,48,129,1280,1457,
+Adair,State Treasurer,Randy Mcdaniel,REP,87,236,3498,3821,
+Adair,State Treasurer,Charles De Coune,IND,27,80,904,1011,
+Adair,Superintendent of Public Instruction,Joy Hofmeister,REP,71,152,2436,2659,
+Adair,Superintendent of Public Instruction,John Cox,DEM,57,167,1878,2102,
+Adair,Superintendent of Public Instruction,Larry Huff,IND,3,26,363,392,
+Adair,Commissioner of Labor,Leslie Osborn,REP,75,186,2984,3245,
+Adair,Commissioner of Labor,Fred Dorrell,DEM,50,139,1401,1590,
+Adair,Commissioner of Labor,Brandt Dismukes,IND,6,16,227,249,
+Adair,Insurance Commissioner,Glen Mulready,REP,75,195,3100,3370,
+Adair,Insurance Commissioner,Kimberly Fobbs,DEM,55,141,1523,1719,
+Adair,Corporation Commissioner,Bob Anthony,REP,76,195,2978,3249,
+Adair,Corporation Commissioner,Ashley Nicole Mccray,DEM,47,131,1383,1561,
+Adair,Corporation Commissioner,Jackie Short,IND,5,13,262,280,
+Adair,U.S. House,Richard Castaldo,LIB,4,10,95,109,02
+Adair,U.S. House,Markwayne Mullin,REP,77,185,3100,3362,02
+Adair,U.S. House,Jason Nichols,DEM,47,142,1340,1529,02
+Adair,U.S. House,John Foreman,IND,1,9,167,177,02
+Adair,State House,David Hardin,REP,79,186,2952,3217,86
+Adair,State House,Rhonda Cox,DEM,50,158,1733,1941,86
+Alfalfa,Governor,Chris Powell,LIB,1,4,72,77,
+Alfalfa,Governor,Kevin Stitt,REP,41,105,1187,1333,
+Alfalfa,Governor,Drew Edmondson,DEM,18,35,338,391,
+Alfalfa,Lieutenant Governor,Matt Pinnell,REP,42,125,1325,1492,
+Alfalfa,Lieutenant Governor,Anastasia Pittman,DEM,15,14,209,238,
+Alfalfa,Lieutenant Governor,Ivan Holmes,IND,3,4,54,61,
+Alfalfa,State Auditor,John Yeutter,LIB,9,7,170,186,
+Alfalfa,State Auditor,Cindy Byrd,REP,45,131,1387,1563,
+Alfalfa,Attorney General,Mike Hunter,REP,44,116,1329,1489,
+Alfalfa,Attorney General,Mark Myles,DEM,15,28,255,298,
+Alfalfa,State Treasurer,Randy Mcdaniel,REP,46,128,1389,1563,
+Alfalfa,State Treasurer,Charles De Coune,IND,10,12,166,188,
+Alfalfa,Superintendent of Public Instruction,Joy Hofmeister,REP,42,110,1211,1363,
+Alfalfa,Superintendent of Public Instruction,John Cox,DEM,12,26,251,289,
+Alfalfa,Superintendent of Public Instruction,Larry Huff,IND,6,5,126,137,
+Alfalfa,Commissioner of Labor,Leslie Osborn,REP,45,122,1278,1445,
+Alfalfa,Commissioner of Labor,Fred Dorrell,DEM,11,20,217,248,
+Alfalfa,Commissioner of Labor,Brandt Dismukes,IND,3,3,74,80,
+Alfalfa,Insurance Commissioner,Glen Mulready,REP,45,125,1315,1485,
+Alfalfa,Insurance Commissioner,Kimberly Fobbs,DEM,13,18,254,285,
+Alfalfa,Corporation Commissioner,Bob Anthony,REP,40,122,1254,1416,
+Alfalfa,Corporation Commissioner,Ashley Nicole Mccray,DEM,15,17,240,272,
+Alfalfa,Corporation Commissioner,Jackie Short,IND,5,5,86,96,
+Alfalfa,U.S. House,Frank Lucas,REP,45,125,1377,1547,03
+Alfalfa,U.S. House,Frankie Robbins,DEM,15,20,213,248,03
+Atoka,Governor,Chris Powell,LIB,4,18,73,95,
+Atoka,Governor,Kevin Stitt,REP,62,486,2241,2789,
+Atoka,Governor,Drew Edmondson,DEM,40,226,889,1155,
+Atoka,Lieutenant Governor,Matt Pinnell,REP,64,508,2358,2930,
+Atoka,Lieutenant Governor,Anastasia Pittman,DEM,37,196,693,926,
+Atoka,Lieutenant Governor,Ivan Holmes,IND,3,15,103,121,
+Atoka,State Auditor,John Yeutter,LIB,13,91,399,503,
+Atoka,State Auditor,Cindy Byrd,REP,75,575,2614,3264,
+Atoka,Attorney General,Mike Hunter,REP,64,502,2392,2958,
+Atoka,Attorney General,Mark Myles,DEM,36,208,738,982,
+Atoka,State Treasurer,Randy Mcdaniel,REP,72,565,2607,3244,
+Atoka,State Treasurer,Charles De Coune,IND,20,93,419,532,
+Atoka,Superintendent of Public Instruction,Joy Hofmeister,REP,62,432,2101,2595,
+Atoka,Superintendent of Public Instruction,John Cox,DEM,37,232,834,1103,
+Atoka,Superintendent of Public Instruction,Larry Huff,IND,1,45,234,280,
+Atoka,Commissioner of Labor,Leslie Osborn,REP,65,486,2257,2808,
+Atoka,Commissioner of Labor,Fred Dorrell,DEM,32,208,746,986,
+Atoka,Commissioner of Labor,Brandt Dismukes,IND,1,22,124,147,
+Atoka,Insurance Commissioner,Glen Mulready,REP,65,493,2302,2860,
+Atoka,Insurance Commissioner,Kimberly Fobbs,DEM,34,211,805,1050,
+Atoka,Corporation Commissioner,Bob Anthony,REP,64,466,2231,2761,
+Atoka,Corporation Commissioner,Ashley Nicole Mccray,DEM,34,210,743,987,
+Atoka,Corporation Commissioner,Jackie Short,IND,1,33,154,188,
+Atoka,U.S. House,Richard Castaldo,LIB,1,11,28,40,02
+Atoka,U.S. House,Markwayne Mullin,REP,69,524,2474,3067,02
+Atoka,U.S. House,Jason Nichols,DEM,32,179,607,818,02
+Atoka,U.S. House,John Foreman,IND,1,13,70,84,02
+Atoka,State Senate,David Bullard,REP,59,453,1764,2276,6
+Atoka,State Senate,Arnold Bourne,DEM,29,202,694,925,6
+Atoka,State House,Justin Humphrey,REP,18,173,928,1119,19
+Atoka,State House,Lewis Collins,DEM,4,58,257,319,19
+Atoka,State House,Charles Mccall,REP,59,392,1585,2036,22
+Atoka,State House,Wayne Eidson,DEM,23,90,366,479,22
+Atoka,State House,Renae Ward,IND,1,10,68,79,22
+Beaver,Governor,Chris Powell,LIB,2,9,62,73,
+Beaver,Governor,Kevin Stitt,REP,82,158,1214,1454,
+Beaver,Governor,Drew Edmondson,DEM,12,42,218,272,
+Beaver,Lieutenant Governor,Matt Pinnell,REP,84,175,1289,1548,
+Beaver,Lieutenant Governor,Anastasia Pittman,DEM,10,30,146,186,
+Beaver,Lieutenant Governor,Ivan Holmes,IND,1,4,46,51,
+Beaver,State Auditor,John Yeutter,LIB,7,16,122,145,
+Beaver,State Auditor,Cindy Byrd,REP,82,185,1327,1594,
+Beaver,Attorney General,Mike Hunter,REP,81,177,1317,1575,
+Beaver,Attorney General,Mark Myles,DEM,11,32,157,200,
+Beaver,State Treasurer,Randy Mcdaniel,REP,87,182,1303,1572,
+Beaver,State Treasurer,Charles De Coune,IND,4,19,140,163,
+Beaver,Superintendent of Public Instruction,Joy Hofmeister,REP,73,157,1151,1381,
+Beaver,Superintendent of Public Instruction,John Cox,DEM,16,40,208,264,
+Beaver,Superintendent of Public Instruction,Larry Huff,IND,4,12,109,125,
+Beaver,Commissioner of Labor,Leslie Osborn,REP,82,176,1265,1523,
+Beaver,Commissioner of Labor,Fred Dorrell,DEM,10,28,141,179,
+Beaver,Commissioner of Labor,Brandt Dismukes,IND,1,5,58,64,
+Beaver,Insurance Commissioner,Glen Mulready,REP,79,176,1277,1532,
+Beaver,Insurance Commissioner,Kimberly Fobbs,DEM,14,32,182,228,
+Beaver,Corporation Commissioner,Bob Anthony,REP,79,171,1211,1461,
+Beaver,Corporation Commissioner,Ashley Nicole Mccray,DEM,13,30,174,217,
+Beaver,Corporation Commissioner,Jackie Short,IND,2,6,85,93,
+Beaver,U.S. House,Frank Lucas,REP,87,179,1342,1608,03
+Beaver,U.S. House,Frankie Robbins,DEM,9,31,147,187,03
+Beaver,State House,Kenton Patzkowsky,REP,70,134,1020,1224,61
+Beaver,State House,Ashley Lehnert,DEM,26,75,470,571,61
+Beckham,Governor,Chris Powell,LIB,2,14,232,248,
+Beckham,Governor,Kevin Stitt,REP,136,317,3608,4061,
+Beckham,Governor,Drew Edmondson,DEM,62,111,1223,1396,
+Beckham,Lieutenant Governor,Matt Pinnell,REP,149,333,3919,4401,
+Beckham,Lieutenant Governor,Anastasia Pittman,DEM,41,102,943,1086,
+Beckham,Lieutenant Governor,Ivan Holmes,IND,9,7,173,189,
+Beckham,State Auditor,John Yeutter,LIB,23,48,728,799,
+Beckham,State Auditor,Cindy Byrd,REP,167,372,4142,4681,
+Beckham,Attorney General,Mike Hunter,REP,153,335,4001,4489,
+Beckham,Attorney General,Mark Myles,DEM,46,104,1013,1163,
+Beckham,State Treasurer,Randy Mcdaniel,REP,159,359,4147,4665,
+Beckham,State Treasurer,Charles De Coune,IND,31,60,720,811,
+Beckham,Superintendent of Public Instruction,Joy Hofmeister,REP,148,315,3695,4158,
+Beckham,Superintendent of Public Instruction,John Cox,DEM,43,101,915,1059,
+Beckham,Superintendent of Public Instruction,Larry Huff,IND,11,25,415,451,
+Beckham,Commissioner of Labor,Leslie Osborn,REP,152,347,3843,4342,
+Beckham,Commissioner of Labor,Fred Dorrell,DEM,42,83,937,1062,
+Beckham,Commissioner of Labor,Brandt Dismukes,IND,5,11,203,219,
+Beckham,Insurance Commissioner,Glen Mulready,REP,147,332,3866,4345,
+Beckham,Insurance Commissioner,Kimberly Fobbs,DEM,54,106,1116,1276,
+Beckham,Corporation Commissioner,Bob Anthony,REP,141,323,3670,4134,
+Beckham,Corporation Commissioner,Ashley Nicole Mccray,DEM,47,93,1035,1175,
+Beckham,Corporation Commissioner,Jackie Short,IND,14,23,316,353,
+Beckham,U.S. House,Frank Lucas,REP,161,363,4196,4720,03
+Beckham,U.S. House,Frankie Robbins,DEM,41,80,861,982,03
+Beckham,State House,Todd Russ,REP,79,200,1854,2133,55
+Beckham,State House,Dennis Dugger,DEM,52,170,1615,1837,55
+Blaine,Governor,Chris Powell,LIB,4,11,108,123,
+Blaine,Governor,Kevin Stitt,REP,71,133,1737,1941,
+Blaine,Governor,Drew Edmondson,DEM,43,79,767,889,
+Blaine,Lieutenant Governor,Matt Pinnell,REP,84,156,1889,2129,
+Blaine,Lieutenant Governor,Anastasia Pittman,DEM,28,59,605,692,
+Blaine,Lieutenant Governor,Ivan Holmes,IND,6,8,101,115,
+Blaine,State Auditor,John Yeutter,LIB,16,32,435,483,
+Blaine,State Auditor,Cindy Byrd,REP,93,176,2074,2343,
+Blaine,Attorney General,Mike Hunter,REP,87,155,1944,2186,
+Blaine,Attorney General,Mark Myles,DEM,30,63,640,733,
+Blaine,State Treasurer,Randy Mcdaniel,REP,95,175,2052,2322,
+Blaine,State Treasurer,Charles De Coune,IND,17,32,455,504,
+Blaine,Superintendent of Public Instruction,Joy Hofmeister,REP,80,143,1743,1966,
+Blaine,Superintendent of Public Instruction,John Cox,DEM,27,60,608,695,
+Blaine,Superintendent of Public Instruction,Larry Huff,IND,8,20,242,270,
+Blaine,Commissioner of Labor,Leslie Osborn,REP,93,155,1865,2113,
+Blaine,Commissioner of Labor,Fred Dorrell,DEM,21,53,552,626,
+Blaine,Commissioner of Labor,Brandt Dismukes,IND,4,13,147,164,
+Blaine,Insurance Commissioner,Glen Mulready,REP,84,158,1848,2090,
+Blaine,Insurance Commissioner,Kimberly Fobbs,DEM,32,63,702,797,
+Blaine,Corporation Commissioner,Bob Anthony,REP,87,147,1756,1990,
+Blaine,Corporation Commissioner,Ashley Nicole Mccray,DEM,26,64,663,753,
+Blaine,Corporation Commissioner,Jackie Short,IND,4,12,156,172,
+Blaine,U.S. House,Frank Lucas,REP,97,172,2041,2310,03
+Blaine,U.S. House,Frankie Robbins,DEM,20,50,558,628,03
+Bryan,Governor,Chris Powell,LIB,7,23,272,302,
+Bryan,Governor,Kevin Stitt,REP,184,713,6404,7301,
+Bryan,Governor,Drew Edmondson,DEM,156,342,3248,3746,
+Bryan,Lieutenant Governor,Matt Pinnell,REP,192,762,6878,7832,
+Bryan,Lieutenant Governor,Anastasia Pittman,DEM,142,291,2658,3091,
+Bryan,Lieutenant Governor,Ivan Holmes,IND,9,16,310,335,
+Bryan,State Auditor,John Yeutter,LIB,74,143,1593,1810,
+Bryan,State Auditor,Cindy Byrd,REP,219,828,7589,8636,
+Bryan,Attorney General,Mike Hunter,REP,207,788,7036,8031,
+Bryan,Attorney General,Mark Myles,DEM,141,281,2776,3198,
+Bryan,State Treasurer,Randy Mcdaniel,REP,203,815,7434,8452,
+Bryan,State Treasurer,Charles De Coune,IND,88,160,1712,1960,
+Bryan,Superintendent of Public Instruction,Joy Hofmeister,REP,187,752,6544,7483,
+Bryan,Superintendent of Public Instruction,John Cox,DEM,145,282,2631,3058,
+Bryan,Superintendent of Public Instruction,Larry Huff,IND,12,35,649,696,
+Bryan,Commissioner of Labor,Leslie Osborn,REP,198,738,6672,7608,
+Bryan,Commissioner of Labor,Fred Dorrell,DEM,137,283,2663,3083,
+Bryan,Commissioner of Labor,Brandt Dismukes,IND,9,36,417,462,
+Bryan,Insurance Commissioner,Glen Mulready,REP,192,759,6789,7740,
+Bryan,Insurance Commissioner,Kimberly Fobbs,DEM,151,306,2976,3433,
+Bryan,Corporation Commissioner,Bob Anthony,REP,199,742,6592,7533,
+Bryan,Corporation Commissioner,Ashley Nicole Mccray,DEM,131,292,2712,3135,
+Bryan,Corporation Commissioner,Jackie Short,IND,11,32,473,516,
+Bryan,U.S. House,Richard Castaldo,LIB,5,14,195,214,02
+Bryan,U.S. House,Markwayne Mullin,REP,188,764,6759,7711,02
+Bryan,U.S. House,Jason Nichols,DEM,146,285,2672,3103,02
+Bryan,U.S. House,John Foreman,IND,7,14,263,284,02
+Bryan,State Senate,David Bullard,REP,185,711,6155,7051,6
+Bryan,State Senate,Arnold Bourne,DEM,162,366,3734,4262,6
+Bryan,State House,Justin Humphrey,REP,25,62,967,1054,19
+Bryan,State House,Lewis Collins,DEM,8,26,370,404,19
+Caddo,Governor,Chris Powell,LIB,6,19,247,272,
+Caddo,Governor,Kevin Stitt,REP,125,212,3710,4047,
+Caddo,Governor,Drew Edmondson,DEM,92,171,2780,3043,
+Caddo,Lieutenant Governor,Matt Pinnell,REP,142,265,4208,4615,
+Caddo,Lieutenant Governor,Anastasia Pittman,DEM,71,124,2251,2446,
+Caddo,Lieutenant Governor,Ivan Holmes,IND,10,14,249,273,
+Caddo,State Auditor,John Yeutter,LIB,36,84,1513,1633,
+Caddo,State Auditor,Cindy Byrd,REP,168,295,4770,5233,
+Caddo,Attorney General,Mike Hunter,REP,143,245,4318,4706,
+Caddo,Attorney General,Mark Myles,DEM,80,155,2369,2604,
+Caddo,State Treasurer,Randy Mcdaniel,REP,156,293,4713,5162,
+Caddo,State Treasurer,Charles De Coune,IND,45,85,1554,1684,
+Caddo,Superintendent of Public Instruction,Joy Hofmeister,REP,131,250,3840,4221,
+Caddo,Superintendent of Public Instruction,John Cox,DEM,74,133,2320,2527,
+Caddo,Superintendent of Public Instruction,Larry Huff,IND,17,20,531,568,
+Caddo,Commissioner of Labor,Leslie Osborn,REP,152,262,4055,4469,
+Caddo,Commissioner of Labor,Fred Dorrell,DEM,66,123,2310,2499,
+Caddo,Commissioner of Labor,Brandt Dismukes,IND,4,12,274,290,
+Caddo,Insurance Commissioner,Glen Mulready,REP,146,239,4068,4453,
+Caddo,Insurance Commissioner,Kimberly Fobbs,DEM,72,160,2569,2801,
+Caddo,Corporation Commissioner,Bob Anthony,REP,136,242,3978,4356,
+Caddo,Corporation Commissioner,Ashley Nicole Mccray,DEM,75,146,2349,2570,
+Caddo,Corporation Commissioner,Jackie Short,IND,14,13,355,382,
+Caddo,U.S. House,Frank Lucas,REP,161,275,4585,5021,03
+Caddo,U.S. House,Frankie Robbins,DEM,63,126,2119,2308,03
+Caddo,State House,Charles Wells,REP,32,99,1023,1154,56
+Caddo,State House,David Perryman,DEM,62,211,2342,2615,56
+Caddo,State House,Toni Hasenbeck,REP,20,28,649,697,65
+Caddo,State House,Brandon Thompson,DEM,18,34,782,834,65
+Canadian,Governor,Chris Powell,LIB,115,68,1614,1797,
+Canadian,Governor,Kevin Stitt,REP,1879,1411,24120,27410,
+Canadian,Governor,Drew Edmondson,DEM,1369,996,14379,16744,
+Canadian,Lieutenant Governor,Matt Pinnell,REP,2143,1622,27492,31257,
+Canadian,Lieutenant Governor,Anastasia Pittman,DEM,1088,777,10717,12582,
+Canadian,Lieutenant Governor,Ivan Holmes,IND,105,69,1625,1799,
+Canadian,State Auditor,John Yeutter,LIB,665,539,7911,9115,
+Canadian,State Auditor,Cindy Byrd,REP,2464,1760,29798,34022,
+Canadian,Attorney General,Mike Hunter,REP,2173,1658,28315,32146,
+Canadian,Attorney General,Mark Myles,DEM,1140,803,11328,13271,
+Canadian,State Treasurer,Randy Mcdaniel,REP,2289,1712,28715,32716,
+Canadian,State Treasurer,Charles De Coune,IND,844,591,8935,10370,
+Canadian,Superintendent of Public Instruction,Joy Hofmeister,REP,2113,1586,26153,29852,
+Canadian,Superintendent of Public Instruction,John Cox,DEM,981,702,9779,11462,
+Canadian,Superintendent of Public Instruction,Larry Huff,IND,232,168,3765,4165,
+Canadian,Commissioner of Labor,Leslie Osborn,REP,2243,1657,27864,31764,
+Canadian,Commissioner of Labor,Fred Dorrell,DEM,920,711,9319,10950,
+Canadian,Commissioner of Labor,Brandt Dismukes,IND,142,85,2176,2403,
+Canadian,Insurance Commissioner,Glen Mulready,REP,2150,1590,27453,31193,
+Canadian,Insurance Commissioner,Kimberly Fobbs,DEM,1140,845,11789,13774,
+Canadian,Corporation Commissioner,Bob Anthony,REP,2054,1562,25942,29558,
+Canadian,Corporation Commissioner,Ashley Nicole Mccray,DEM,1046,767,10722,12535,
+Canadian,Corporation Commissioner,Jackie Short,IND,209,123,2773,3105,
+Canadian,U.S. House,Frank Lucas,REP,1900,1482,23992,27374,03
+Canadian,U.S. House,Frankie Robbins,DEM,911,724,9255,10890,03
+Canadian,U.S. House,Tom Cole,REP,338,173,4620,5131,04
+Canadian,U.S. House,Mary Brannon,DEM,159,74,1507,1740,04
+Canadian,U.S. House,Ruby Peters,IND,19,10,289,318,04
+Canadian,State Senate,Stephanie Bice,REP,988,534,11453,12975,22
+Canadian,State Senate,William Andrews,DEM,420,275,4404,5099,22
+Canadian,State House,Denise Crosswhite Hader,REP,405,175,4470,5050,41
+Canadian,State House,Jennie Scott,DEM,238,102,2073,2413,41
+Canadian,State House,Jay Steagall,REP,675,458,8505,9638,43
+Canadian,State House,Chantelle Cory,DEM,389,277,3864,4530,43
+Canadian,State House,Brian Hill,REP,653,361,7084,8098,47
+Canadian,State House,Sarah Carnes,DEM,385,214,3745,4344,47
+Carter,Governor,Chris Powell,LIB,8,41,420,469,
+Carter,Governor,Kevin Stitt,REP,228,1087,7775,9090,
+Carter,Governor,Drew Edmondson,DEM,184,650,3611,4445,
+Carter,Lieutenant Governor,Matt Pinnell,REP,240,1178,8257,9675,
+Carter,Lieutenant Governor,Anastasia Pittman,DEM,167,559,3117,3843,
+Carter,Lieutenant Governor,Ivan Holmes,IND,13,28,366,407,
+Carter,State Auditor,John Yeutter,LIB,97,307,2030,2434,
+Carter,State Auditor,Cindy Byrd,REP,266,1295,8857,10418,
+Carter,Attorney General,Mike Hunter,REP,248,1191,8455,9894,
+Carter,Attorney General,Mark Myles,DEM,172,571,3238,3981,
+Carter,State Treasurer,Randy Mcdaniel,REP,252,1255,8787,10294,
+Carter,State Treasurer,Charles De Coune,IND,115,362,2066,2543,
+Carter,Superintendent of Public Instruction,Joy Hofmeister,REP,221,1138,7834,9193,
+Carter,Superintendent of Public Instruction,John Cox,DEM,170,547,3109,3826,
+Carter,Superintendent of Public Instruction,Larry Huff,IND,27,82,762,871,
+Carter,Commissioner of Labor,Leslie Osborn,REP,229,1151,8083,9463,
+Carter,Commissioner of Labor,Fred Dorrell,DEM,161,553,3091,3805,
+Carter,Commissioner of Labor,Brandt Dismukes,IND,24,46,462,532,
+Carter,Insurance Commissioner,Glen Mulready,REP,240,1140,8100,9480,
+Carter,Insurance Commissioner,Kimberly Fobbs,DEM,173,612,3520,4305,
+Carter,Corporation Commissioner,Bob Anthony,REP,243,1133,7948,9324,
+Carter,Corporation Commissioner,Ashley Nicole Mccray,DEM,159,554,3163,3876,
+Carter,Corporation Commissioner,Jackie Short,IND,16,72,559,647,
+Carter,U.S. House,Tom Cole,REP,253,1186,8479,9918,04
+Carter,U.S. House,Mary Brannon,DEM,154,545,2909,3608,04
+Carter,U.S. House,Ruby Peters,IND,14,36,367,417,04
+Carter,State Senate,Frank Simpson,REP,247,1177,8224,9648,14
+Carter,State Senate,Justin Arledge,DEM,172,595,3526,4293,14
+Carter,State House,Tammy Townley,REP,170,774,5249,6193,48
+Carter,State House,Cheryl Key,DEM,158,550,2915,3623,48
+Carter,State House,Tommy Hardin,REP,63,302,2582,2947,49
+Carter,State House,Miranda Shelton,DEM,26,143,1014,1183,49
+Cherokee,Governor,Chris Powell,LIB,17,107,471,595,
+Cherokee,Governor,Kevin Stitt,REP,266,1191,4879,6336,
+Cherokee,Governor,Drew Edmondson,DEM,293,1639,5038,6970,
+Cherokee,Lieutenant Governor,Matt Pinnell,REP,297,1385,5608,7290,
+Cherokee,Lieutenant Governor,Anastasia Pittman,DEM,259,1405,4172,5836,
+Cherokee,Lieutenant Governor,Ivan Holmes,IND,20,123,529,672,
+Cherokee,State Auditor,John Yeutter,LIB,204,1258,3929,5391,
+Cherokee,State Auditor,Cindy Byrd,REP,307,1435,5774,7516,
+Cherokee,Attorney General,Mike Hunter,REP,313,1441,5893,7647,
+Cherokee,Attorney General,Mark Myles,DEM,259,1455,4369,6083,
+Cherokee,State Treasurer,Randy Mcdaniel,REP,318,1564,6123,8005,
+Cherokee,State Treasurer,Charles De Coune,IND,189,1113,3488,4790,
+Cherokee,Superintendent of Public Instruction,Joy Hofmeister,REP,276,1189,4659,6124,
+Cherokee,Superintendent of Public Instruction,John Cox,DEM,265,1529,4831,6625,
+Cherokee,Superintendent of Public Instruction,Larry Huff,IND,31,198,838,1067,
+Cherokee,Commissioner of Labor,Leslie Osborn,REP,276,1321,5250,6847,
+Cherokee,Commissioner of Labor,Fred Dorrell,DEM,256,1413,4331,6000,
+Cherokee,Commissioner of Labor,Brandt Dismukes,IND,30,147,608,785,
+Cherokee,Insurance Commissioner,Glen Mulready,REP,298,1351,5533,7182,
+Cherokee,Insurance Commissioner,Kimberly Fobbs,DEM,267,1532,4641,6440,
+Cherokee,Corporation Commissioner,Bob Anthony,REP,279,1318,5296,6893,
+Cherokee,Corporation Commissioner,Ashley Nicole Mccray,DEM,261,1436,4260,5957,
+Cherokee,Corporation Commissioner,Jackie Short,IND,27,140,666,833,
+Cherokee,U.S. House,Richard Castaldo,LIB,10,57,241,308,02
+Cherokee,U.S. House,Markwayne Mullin,REP,287,1294,5164,6745,02
+Cherokee,U.S. House,Jason Nichols,DEM,263,1474,4555,6292,02
+Cherokee,U.S. House,John Foreman,IND,14,101,397,512,02
+Cherokee,State Senate,Kim David,REP,71,169,1218,1458,18
+Cherokee,State Senate,Charles Arnall,DEM,46,209,1143,1398,18
+Cherokee,State House,Chris Sneed,REP,52,71,789,912,14
+Cherokee,State House,Jack Reavis,DEM,21,43,542,606,14
+Cherokee,State House,David Hardin,REP,19,128,667,814,86
+Cherokee,State House,Rhonda Cox,DEM,25,146,614,785,86
+Choctaw,Governor,Chris Powell,LIB,7,7,101,115,
+Choctaw,Governor,Kevin Stitt,REP,72,380,2182,2634,
+Choctaw,Governor,Drew Edmondson,DEM,46,173,1067,1286,
+Choctaw,Lieutenant Governor,Matt Pinnell,REP,73,412,2310,2795,
+Choctaw,Lieutenant Governor,Anastasia Pittman,DEM,42,140,904,1086,
+Choctaw,Lieutenant Governor,Ivan Holmes,IND,10,2,98,110,
+Choctaw,State Auditor,John Yeutter,LIB,19,65,572,656,
+Choctaw,State Auditor,Cindy Byrd,REP,92,445,2528,3065,
+Choctaw,Attorney General,Mike Hunter,REP,79,413,2359,2851,
+Choctaw,Attorney General,Mark Myles,DEM,46,140,950,1136,
+Choctaw,State Treasurer,Randy Mcdaniel,REP,85,438,2497,3020,
+Choctaw,State Treasurer,Charles De Coune,IND,26,77,606,709,
+Choctaw,Superintendent of Public Instruction,Joy Hofmeister,REP,72,373,2069,2514,
+Choctaw,Superintendent of Public Instruction,John Cox,DEM,38,158,987,1183,
+Choctaw,Superintendent of Public Instruction,Larry Huff,IND,15,24,243,282,
+Choctaw,Commissioner of Labor,Leslie Osborn,REP,73,405,2270,2748,
+Choctaw,Commissioner of Labor,Fred Dorrell,DEM,43,137,894,1074,
+Choctaw,Commissioner of Labor,Brandt Dismukes,IND,9,9,113,131,
+Choctaw,Insurance Commissioner,Glen Mulready,REP,78,396,2285,2759,
+Choctaw,Insurance Commissioner,Kimberly Fobbs,DEM,46,153,994,1193,
+Choctaw,Corporation Commissioner,Bob Anthony,REP,74,399,2216,2689,
+Choctaw,Corporation Commissioner,Ashley Nicole Mccray,DEM,44,136,908,1088,
+Choctaw,Corporation Commissioner,Jackie Short,IND,6,15,155,176,
+Choctaw,U.S. House,Richard Castaldo,LIB,2,8,51,61,02
+Choctaw,U.S. House,Markwayne Mullin,REP,69,408,2350,2827,02
+Choctaw,U.S. House,Jason Nichols,DEM,40,138,851,1029,02
+Choctaw,U.S. House,John Foreman,IND,14,7,92,113,02
+Choctaw,State House,Justin Humphrey,REP,66,336,2080,2482,19
+Choctaw,State House,Lewis Collins,DEM,58,227,1258,1543,19
+Cimarron,Governor,Chris Powell,LIB,1,1,17,19,
+Cimarron,Governor,Kevin Stitt,REP,38,134,510,682,
+Cimarron,Governor,Drew Edmondson,DEM,5,21,72,98,
+Cimarron,Lieutenant Governor,Matt Pinnell,REP,42,138,515,695,
+Cimarron,Lieutenant Governor,Anastasia Pittman,DEM,2,12,62,76,
+Cimarron,Lieutenant Governor,Ivan Holmes,IND,0,5,19,24,
+Cimarron,State Auditor,John Yeutter,LIB,1,12,55,68,
+Cimarron,State Auditor,Cindy Byrd,REP,42,144,521,707,
+Cimarron,Attorney General,Mike Hunter,REP,40,139,529,708,
+Cimarron,Attorney General,Mark Myles,DEM,3,16,61,80,
+Cimarron,State Treasurer,Randy Mcdaniel,REP,41,143,527,711,
+Cimarron,State Treasurer,Charles De Coune,IND,1,12,43,56,
+Cimarron,Superintendent of Public Instruction,Joy Hofmeister,REP,36,120,457,613,
+Cimarron,Superintendent of Public Instruction,John Cox,DEM,3,23,93,119,
+Cimarron,Superintendent of Public Instruction,Larry Huff,IND,3,12,44,59,
+Cimarron,Commissioner of Labor,Leslie Osborn,REP,42,138,502,682,
+Cimarron,Commissioner of Labor,Fred Dorrell,DEM,2,11,61,74,
+Cimarron,Commissioner of Labor,Brandt Dismukes,IND,0,7,24,31,
+Cimarron,Insurance Commissioner,Glen Mulready,REP,39,140,507,686,
+Cimarron,Insurance Commissioner,Kimberly Fobbs,DEM,5,16,72,93,
+Cimarron,Corporation Commissioner,Bob Anthony,REP,37,128,483,648,
+Cimarron,Corporation Commissioner,Ashley Nicole Mccray,DEM,6,19,67,92,
+Cimarron,Corporation Commissioner,Jackie Short,IND,1,8,36,45,
+Cimarron,U.S. House,Frank Lucas,REP,42,145,543,730,03
+Cimarron,U.S. House,Frankie Robbins,DEM,2,11,54,67,03
+Cimarron,State House,Kenton Patzkowsky,REP,37,133,499,669,61
+Cimarron,State House,Ashley Lehnert,DEM,7,23,95,125,61
+Cleveland,Governor,Chris Powell,LIB,179,210,2842,3231,
+Cleveland,Governor,Kevin Stitt,REP,3226,4514,34528,42268,
+Cleveland,Governor,Drew Edmondson,DEM,4207,5846,36595,46648,
+Cleveland,Lieutenant Governor,Matt Pinnell,REP,3705,5201,39949,48855,
+Cleveland,Lieutenant Governor,Anastasia Pittman,DEM,3617,5039,30155,38811,
+Cleveland,Lieutenant Governor,Ivan Holmes,IND,238,299,3291,3828,
+Cleveland,State Auditor,John Yeutter,LIB,1916,2814,19849,24579,
+Cleveland,State Auditor,Cindy Byrd,REP,4681,6475,46938,58094,
+Cleveland,Attorney General,Mike Hunter,REP,3916,5418,41969,51303,
+Cleveland,Attorney General,Mark Myles,DEM,3615,5101,31049,39765,
+Cleveland,State Treasurer,Randy Mcdaniel,REP,4112,5668,42982,52762,
+Cleveland,State Treasurer,Charles De Coune,IND,2558,3731,23861,30150,
+Cleveland,Superintendent of Public Instruction,Joy Hofmeister,REP,3990,5571,39893,49454,
+Cleveland,Superintendent of Public Instruction,John Cox,DEM,3091,4379,27089,34559,
+Cleveland,Superintendent of Public Instruction,Larry Huff,IND,450,574,6167,7191,
+Cleveland,Commissioner of Labor,Leslie Osborn,REP,4014,5486,41007,50507,
+Cleveland,Commissioner of Labor,Fred Dorrell,DEM,3212,4617,27277,35106,
+Cleveland,Commissioner of Labor,Brandt Dismukes,IND,263,346,4102,4711,
+Cleveland,Insurance Commissioner,Glen Mulready,REP,3737,5178,39923,48838,
+Cleveland,Insurance Commissioner,Kimberly Fobbs,DEM,3711,5261,32335,41307,
+Cleveland,Corporation Commissioner,Bob Anthony,REP,3775,5182,38521,47478,
+Cleveland,Corporation Commissioner,Ashley Nicole Mccray,DEM,3377,4867,29442,37686,
+Cleveland,Corporation Commissioner,Jackie Short,IND,359,444,4725,5528,
+Cleveland,U.S. House,Tom Cole,REP,3914,5295,41066,50275,04
+Cleveland,U.S. House,Mary Brannon,DEM,3450,5003,29256,37709,04
+Cleveland,U.S. House,Ruby Peters,IND,220,260,3102,3582,04
+Cleveland,State Senate,Becki Maldonado,REP,547,763,7847,9157,16
+Cleveland,State Senate,Mary Boren,DEM,1117,1821,12589,15527,16
+Cleveland,State Senate,Darrell Weaver,REP,1433,2247,13893,17573,24
+Cleveland,State Senate,Ren…E Jerden,DEM,1031,1330,7736,10097,24
+Cleveland,State House,Sherrie Conley,REP,150,145,3074,3369,20
+Cleveland,State House,Steve Jarman,DEM,93,73,1230,1396,20
+Cleveland,State House,Marc Etters,REP,433,692,4697,5822,45
+Cleveland,State House,Merleyn Bell,DEM,721,1313,5810,7844,45
+Cleveland,State House,Tom Hackelman,IND,53,109,830,992,45
+Cleveland,State House,Bryan Vinyard,REP,629,683,6299,7611,46
+Cleveland,State House,Jacob Rosecrants,DEM,881,1107,6606,8594,46
+Cleveland,State House,Mark Mcbride,REP,661,833,6072,7566,53
+Cleveland,State House,Leslie Bonebreak,DEM,586,643,4401,5630,53
+Cleveland,State House,Kevin West,REP,418,486,4811,5715,54
+Cleveland,State House,Katelyn Dockery,DEM,324,381,3164,3869,54
+Cleveland,State House,Jon Echols,REP,78,139,871,1088,90
+Cleveland,State House,Lavelle Compton,DEM,36,69,273,378,90
+Cleveland,State House,Chris Kannady,REP,768,1477,6835,9080,91
+Cleveland,State House,Amanda Jeffers,DEM,489,863,4069,5421,91
+Coal,Governor,Chris Powell,LIB,0,7,53,60,
+Coal,Governor,Kevin Stitt,REP,21,172,934,1127,
+Coal,Governor,Drew Edmondson,DEM,25,85,549,659,
+Coal,Lieutenant Governor,Matt Pinnell,REP,27,186,1029,1242,
+Coal,Lieutenant Governor,Anastasia Pittman,DEM,18,61,431,510,
+Coal,Lieutenant Governor,Ivan Holmes,IND,1,11,52,64,
+Coal,State Auditor,John Yeutter,LIB,2,19,132,153,
+Coal,State Auditor,Cindy Byrd,REP,34,237,1336,1607,
+Coal,Attorney General,Mike Hunter,REP,25,185,1053,1263,
+Coal,Attorney General,Mark Myles,DEM,21,73,455,549,
+Coal,State Treasurer,Randy Mcdaniel,REP,30,210,1185,1425,
+Coal,State Treasurer,Charles De Coune,IND,5,41,255,301,
+Coal,Superintendent of Public Instruction,Joy Hofmeister,REP,22,166,933,1121,
+Coal,Superintendent of Public Instruction,John Cox,DEM,24,81,474,579,
+Coal,Superintendent of Public Instruction,Larry Huff,IND,0,12,105,117,
+Coal,Commissioner of Labor,Leslie Osborn,REP,25,184,994,1203,
+Coal,Commissioner of Labor,Fred Dorrell,DEM,20,65,446,531,
+Coal,Commissioner of Labor,Brandt Dismukes,IND,0,8,60,68,
+Coal,Insurance Commissioner,Glen Mulready,REP,25,182,978,1185,
+Coal,Insurance Commissioner,Kimberly Fobbs,DEM,20,68,515,603,
+Coal,Corporation Commissioner,Bob Anthony,REP,24,185,958,1167,
+Coal,Corporation Commissioner,Ashley Nicole Mccray,DEM,21,59,455,535,
+Coal,Corporation Commissioner,Jackie Short,IND,0,9,87,96,
+Coal,U.S. House,Richard Castaldo,LIB,0,6,28,34,02
+Coal,U.S. House,Markwayne Mullin,REP,27,189,1026,1242,02
+Coal,U.S. House,Jason Nichols,DEM,18,58,418,494,02
+Coal,U.S. House,John Foreman,IND,0,7,53,60,02
+Coal,State Senate,David Bullard,REP,25,181,978,1184,6
+Coal,State Senate,Arnold Bourne,DEM,21,77,530,628,6
+Coal,State House,David Smith,REP,22,148,819,989,18
+Coal,State House,Donnie Condit,DEM,24,114,696,834,18
+Comanche,Governor,Chris Powell,LIB,39,92,896,1027,
+Comanche,Governor,Kevin Stitt,REP,628,1612,10940,13180,
+Comanche,Governor,Drew Edmondson,DEM,733,1706,9897,12336,
+Comanche,Lieutenant Governor,Matt Pinnell,REP,742,1838,12092,14672,
+Comanche,Lieutenant Governor,Anastasia Pittman,DEM,593,1461,8526,10580,
+Comanche,Lieutenant Governor,Ivan Holmes,IND,43,101,967,1111,
+Comanche,State Auditor,John Yeutter,LIB,355,914,5769,7038,
+Comanche,State Auditor,Cindy Byrd,REP,881,2144,14185,17210,
+Comanche,Attorney General,Mike Hunter,REP,750,1882,12673,15305,
+Comanche,Attorney General,Mark Myles,DEM,624,1495,8805,10924,
+Comanche,State Treasurer,Randy Mcdaniel,REP,823,2013,13476,16312,
+Comanche,State Treasurer,Charles De Coune,IND,425,1046,6425,7896,
+Comanche,Superintendent of Public Instruction,Joy Hofmeister,REP,729,1763,11334,13826,
+Comanche,Superintendent of Public Instruction,John Cox,DEM,585,1415,8426,10426,
+Comanche,Superintendent of Public Instruction,Larry Huff,IND,66,220,1813,2099,
+Comanche,Commissioner of Labor,Leslie Osborn,REP,732,1782,11692,14206,
+Comanche,Commissioner of Labor,Fred Dorrell,DEM,570,1416,8282,10268,
+Comanche,Commissioner of Labor,Brandt Dismukes,IND,64,160,1409,1633,
+Comanche,Insurance Commissioner,Glen Mulready,REP,721,1795,12009,14525,
+Comanche,Insurance Commissioner,Kimberly Fobbs,DEM,645,1568,9356,11569,
+Comanche,Corporation Commissioner,Bob Anthony,REP,748,1784,11743,14275,
+Comanche,Corporation Commissioner,Ashley Nicole Mccray,DEM,560,1436,8398,10394,
+Comanche,Corporation Commissioner,Jackie Short,IND,69,160,1298,1527,
+Comanche,U.S. House,Tom Cole,REP,806,1956,13012,15774,04
+Comanche,U.S. House,Mary Brannon,DEM,538,1274,7323,9135,04
+Comanche,U.S. House,Ruby Peters,IND,50,176,1350,1576,04
+Comanche,State Senate,John Michael Montgomery,REP,497,825,7117,8439,32
+Comanche,State Senate,Jacobi Crowley,DEM,413,844,5610,6867,32
+Comanche,State House,Daniel Pae,REP,258,487,3377,4122,62
+Comanche,State House,Larry Bush,DEM,222,550,3308,4080,62
+Comanche,State House,Trey Caldwell,REP,255,387,4459,5101,63
+Comanche,State House,Joan Gabelmann,DEM,109,251,1878,2238,63
+Comanche,State House,Rande Worthen,REP,207,521,2751,3479,64
+Comanche,State House,Ashley Mccarter,DEM,188,444,2443,3075,64
+Comanche,State House,David Pilon,IND,8,23,280,311,64
+Comanche,State House,Toni Hasenbeck,REP,79,452,1891,2422,65
+Comanche,State House,Brandon Thompson,DEM,61,286,1251,1598,65
+Cotton,Governor,Chris Powell,LIB,2,16,77,95,
+Cotton,Governor,Kevin Stitt,REP,45,194,1073,1312,
+Cotton,Governor,Drew Edmondson,DEM,31,65,502,598,
+Cotton,Lieutenant Governor,Matt Pinnell,REP,50,209,1193,1452,
+Cotton,Lieutenant Governor,Anastasia Pittman,DEM,25,50,389,464,
+Cotton,Lieutenant Governor,Ivan Holmes,IND,2,11,56,69,
+Cotton,State Auditor,John Yeutter,LIB,14,31,257,302,
+Cotton,State Auditor,Cindy Byrd,REP,56,228,1301,1585,
+Cotton,Attorney General,Mike Hunter,REP,50,217,1241,1508,
+Cotton,Attorney General,Mark Myles,DEM,25,52,393,470,
+Cotton,State Treasurer,Randy Mcdaniel,REP,55,225,1296,1576,
+Cotton,State Treasurer,Charles De Coune,IND,14,32,262,308,
+Cotton,Superintendent of Public Instruction,Joy Hofmeister,REP,45,200,1106,1351,
+Cotton,Superintendent of Public Instruction,John Cox,DEM,29,50,387,466,
+Cotton,Superintendent of Public Instruction,Larry Huff,IND,3,22,141,166,
+Cotton,Commissioner of Labor,Leslie Osborn,REP,49,206,1134,1389,
+Cotton,Commissioner of Labor,Fred Dorrell,DEM,24,49,392,465,
+Cotton,Commissioner of Labor,Brandt Dismukes,IND,1,15,98,114,
+Cotton,Insurance Commissioner,Glen Mulready,REP,48,211,1186,1445,
+Cotton,Insurance Commissioner,Kimberly Fobbs,DEM,26,59,435,520,
+Cotton,Corporation Commissioner,Bob Anthony,REP,48,208,1179,1435,
+Cotton,Corporation Commissioner,Ashley Nicole Mccray,DEM,23,48,360,431,
+Cotton,Corporation Commissioner,Jackie Short,IND,5,16,86,107,
+Cotton,U.S. House,Tom Cole,REP,54,225,1261,1540,04
+Cotton,U.S. House,Mary Brannon,DEM,21,38,319,378,04
+Cotton,U.S. House,Ruby Peters,IND,2,12,62,76,04
+Cotton,State House,Toni Hasenbeck,REP,39,151,941,1131,65
+Cotton,State House,Brandon Thompson,DEM,38,121,700,859,65
+Craig,Governor,Chris Powell,LIB,1,7,156,164,
+Craig,Governor,Kevin Stitt,REP,62,245,2556,2863,
+Craig,Governor,Drew Edmondson,DEM,71,148,1494,1713,
+Craig,Lieutenant Governor,Matt Pinnell,REP,78,271,2871,3220,
+Craig,Lieutenant Governor,Anastasia Pittman,DEM,54,116,1189,1359,
+Craig,Lieutenant Governor,Ivan Holmes,IND,1,7,129,137,
+Craig,State Auditor,John Yeutter,LIB,34,70,835,939,
+Craig,State Auditor,Cindy Byrd,REP,86,309,3162,3557,
+Craig,Attorney General,Mike Hunter,REP,78,270,2882,3230,
+Craig,Attorney General,Mark Myles,DEM,53,124,1283,1460,
+Craig,State Treasurer,Randy Mcdaniel,REP,90,295,3220,3605,
+Craig,State Treasurer,Charles De Coune,IND,32,81,770,883,
+Craig,Superintendent of Public Instruction,Joy Hofmeister,REP,70,230,2452,2752,
+Craig,Superintendent of Public Instruction,John Cox,DEM,54,142,1439,1635,
+Craig,Superintendent of Public Instruction,Larry Huff,IND,7,21,306,334,
+Craig,Commissioner of Labor,Leslie Osborn,REP,75,251,2686,3012,
+Craig,Commissioner of Labor,Fred Dorrell,DEM,51,129,1276,1456,
+Craig,Commissioner of Labor,Brandt Dismukes,IND,4,11,187,202,
+Craig,Insurance Commissioner,Glen Mulready,REP,74,253,2780,3107,
+Craig,Insurance Commissioner,Kimberly Fobbs,DEM,57,137,1364,1558,
+Craig,Corporation Commissioner,Bob Anthony,REP,73,252,2691,3016,
+Craig,Corporation Commissioner,Ashley Nicole Mccray,DEM,51,126,1230,1407,
+Craig,Corporation Commissioner,Jackie Short,IND,7,16,233,256,
+Craig,U.S. House,Richard Castaldo,LIB,1,1,58,60,02
+Craig,U.S. House,Markwayne Mullin,REP,84,275,2922,3281,02
+Craig,U.S. House,Jason Nichols,DEM,45,116,1111,1272,02
+Craig,U.S. House,John Foreman,IND,2,7,116,125,02
+Craig,State House,Rusty Cornwell,REP,70,235,2663,2968,6
+Craig,State House,John Myers,DEM,63,164,1545,1772,6
+Creek,Governor,Chris Powell,LIB,20,36,719,775,
+Creek,Governor,Kevin Stitt,REP,508,1537,12825,14870,
+Creek,Governor,Drew Edmondson,DEM,286,830,5932,7048,
+Creek,Lieutenant Governor,Matt Pinnell,REP,522,1688,14008,16218,
+Creek,Lieutenant Governor,Anastasia Pittman,DEM,259,664,4680,5603,
+Creek,Lieutenant Governor,Ivan Holmes,IND,22,43,680,745,
+Creek,State Auditor,John Yeutter,LIB,149,392,3519,4060,
+Creek,State Auditor,Cindy Byrd,REP,579,1809,14782,17170,
+Creek,Attorney General,Mike Hunter,REP,538,1690,14354,16582,
+Creek,Attorney General,Mark Myles,DEM,268,687,4919,5874,
+Creek,State Treasurer,Randy Mcdaniel,REP,547,1749,14529,16825,
+Creek,State Treasurer,Charles De Coune,IND,182,468,3716,4366,
+Creek,Superintendent of Public Instruction,Joy Hofmeister,REP,509,1561,12711,14781,
+Creek,Superintendent of Public Instruction,John Cox,DEM,246,677,4943,5866,
+Creek,Superintendent of Public Instruction,Larry Huff,IND,50,152,1671,1873,
+Creek,Commissioner of Labor,Leslie Osborn,REP,521,1610,13322,15453,
+Creek,Commissioner of Labor,Fred Dorrell,DEM,247,689,4809,5745,
+Creek,Commissioner of Labor,Brandt Dismukes,IND,32,69,983,1084,
+Creek,Insurance Commissioner,Glen Mulready,REP,523,1659,13865,16047,
+Creek,Insurance Commissioner,Kimberly Fobbs,DEM,276,718,5302,6296,
+Creek,Corporation Commissioner,Bob Anthony,REP,502,1670,13364,15536,
+Creek,Corporation Commissioner,Ashley Nicole Mccray,DEM,256,640,4738,5634,
+Creek,Corporation Commissioner,Jackie Short,IND,39,81,1150,1270,
+Creek,U.S. House,Kevin Hern,REP,45,202,1640,1887,01
+Creek,U.S. House,Tim Gilpin,DEM,7,76,472,555,01
+Creek,U.S. House,Frank Lucas,REP,497,1501,12646,14644,03
+Creek,U.S. House,Frankie Robbins,DEM,253,612,4523,5388,03
+Creek,State Senate,James Leewright,REP,549,1735,14566,16850,12
+Creek,State Senate,Rick Parris,DEM,253,655,4729,5637,12
+Creek,State House,Kyle Hilbert,REP,254,666,7100,8020,29
+Creek,State House,Jesse Goodwin,DEM,95,242,2228,2565,29
+Creek,State House,Ty Burns,REP,53,67,1462,1582,35
+Creek,State House,Jasha Lyons Echo-Hawk,DEM,27,10,527,564,35
+Creek,State House,J. Lee Miller Jr.,LIB,0,2,18,20,68
+Creek,State House,Lonnie Sims,REP,6,12,301,319,68
+Creek,State House,Michael Ross,DEM,17,11,101,129,68
+Creek,State House,Heather Chenoweth,IND,3,0,44,47,68
+Custer,Governor,Chris Powell,LIB,8,15,311,334,
+Custer,Governor,Kevin Stitt,REP,200,444,4595,5239,
+Custer,Governor,Drew Edmondson,DEM,111,237,2367,2715,
+Custer,Lieutenant Governor,Matt Pinnell,REP,221,483,5186,5890,
+Custer,Lieutenant Governor,Anastasia Pittman,DEM,87,190,1811,2088,
+Custer,Lieutenant Governor,Ivan Holmes,IND,9,18,233,260,
+Custer,State Auditor,John Yeutter,LIB,48,116,1226,1390,
+Custer,State Auditor,Cindy Byrd,REP,246,544,5781,6571,
+Custer,Attorney General,Mike Hunter,REP,223,489,5352,6064,
+Custer,Attorney General,Mark Myles,DEM,93,206,1852,2151,
+Custer,State Treasurer,Randy Mcdaniel,REP,234,524,5644,6402,
+Custer,State Treasurer,Charles De Coune,IND,61,139,1336,1536,
+Custer,Superintendent of Public Instruction,Joy Hofmeister,REP,203,478,4893,5574,
+Custer,Superintendent of Public Instruction,John Cox,DEM,89,168,1701,1958,
+Custer,Superintendent of Public Instruction,Larry Huff,IND,25,48,630,703,
+Custer,Commissioner of Labor,Leslie Osborn,REP,223,492,5180,5895,
+Custer,Commissioner of Labor,Fred Dorrell,DEM,85,172,1638,1895,
+Custer,Commissioner of Labor,Brandt Dismukes,IND,10,26,346,382,
+Custer,Insurance Commissioner,Glen Mulready,REP,214,490,5116,5820,
+Custer,Insurance Commissioner,Kimberly Fobbs,DEM,100,199,2021,2320,
+Custer,Corporation Commissioner,Bob Anthony,REP,206,470,4935,5611,
+Custer,Corporation Commissioner,Ashley Nicole Mccray,DEM,92,192,1806,2090,
+Custer,Corporation Commissioner,Jackie Short,IND,19,32,445,496,
+Custer,U.S. House,Frank Lucas,REP,240,533,5586,6359,03
+Custer,U.S. House,Frankie Robbins,DEM,77,166,1659,1902,03
+Custer,State Senate,Brent Howard,REP,108,312,2996,3416,38
+Custer,State Senate,Jeff Berrong,DEM,132,233,2374,2739,38
+Delaware,Governor,Chris Powell,LIB,23,16,405,444,
+Delaware,Governor,Kevin Stitt,REP,465,714,7364,8543,
+Delaware,Governor,Drew Edmondson,DEM,273,411,3430,4114,
+Delaware,Lieutenant Governor,Matt Pinnell,REP,501,772,8104,9377,
+Delaware,Lieutenant Governor,Anastasia Pittman,DEM,227,344,2667,3238,
+Delaware,Lieutenant Governor,Ivan Holmes,IND,32,17,332,381,
+Delaware,State Auditor,John Yeutter,LIB,138,198,1891,2227,
+Delaware,State Auditor,Cindy Byrd,REP,550,834,8512,9896,
+Delaware,Attorney General,Mike Hunter,REP,510,771,8212,9493,
+Delaware,Attorney General,Mark Myles,DEM,243,358,2849,3450,
+Delaware,State Treasurer,Randy Mcdaniel,REP,523,815,8448,9786,
+Delaware,State Treasurer,Charles De Coune,IND,167,219,1954,2340,
+Delaware,Superintendent of Public Instruction,Joy Hofmeister,REP,451,675,6816,7942,
+Delaware,Superintendent of Public Instruction,John Cox,DEM,251,417,3575,4243,
+Delaware,Superintendent of Public Instruction,Larry Huff,IND,64,46,726,836,
+Delaware,Commissioner of Labor,Leslie Osborn,REP,499,751,7646,8896,
+Delaware,Commissioner of Labor,Fred Dorrell,DEM,225,342,2882,3449,
+Delaware,Commissioner of Labor,Brandt Dismukes,IND,29,25,442,496,
+Delaware,Insurance Commissioner,Glen Mulready,REP,484,757,7887,9128,
+Delaware,Insurance Commissioner,Kimberly Fobbs,DEM,261,371,3107,3739,
+Delaware,Corporation Commissioner,Bob Anthony,REP,477,752,7649,8878,
+Delaware,Corporation Commissioner,Ashley Nicole Mccray,DEM,227,348,2787,3362,
+Delaware,Corporation Commissioner,Jackie Short,IND,44,31,581,656,
+Delaware,U.S. House,Richard Castaldo,LIB,19,15,274,308,02
+Delaware,U.S. House,Markwayne Mullin,REP,501,739,7790,9030,02
+Delaware,U.S. House,Jason Nichols,DEM,223,361,2796,3380,02
+Delaware,U.S. House,John Foreman,IND,27,21,308,356,02
+Delaware,State House,Josh West,REP,360,568,5203,6131,5
+Delaware,State House,Ed Trumbull,DEM,166,335,2278,2779,5
+Delaware,State House,William Leonard,REP,56,64,1019,1139,7
+Delaware,State House,Ben Loring,DEM,41,37,557,635,7
+Delaware,State House,David Hardin,REP,74,88,1254,1416,86
+Delaware,State House,Rhonda Cox,DEM,68,43,829,940,86
+Dewey,Governor,Chris Powell,LIB,0,1,48,49,
+Dewey,Governor,Kevin Stitt,REP,55,79,1270,1404,
+Dewey,Governor,Drew Edmondson,DEM,19,14,282,315,
+Dewey,Lieutenant Governor,Matt Pinnell,REP,61,86,1350,1497,
+Dewey,Lieutenant Governor,Anastasia Pittman,DEM,10,7,204,221,
+Dewey,Lieutenant Governor,Ivan Holmes,IND,4,1,30,35,
+Dewey,State Auditor,John Yeutter,LIB,3,6,169,178,
+Dewey,State Auditor,Cindy Byrd,REP,64,86,1374,1524,
+Dewey,Attorney General,Mike Hunter,REP,58,86,1335,1479,
+Dewey,Attorney General,Mark Myles,DEM,17,8,243,268,
+Dewey,State Treasurer,Randy Mcdaniel,REP,61,82,1401,1544,
+Dewey,State Treasurer,Charles De Coune,IND,9,12,133,154,
+Dewey,Superintendent of Public Instruction,Joy Hofmeister,REP,50,72,1131,1253,
+Dewey,Superintendent of Public Instruction,John Cox,DEM,22,16,343,381,
+Dewey,Superintendent of Public Instruction,Larry Huff,IND,3,6,107,116,
+Dewey,Commissioner of Labor,Leslie Osborn,REP,59,79,1283,1421,
+Dewey,Commissioner of Labor,Fred Dorrell,DEM,15,13,232,260,
+Dewey,Commissioner of Labor,Brandt Dismukes,IND,1,1,54,56,
+Dewey,Insurance Commissioner,Glen Mulready,REP,60,80,1310,1450,
+Dewey,Insurance Commissioner,Kimberly Fobbs,DEM,14,13,255,282,
+Dewey,Corporation Commissioner,Bob Anthony,REP,60,77,1273,1410,
+Dewey,Corporation Commissioner,Ashley Nicole Mccray,DEM,15,12,223,250,
+Dewey,Corporation Commissioner,Jackie Short,IND,0,4,86,90,
+Dewey,U.S. House,Frank Lucas,REP,66,84,1407,1557,03
+Dewey,U.S. House,Frankie Robbins,DEM,9,9,184,202,03
+Ellis,Governor,Chris Powell,LIB,1,11,43,55,
+Ellis,Governor,Kevin Stitt,REP,58,110,1018,1186,
+Ellis,Governor,Drew Edmondson,DEM,26,23,187,236,
+Ellis,Lieutenant Governor,Matt Pinnell,REP,62,116,1065,1243,
+Ellis,Lieutenant Governor,Anastasia Pittman,DEM,22,24,145,191,
+Ellis,Lieutenant Governor,Ivan Holmes,IND,0,1,28,29,
+Ellis,State Auditor,John Yeutter,LIB,10,18,127,155,
+Ellis,State Auditor,Cindy Byrd,REP,71,119,1087,1277,
+Ellis,Attorney General,Mike Hunter,REP,63,116,1078,1257,
+Ellis,Attorney General,Mark Myles,DEM,20,24,159,203,
+Ellis,State Treasurer,Randy Mcdaniel,REP,70,121,1100,1291,
+Ellis,State Treasurer,Charles De Coune,IND,11,13,118,142,
+Ellis,Superintendent of Public Instruction,Joy Hofmeister,REP,59,97,954,1110,
+Ellis,Superintendent of Public Instruction,John Cox,DEM,21,31,177,229,
+Ellis,Superintendent of Public Instruction,Larry Huff,IND,4,13,110,127,
+Ellis,Commissioner of Labor,Leslie Osborn,REP,67,109,1058,1234,
+Ellis,Commissioner of Labor,Fred Dorrell,DEM,15,17,128,160,
+Ellis,Commissioner of Labor,Brandt Dismukes,IND,3,9,46,58,
+Ellis,Insurance Commissioner,Glen Mulready,REP,64,111,1051,1226,
+Ellis,Insurance Commissioner,Kimberly Fobbs,DEM,20,25,171,216,
+Ellis,Corporation Commissioner,Bob Anthony,REP,64,109,977,1150,
+Ellis,Corporation Commissioner,Ashley Nicole Mccray,DEM,18,23,181,222,
+Ellis,Corporation Commissioner,Jackie Short,IND,2,7,75,84,
+Ellis,U.S. House,Frank Lucas,REP,68,122,1105,1295,03
+Ellis,U.S. House,Frankie Robbins,DEM,17,20,143,180,03
+Ellis,State House,Kenton Patzkowsky,REP,54,101,952,1107,61
+Ellis,State House,Ashley Lehnert,DEM,29,40,290,359,61
+Garfield,Governor,Chris Powell,LIB,26,60,668,754,
+Garfield,Governor,Kevin Stitt,REP,470,1250,9288,11008,
+Garfield,Governor,Drew Edmondson,DEM,309,713,4591,5613,
+Garfield,Lieutenant Governor,Matt Pinnell,REP,535,1427,10653,12615,
+Garfield,Lieutenant Governor,Anastasia Pittman,DEM,225,516,3265,4006,
+Garfield,Lieutenant Governor,Ivan Holmes,IND,31,74,556,661,
+Garfield,State Auditor,John Yeutter,LIB,145,320,2395,2860,
+Garfield,State Auditor,Cindy Byrd,REP,575,1591,11504,13670,
+Garfield,Attorney General,Mike Hunter,REP,540,1459,10908,12907,
+Garfield,Attorney General,Mark Myles,DEM,250,552,3504,4306,
+Garfield,State Treasurer,Randy Mcdaniel,REP,556,1497,11010,13063,
+Garfield,State Treasurer,Charles De Coune,IND,165,416,2857,3438,
+Garfield,Superintendent of Public Instruction,Joy Hofmeister,REP,529,1459,10275,12263,
+Garfield,Superintendent of Public Instruction,John Cox,DEM,217,425,2992,3634,
+Garfield,Superintendent of Public Instruction,Larry Huff,IND,47,133,1189,1369,
+Garfield,Commissioner of Labor,Leslie Osborn,REP,540,1421,10444,12405,
+Garfield,Commissioner of Labor,Fred Dorrell,DEM,215,496,3143,3854,
+Garfield,Commissioner of Labor,Brandt Dismukes,IND,32,79,739,850,
+Garfield,Insurance Commissioner,Glen Mulready,REP,525,1442,10575,12542,
+Garfield,Insurance Commissioner,Kimberly Fobbs,DEM,252,549,3759,4560,
+Garfield,Corporation Commissioner,Bob Anthony,REP,517,1355,9948,11820,
+Garfield,Corporation Commissioner,Ashley Nicole Mccray,DEM,227,538,3445,4210,
+Garfield,Corporation Commissioner,Jackie Short,IND,48,118,997,1163,
+Garfield,U.S. House,Frank Lucas,REP,558,1467,11061,13086,03
+Garfield,U.S. House,Frankie Robbins,DEM,241,555,3407,4203,03
+Garfield,State House,Chad Caldwell,REP,262,617,4649,5528,40
+Garfield,State House,Norman Grey,DEM,167,493,3070,3730,40
+Garfield,State House,Denise Crosswhite Hader,REP,176,498,3420,4094,41
+Garfield,State House,Jennie Scott,DEM,122,318,1647,2087,41
+Garvin,Governor,Chris Powell,LIB,0,24,245,269,
+Garvin,Governor,Kevin Stitt,REP,147,520,4473,5140,
+Garvin,Governor,Drew Edmondson,DEM,76,255,2179,2510,
+Garvin,Lieutenant Governor,Matt Pinnell,REP,159,582,4968,5709,
+Garvin,Lieutenant Governor,Anastasia Pittman,DEM,64,196,1671,1931,
+Garvin,Lieutenant Governor,Ivan Holmes,IND,2,19,216,237,
+Garvin,State Auditor,John Yeutter,LIB,29,124,1010,1163,
+Garvin,State Auditor,Cindy Byrd,REP,177,610,5478,6265,
+Garvin,Attorney General,Mike Hunter,REP,158,581,5084,5823,
+Garvin,Attorney General,Mark Myles,DEM,66,211,1741,2018,
+Garvin,State Treasurer,Randy Mcdaniel,REP,165,605,5326,6096,
+Garvin,State Treasurer,Charles De Coune,IND,40,136,1143,1319,
+Garvin,Superintendent of Public Instruction,Joy Hofmeister,REP,151,548,4593,5292,
+Garvin,Superintendent of Public Instruction,John Cox,DEM,62,185,1701,1948,
+Garvin,Superintendent of Public Instruction,Larry Huff,IND,11,64,551,626,
+Garvin,Commissioner of Labor,Leslie Osborn,REP,157,555,4878,5590,
+Garvin,Commissioner of Labor,Fred Dorrell,DEM,58,196,1621,1875,
+Garvin,Commissioner of Labor,Brandt Dismukes,IND,6,35,287,328,
+Garvin,Insurance Commissioner,Glen Mulready,REP,156,567,4857,5580,
+Garvin,Insurance Commissioner,Kimberly Fobbs,DEM,67,224,1928,2219,
+Garvin,Corporation Commissioner,Bob Anthony,REP,160,551,4654,5365,
+Garvin,Corporation Commissioner,Ashley Nicole Mccray,DEM,59,206,1772,2037,
+Garvin,Corporation Commissioner,Jackie Short,IND,5,35,394,434,
+Garvin,U.S. House,Tom Cole,REP,164,580,5042,5786,04
+Garvin,U.S. House,Mary Brannon,DEM,55,198,1579,1832,04
+Garvin,U.S. House,Ruby Peters,IND,3,18,236,257,04
+Garvin,State House,Sherrie Conley,REP,39,141,633,813,20
+Garvin,State House,Steve Jarman,DEM,14,69,403,486,20
+Garvin,State House,Charles Mccall,REP,12,40,727,779,22
+Garvin,State House,Wayne Eidson,DEM,7,31,376,414,22
+Garvin,State House,Renae Ward,IND,2,2,54,58,22
+Garvin,State House,Cynthia Roe,REP,102,340,3092,3534,42
+Garvin,State House,Liz George,DEM,42,158,1335,1535,42
+Garvin,State House,Tammy Townley,REP,4,9,156,169,48
+Garvin,State House,Cheryl Key,DEM,3,6,72,81,48
+Grady,Governor,Chris Powell,LIB,33,30,631,694,
+Grady,Governor,Kevin Stitt,REP,610,725,9838,11173,
+Grady,Governor,Drew Edmondson,DEM,368,369,4544,5281,
+Grady,Lieutenant Governor,Matt Pinnell,REP,677,787,10947,12411,
+Grady,Lieutenant Governor,Anastasia Pittman,DEM,289,311,3462,4062,
+Grady,Lieutenant Governor,Ivan Holmes,IND,34,21,519,574,
+Grady,State Auditor,John Yeutter,LIB,197,216,2486,2899,
+Grady,State Auditor,Cindy Byrd,REP,741,833,11783,13357,
+Grady,Attorney General,Mike Hunter,REP,697,800,11116,12613,
+Grady,Attorney General,Mark Myles,DEM,302,316,3744,4362,
+Grady,State Treasurer,Randy Mcdaniel,REP,716,824,11543,13083,
+Grady,State Treasurer,Charles De Coune,IND,221,231,2668,3120,
+Grady,Superintendent of Public Instruction,Joy Hofmeister,REP,658,702,9842,11202,
+Grady,Superintendent of Public Instruction,John Cox,DEM,281,324,3654,4259,
+Grady,Superintendent of Public Instruction,Larry Huff,IND,66,91,1392,1549,
+Grady,Commissioner of Labor,Leslie Osborn,REP,694,768,10893,12355,
+Grady,Commissioner of Labor,Fred Dorrell,DEM,259,285,3182,3726,
+Grady,Commissioner of Labor,Brandt Dismukes,IND,50,67,748,865,
+Grady,Insurance Commissioner,Glen Mulready,REP,684,774,10815,12273,
+Grady,Insurance Commissioner,Kimberly Fobbs,DEM,303,344,3951,4598,
+Grady,Corporation Commissioner,Bob Anthony,REP,641,749,10105,11495,
+Grady,Corporation Commissioner,Ashley Nicole Mccray,DEM,297,303,3814,4414,
+Grady,Corporation Commissioner,Jackie Short,IND,60,67,915,1042,
+Grady,U.S. House,Tom Cole,REP,697,797,11177,12671,04
+Grady,U.S. House,Mary Brannon,DEM,270,297,3212,3779,04
+Grady,U.S. House,Ruby Peters,IND,36,26,549,611,04
+Grady,State House,Brian Hill,REP,150,72,1923,2145,47
+Grady,State House,Sarah Carnes,DEM,56,32,670,758,47
+Grady,State House,Charles Wells,REP,111,235,2046,2392,56
+Grady,State House,David Perryman,DEM,113,257,2496,2866,56
+Grady,State House,Toni Hasenbeck,REP,34,21,582,637,65
+Grady,State House,Brandon Thompson,DEM,11,5,314,330,65
+Grant,Governor,Chris Powell,LIB,1,4,71,76,
+Grant,Governor,Kevin Stitt,REP,37,93,1120,1250,
+Grant,Governor,Drew Edmondson,DEM,12,25,341,378,
+Grant,Lieutenant Governor,Matt Pinnell,REP,44,97,1215,1356,
+Grant,Lieutenant Governor,Anastasia Pittman,DEM,5,21,241,267,
+Grant,Lieutenant Governor,Ivan Holmes,IND,1,5,63,69,
+Grant,State Auditor,John Yeutter,LIB,4,8,213,225,
+Grant,State Auditor,Cindy Byrd,REP,44,111,1263,1418,
+Grant,Attorney General,Mike Hunter,REP,44,102,1242,1388,
+Grant,Attorney General,Mark Myles,DEM,4,20,273,297,
+Grant,State Treasurer,Randy Mcdaniel,REP,40,108,1257,1405,
+Grant,State Treasurer,Charles De Coune,IND,6,12,213,231,
+Grant,Superintendent of Public Instruction,Joy Hofmeister,REP,36,89,1090,1215,
+Grant,Superintendent of Public Instruction,John Cox,DEM,9,18,280,307,
+Grant,Superintendent of Public Instruction,Larry Huff,IND,2,15,152,169,
+Grant,Commissioner of Labor,Leslie Osborn,REP,41,100,1196,1337,
+Grant,Commissioner of Labor,Fred Dorrell,DEM,4,15,238,257,
+Grant,Commissioner of Labor,Brandt Dismukes,IND,2,5,71,78,
+Grant,Insurance Commissioner,Glen Mulready,REP,39,96,1203,1338,
+Grant,Insurance Commissioner,Kimberly Fobbs,DEM,7,24,301,332,
+Grant,Corporation Commissioner,Bob Anthony,REP,39,89,1136,1264,
+Grant,Corporation Commissioner,Ashley Nicole Mccray,DEM,5,21,288,314,
+Grant,Corporation Commissioner,Jackie Short,IND,4,11,90,105,
+Grant,U.S. House,Frank Lucas,REP,41,93,1212,1346,03
+Grant,U.S. House,Frankie Robbins,DEM,7,28,315,350,03
+Greer,Governor,Chris Powell,LIB,1,5,52,58,
+Greer,Governor,Kevin Stitt,REP,39,99,808,946,
+Greer,Governor,Drew Edmondson,DEM,13,45,411,469,
+Greer,Lieutenant Governor,Matt Pinnell,REP,37,104,890,1031,
+Greer,Lieutenant Governor,Anastasia Pittman,DEM,16,42,314,372,
+Greer,Lieutenant Governor,Ivan Holmes,IND,0,2,54,56,
+Greer,State Auditor,John Yeutter,LIB,7,17,222,246,
+Greer,State Auditor,Cindy Byrd,REP,44,118,967,1129,
+Greer,Attorney General,Mike Hunter,REP,43,109,924,1076,
+Greer,Attorney General,Mark Myles,DEM,10,40,333,383,
+Greer,State Treasurer,Randy Mcdaniel,REP,46,117,969,1132,
+Greer,State Treasurer,Charles De Coune,IND,4,20,228,252,
+Greer,Superintendent of Public Instruction,Joy Hofmeister,REP,35,107,842,984,
+Greer,Superintendent of Public Instruction,John Cox,DEM,14,31,307,352,
+Greer,Superintendent of Public Instruction,Larry Huff,IND,4,10,116,130,
+Greer,Commissioner of Labor,Leslie Osborn,REP,42,107,855,1004,
+Greer,Commissioner of Labor,Fred Dorrell,DEM,10,37,326,373,
+Greer,Commissioner of Labor,Brandt Dismukes,IND,1,2,64,67,
+Greer,Insurance Commissioner,Glen Mulready,REP,39,103,875,1017,
+Greer,Insurance Commissioner,Kimberly Fobbs,DEM,12,43,363,418,
+Greer,Corporation Commissioner,Bob Anthony,REP,39,97,873,1009,
+Greer,Corporation Commissioner,Ashley Nicole Mccray,DEM,13,42,308,363,
+Greer,Corporation Commissioner,Jackie Short,IND,0,7,76,83,
+Greer,U.S. House,Frank Lucas,REP,42,113,967,1122,03
+Greer,U.S. House,Frankie Robbins,DEM,11,35,300,346,03
+Greer,State Senate,Brent Howard,REP,36,102,826,964,38
+Greer,State Senate,Jeff Berrong,DEM,17,45,437,499,38
+Greer,State House,Todd Russ,REP,5,19,132,156,55
+Greer,State House,Dennis Dugger,DEM,5,5,89,99,55
+Harmon,Governor,Chris Powell,LIB,1,2,23,26,
+Harmon,Governor,Kevin Stitt,REP,9,57,377,443,
+Harmon,Governor,Drew Edmondson,DEM,8,27,242,277,
+Harmon,Lieutenant Governor,Matt Pinnell,REP,11,64,443,518,
+Harmon,Lieutenant Governor,Anastasia Pittman,DEM,5,20,175,200,
+Harmon,Lieutenant Governor,Ivan Holmes,IND,2,2,15,19,
+Harmon,State Auditor,John Yeutter,LIB,1,5,109,115,
+Harmon,State Auditor,Cindy Byrd,REP,12,72,472,556,
+Harmon,Attorney General,Mike Hunter,REP,14,70,444,528,
+Harmon,Attorney General,Mark Myles,DEM,4,16,188,208,
+Harmon,State Treasurer,Randy Mcdaniel,REP,13,72,480,565,
+Harmon,State Treasurer,Charles De Coune,IND,0,5,120,125,
+Harmon,Superintendent of Public Instruction,Joy Hofmeister,REP,12,61,412,485,
+Harmon,Superintendent of Public Instruction,John Cox,DEM,5,19,176,200,
+Harmon,Superintendent of Public Instruction,Larry Huff,IND,1,6,51,58,
+Harmon,Commissioner of Labor,Leslie Osborn,REP,12,64,400,476,
+Harmon,Commissioner of Labor,Fred Dorrell,DEM,5,19,208,232,
+Harmon,Commissioner of Labor,Brandt Dismukes,IND,1,3,19,23,
+Harmon,Insurance Commissioner,Glen Mulready,REP,14,63,401,478,
+Harmon,Insurance Commissioner,Kimberly Fobbs,DEM,4,23,227,254,
+Harmon,Corporation Commissioner,Bob Anthony,REP,13,67,408,488,
+Harmon,Corporation Commissioner,Ashley Nicole Mccray,DEM,4,15,199,218,
+Harmon,Corporation Commissioner,Jackie Short,IND,1,4,23,28,
+Harmon,U.S. House,Frank Lucas,REP,14,72,473,559,03
+Harmon,U.S. House,Frankie Robbins,DEM,4,14,164,182,03
+Harmon,State Senate,Brent Howard,REP,13,60,391,464,38
+Harmon,State Senate,Jeff Berrong,DEM,5,26,251,282,38
+Harper,Governor,Chris Powell,LIB,1,3,44,48,
+Harper,Governor,Kevin Stitt,REP,33,84,831,948,
+Harper,Governor,Drew Edmondson,DEM,8,23,183,214,
+Harper,Lieutenant Governor,Matt Pinnell,REP,35,91,890,1016,
+Harper,Lieutenant Governor,Anastasia Pittman,DEM,6,19,126,151,
+Harper,Lieutenant Governor,Ivan Holmes,IND,1,1,36,38,
+Harper,State Auditor,John Yeutter,LIB,4,12,107,123,
+Harper,State Auditor,Cindy Byrd,REP,35,95,926,1056,
+Harper,Attorney General,Mike Hunter,REP,33,87,905,1025,
+Harper,Attorney General,Mark Myles,DEM,9,23,146,178,
+Harper,State Treasurer,Randy Mcdaniel,REP,33,93,942,1068,
+Harper,State Treasurer,Charles De Coune,IND,7,12,91,110,
+Harper,Superintendent of Public Instruction,Joy Hofmeister,REP,32,81,805,918,
+Harper,Superintendent of Public Instruction,John Cox,DEM,8,22,179,209,
+Harper,Superintendent of Public Instruction,Larry Huff,IND,2,8,69,79,
+Harper,Commissioner of Labor,Leslie Osborn,REP,34,90,900,1024,
+Harper,Commissioner of Labor,Fred Dorrell,DEM,8,16,117,141,
+Harper,Commissioner of Labor,Brandt Dismukes,IND,0,4,30,34,
+Harper,Insurance Commissioner,Glen Mulready,REP,32,87,881,1000,
+Harper,Insurance Commissioner,Kimberly Fobbs,DEM,9,21,158,188,
+Harper,Corporation Commissioner,Bob Anthony,REP,31,88,848,967,
+Harper,Corporation Commissioner,Ashley Nicole Mccray,DEM,6,19,151,176,
+Harper,Corporation Commissioner,Jackie Short,IND,5,4,50,59,
+Harper,U.S. House,Frank Lucas,REP,37,100,943,1080,03
+Harper,U.S. House,Frankie Robbins,DEM,5,11,110,126,03
+Harper,State House,Kenton Patzkowsky,REP,31,76,736,843,61
+Harper,State House,Ashley Lehnert,DEM,11,35,318,364,61
+Haskell,Governor,Chris Powell,LIB,1,7,99,107,
+Haskell,Governor,Kevin Stitt,REP,45,275,2028,2348,
+Haskell,Governor,Drew Edmondson,DEM,57,176,1013,1246,
+Haskell,Lieutenant Governor,Matt Pinnell,REP,48,299,2183,2530,
+Haskell,Lieutenant Governor,Anastasia Pittman,DEM,51,147,837,1035,
+Haskell,Lieutenant Governor,Ivan Holmes,IND,2,8,92,102,
+Haskell,State Auditor,John Yeutter,LIB,23,76,500,599,
+Haskell,State Auditor,Cindy Byrd,REP,65,334,2389,2788,
+Haskell,Attorney General,Mike Hunter,REP,45,311,2245,2601,
+Haskell,Attorney General,Mark Myles,DEM,56,144,858,1058,
+Haskell,State Treasurer,Randy Mcdaniel,REP,54,343,2403,2800,
+Haskell,State Treasurer,Charles De Coune,IND,32,70,486,588,
+Haskell,Superintendent of Public Instruction,Joy Hofmeister,REP,43,262,1866,2171,
+Haskell,Superintendent of Public Instruction,John Cox,DEM,51,166,1012,1229,
+Haskell,Superintendent of Public Instruction,Larry Huff,IND,7,29,240,276,
+Haskell,Commissioner of Labor,Leslie Osborn,REP,47,280,2066,2393,
+Haskell,Commissioner of Labor,Fred Dorrell,DEM,52,159,901,1112,
+Haskell,Commissioner of Labor,Brandt Dismukes,IND,1,15,121,137,
+Haskell,Insurance Commissioner,Glen Mulready,REP,47,293,2152,2492,
+Haskell,Insurance Commissioner,Kimberly Fobbs,DEM,54,159,930,1143,
+Haskell,Corporation Commissioner,Bob Anthony,REP,46,295,2117,2458,
+Haskell,Corporation Commissioner,Ashley Nicole Mccray,DEM,52,142,834,1028,
+Haskell,Corporation Commissioner,Jackie Short,IND,3,15,144,162,
+Haskell,U.S. House,Richard Castaldo,LIB,0,3,31,34,02
+Haskell,U.S. House,Markwayne Mullin,REP,50,313,2267,2630,02
+Haskell,U.S. House,Jason Nichols,DEM,51,133,751,935,02
+Haskell,U.S. House,John Foreman,IND,2,7,70,79,02
+Haskell,State House,Randy Randleman,REP,43,273,2084,2400,15
+Haskell,State House,Judy Ross Moore,DEM,60,183,1050,1293,15
+Hughes,Governor,Chris Powell,LIB,4,13,149,166,
+Hughes,Governor,Kevin Stitt,REP,75,201,2047,2323,
+Hughes,Governor,Drew Edmondson,DEM,44,131,1161,1336,
+Hughes,Lieutenant Governor,Matt Pinnell,REP,81,218,2273,2572,
+Hughes,Lieutenant Governor,Anastasia Pittman,DEM,38,111,910,1059,
+Hughes,Lieutenant Governor,Ivan Holmes,IND,3,7,141,151,
+Hughes,State Auditor,John Yeutter,LIB,15,42,600,657,
+Hughes,State Auditor,Cindy Byrd,REP,93,273,2560,2926,
+Hughes,Attorney General,Mike Hunter,REP,80,226,2332,2638,
+Hughes,Attorney General,Mark Myles,DEM,43,105,970,1118,
+Hughes,State Treasurer,Randy Mcdaniel,REP,81,249,2559,2889,
+Hughes,State Treasurer,Charles De Coune,IND,32,63,601,696,
+Hughes,Superintendent of Public Instruction,Joy Hofmeister,REP,68,204,2003,2275,
+Hughes,Superintendent of Public Instruction,John Cox,DEM,40,102,1024,1166,
+Hughes,Superintendent of Public Instruction,Larry Huff,IND,12,33,301,346,
+Hughes,Commissioner of Labor,Leslie Osborn,REP,78,215,2201,2494,
+Hughes,Commissioner of Labor,Fred Dorrell,DEM,39,100,948,1087,
+Hughes,Commissioner of Labor,Brandt Dismukes,IND,4,10,144,158,
+Hughes,Insurance Commissioner,Glen Mulready,REP,78,202,2189,2469,
+Hughes,Insurance Commissioner,Kimberly Fobbs,DEM,42,121,1088,1251,
+Hughes,Corporation Commissioner,Bob Anthony,REP,76,201,2112,2389,
+Hughes,Corporation Commissioner,Ashley Nicole Mccray,DEM,39,110,1011,1160,
+Hughes,Corporation Commissioner,Jackie Short,IND,7,18,184,209,
+Hughes,U.S. House,Richard Castaldo,LIB,4,10,70,84,02
+Hughes,U.S. House,Markwayne Mullin,REP,77,211,2135,2423,02
+Hughes,U.S. House,Jason Nichols,DEM,40,102,981,1123,02
+Hughes,U.S. House,John Foreman,IND,1,9,130,140,02
+Hughes,State House,David Smith,REP,13,25,619,657,18
+Hughes,State House,Donnie Condit,DEM,9,29,439,477,18
+Hughes,State House,Logan Phillips,REP,45,130,1110,1285,24
+Hughes,State House,Steve Kouplen,DEM,56,155,1154,1365,24
+Jackson,Governor,Chris Powell,LIB,12,24,160,196,
+Jackson,Governor,Kevin Stitt,REP,154,680,3467,4301,
+Jackson,Governor,Drew Edmondson,DEM,86,317,1586,1989,
+Jackson,Lieutenant Governor,Matt Pinnell,REP,177,776,3800,4753,
+Jackson,Lieutenant Governor,Anastasia Pittman,DEM,65,215,1196,1476,
+Jackson,Lieutenant Governor,Ivan Holmes,IND,8,23,158,189,
+Jackson,State Auditor,John Yeutter,LIB,39,121,877,1037,
+Jackson,State Auditor,Cindy Byrd,REP,193,848,4048,5089,
+Jackson,Attorney General,Mike Hunter,REP,193,799,3928,4920,
+Jackson,Attorney General,Mark Myles,DEM,58,209,1182,1449,
+Jackson,State Treasurer,Randy Mcdaniel,REP,189,799,3979,4967,
+Jackson,State Treasurer,Charles De Coune,IND,43,175,936,1154,
+Jackson,Superintendent of Public Instruction,Joy Hofmeister,REP,172,739,3488,4399,
+Jackson,Superintendent of Public Instruction,John Cox,DEM,66,212,1203,1481,
+Jackson,Superintendent of Public Instruction,Larry Huff,IND,13,56,444,513,
+Jackson,Commissioner of Labor,Leslie Osborn,REP,181,757,3726,4664,
+Jackson,Commissioner of Labor,Fred Dorrell,DEM,62,208,1136,1406,
+Jackson,Commissioner of Labor,Brandt Dismukes,IND,7,33,220,260,
+Jackson,Insurance Commissioner,Glen Mulready,REP,176,747,3764,4687,
+Jackson,Insurance Commissioner,Kimberly Fobbs,DEM,71,247,1321,1639,
+Jackson,Corporation Commissioner,Bob Anthony,REP,176,764,3692,4632,
+Jackson,Corporation Commissioner,Ashley Nicole Mccray,DEM,64,203,1144,1411,
+Jackson,Corporation Commissioner,Jackie Short,IND,9,31,256,296,
+Jackson,U.S. House,Frank Lucas,REP,194,808,4036,5038,03
+Jackson,U.S. House,Frankie Robbins,DEM,54,209,1128,1391,03
+Jackson,State Senate,Brent Howard,REP,185,740,3925,4850,38
+Jackson,State Senate,Jeff Berrong,DEM,67,277,1273,1617,38
+Jefferson,Governor,Chris Powell,LIB,0,1,45,46,
+Jefferson,Governor,Kevin Stitt,REP,27,133,939,1099,
+Jefferson,Governor,Drew Edmondson,DEM,14,36,374,424,
+Jefferson,Lieutenant Governor,Matt Pinnell,REP,29,136,998,1163,
+Jefferson,Lieutenant Governor,Anastasia Pittman,DEM,12,31,309,352,
+Jefferson,Lieutenant Governor,Ivan Holmes,IND,0,1,41,42,
+Jefferson,State Auditor,John Yeutter,LIB,6,16,158,180,
+Jefferson,State Auditor,Cindy Byrd,REP,32,141,1087,1260,
+Jefferson,Attorney General,Mike Hunter,REP,28,133,1020,1181,
+Jefferson,Attorney General,Mark Myles,DEM,13,32,326,371,
+Jefferson,State Treasurer,Randy Mcdaniel,REP,32,142,1074,1248,
+Jefferson,State Treasurer,Charles De Coune,IND,6,17,179,202,
+Jefferson,Superintendent of Public Instruction,Joy Hofmeister,REP,26,128,935,1089,
+Jefferson,Superintendent of Public Instruction,John Cox,DEM,12,31,333,376,
+Jefferson,Superintendent of Public Instruction,Larry Huff,IND,3,8,80,91,
+Jefferson,Commissioner of Labor,Leslie Osborn,REP,27,129,980,1136,
+Jefferson,Commissioner of Labor,Fred Dorrell,DEM,13,30,293,336,
+Jefferson,Commissioner of Labor,Brandt Dismukes,IND,1,5,58,64,
+Jefferson,Insurance Commissioner,Glen Mulready,REP,29,125,996,1150,
+Jefferson,Insurance Commissioner,Kimberly Fobbs,DEM,12,39,340,391,
+Jefferson,Corporation Commissioner,Bob Anthony,REP,27,133,984,1144,
+Jefferson,Corporation Commissioner,Ashley Nicole Mccray,DEM,12,26,302,340,
+Jefferson,Corporation Commissioner,Jackie Short,IND,2,8,60,70,
+Jefferson,U.S. House,Tom Cole,REP,29,136,1056,1221,04
+Jefferson,U.S. House,Mary Brannon,DEM,11,29,263,303,04
+Jefferson,U.S. House,Ruby Peters,IND,0,2,35,37,04
+Johnston,Governor,Chris Powell,LIB,0,8,73,81,
+Johnston,Governor,Kevin Stitt,REP,41,261,1674,1976,
+Johnston,Governor,Drew Edmondson,DEM,16,128,818,962,
+Johnston,Lieutenant Governor,Matt Pinnell,REP,41,270,1786,2097,
+Johnston,Lieutenant Governor,Anastasia Pittman,DEM,14,113,667,794,
+Johnston,Lieutenant Governor,Ivan Holmes,IND,2,11,91,104,
+Johnston,State Auditor,John Yeutter,LIB,9,54,354,417,
+Johnston,State Auditor,Cindy Byrd,REP,44,314,2023,2381,
+Johnston,Attorney General,Mike Hunter,REP,40,281,1840,2161,
+Johnston,Attorney General,Mark Myles,DEM,16,111,692,819,
+Johnston,State Treasurer,Randy Mcdaniel,REP,44,297,1971,2312,
+Johnston,State Treasurer,Charles De Coune,IND,10,68,384,462,
+Johnston,Superintendent of Public Instruction,Joy Hofmeister,REP,40,256,1653,1949,
+Johnston,Superintendent of Public Instruction,John Cox,DEM,17,115,714,846,
+Johnston,Superintendent of Public Instruction,Larry Huff,IND,0,21,163,184,
+Johnston,Commissioner of Labor,Leslie Osborn,REP,39,266,1729,2034,
+Johnston,Commissioner of Labor,Fred Dorrell,DEM,15,106,688,809,
+Johnston,Commissioner of Labor,Brandt Dismukes,IND,3,15,94,112,
+Johnston,Insurance Commissioner,Glen Mulready,REP,42,270,1736,2048,
+Johnston,Insurance Commissioner,Kimberly Fobbs,DEM,15,118,774,907,
+Johnston,Corporation Commissioner,Bob Anthony,REP,35,262,1701,1998,
+Johnston,Corporation Commissioner,Ashley Nicole Mccray,DEM,16,106,676,798,
+Johnston,Corporation Commissioner,Jackie Short,IND,5,25,142,172,
+Johnston,U.S. House,Richard Castaldo,LIB,0,5,45,50,02
+Johnston,U.S. House,Markwayne Mullin,REP,39,275,1813,2127,02
+Johnston,U.S. House,Jason Nichols,DEM,17,108,621,746,02
+Johnston,U.S. House,John Foreman,IND,1,7,75,83,02
+Johnston,State Senate,David Bullard,REP,21,101,644,766,6
+Johnston,State Senate,Arnold Bourne,DEM,2,44,334,380,6
+Johnston,State Senate,Frank Simpson,REP,20,182,1163,1365,14
+Johnston,State Senate,Justin Arledge,DEM,14,69,405,488,14
+Johnston,State House,Charles Mccall,REP,34,290,1825,2149,22
+Johnston,State House,Wayne Eidson,DEM,19,100,642,761,22
+Johnston,State House,Renae Ward,IND,3,7,89,99,22
+Kay,Governor,Chris Powell,LIB,17,16,515,548,
+Kay,Governor,Kevin Stitt,REP,277,463,7119,7859,
+Kay,Governor,Drew Edmondson,DEM,181,276,4125,4582,
+Kay,Lieutenant Governor,Matt Pinnell,REP,309,506,8025,8840,
+Kay,Lieutenant Governor,Anastasia Pittman,DEM,151,224,3185,3560,
+Kay,Lieutenant Governor,Ivan Holmes,IND,15,21,491,527,
+Kay,State Auditor,John Yeutter,LIB,88,132,2324,2544,
+Kay,State Auditor,Cindy Byrd,REP,337,566,8723,9626,
+Kay,Attorney General,Mike Hunter,REP,304,531,8278,9113,
+Kay,Attorney General,Mark Myles,DEM,169,215,3381,3765,
+Kay,State Treasurer,Randy Mcdaniel,REP,314,547,8577,9438,
+Kay,State Treasurer,Charles De Coune,IND,108,150,2455,2713,
+Kay,Superintendent of Public Instruction,Joy Hofmeister,REP,280,493,7453,8226,
+Kay,Superintendent of Public Instruction,John Cox,DEM,157,211,3229,3597,
+Kay,Superintendent of Public Instruction,Larry Huff,IND,33,47,997,1077,
+Kay,Commissioner of Labor,Leslie Osborn,REP,296,508,7908,8712,
+Kay,Commissioner of Labor,Fred Dorrell,DEM,145,218,3016,3379,
+Kay,Commissioner of Labor,Brandt Dismukes,IND,24,20,653,697,
+Kay,Insurance Commissioner,Glen Mulready,REP,295,513,7954,8762,
+Kay,Insurance Commissioner,Kimberly Fobbs,DEM,171,232,3623,4026,
+Kay,Corporation Commissioner,Bob Anthony,REP,293,491,7569,8353,
+Kay,Corporation Commissioner,Ashley Nicole Mccray,DEM,153,224,3261,3638,
+Kay,Corporation Commissioner,Jackie Short,IND,22,30,809,861,
+Kay,U.S. House,Frank Lucas,REP,317,531,8383,9231,03
+Kay,U.S. House,Frankie Robbins,DEM,155,221,3307,3683,03
+Kingfisher,Governor,Chris Powell,LIB,7,12,183,202,
+Kingfisher,Governor,Kevin Stitt,REP,127,391,3328,3846,
+Kingfisher,Governor,Drew Edmondson,DEM,52,106,906,1064,
+Kingfisher,Lieutenant Governor,Matt Pinnell,REP,137,425,3657,4219,
+Kingfisher,Lieutenant Governor,Anastasia Pittman,DEM,42,75,606,723,
+Kingfisher,Lieutenant Governor,Ivan Holmes,IND,6,7,133,146,
+Kingfisher,State Auditor,John Yeutter,LIB,17,54,506,577,
+Kingfisher,State Auditor,Cindy Byrd,REP,155,437,3789,4381,
+Kingfisher,Attorney General,Mike Hunter,REP,143,417,3668,4228,
+Kingfisher,Attorney General,Mark Myles,DEM,40,85,694,819,
+Kingfisher,State Treasurer,Randy Mcdaniel,REP,146,437,3740,4323,
+Kingfisher,State Treasurer,Charles De Coune,IND,22,55,531,608,
+Kingfisher,Superintendent of Public Instruction,Joy Hofmeister,REP,135,390,3357,3882,
+Kingfisher,Superintendent of Public Instruction,John Cox,DEM,40,69,673,782,
+Kingfisher,Superintendent of Public Instruction,Larry Huff,IND,11,44,342,397,
+Kingfisher,Commissioner of Labor,Leslie Osborn,REP,144,413,3487,4044,
+Kingfisher,Commissioner of Labor,Fred Dorrell,DEM,30,68,607,705,
+Kingfisher,Commissioner of Labor,Brandt Dismukes,IND,8,22,226,256,
+Kingfisher,Insurance Commissioner,Glen Mulready,REP,139,419,3572,4130,
+Kingfisher,Insurance Commissioner,Kimberly Fobbs,DEM,44,76,757,877,
+Kingfisher,Corporation Commissioner,Bob Anthony,REP,133,382,3286,3801,
+Kingfisher,Corporation Commissioner,Ashley Nicole Mccray,DEM,37,94,757,888,
+Kingfisher,Corporation Commissioner,Jackie Short,IND,14,25,317,356,
+Kingfisher,U.S. House,Frank Lucas,REP,149,451,3795,4395,03
+Kingfisher,U.S. House,Frankie Robbins,DEM,33,56,598,687,03
+Kingfisher,State Senate,Chuck Hall,REP,88,176,2027,2291,20
+Kingfisher,State Senate,Heady Coleman,DEM,17,39,352,408,20
+Kingfisher,State House,Denise Crosswhite Hader,REP,39,43,560,642,41
+Kingfisher,State House,Jennie Scott,DEM,11,10,139,160,41
+Kiowa,Governor,Chris Powell,LIB,3,6,88,97,
+Kiowa,Governor,Kevin Stitt,REP,56,183,1406,1645,
+Kiowa,Governor,Drew Edmondson,DEM,36,121,815,972,
+Kiowa,Lieutenant Governor,Matt Pinnell,REP,51,197,1596,1844,
+Kiowa,Lieutenant Governor,Anastasia Pittman,DEM,41,104,627,772,
+Kiowa,Lieutenant Governor,Ivan Holmes,IND,1,5,71,77,
+Kiowa,State Auditor,John Yeutter,LIB,23,58,385,466,
+Kiowa,State Auditor,Cindy Byrd,REP,64,224,1774,2062,
+Kiowa,Attorney General,Mike Hunter,REP,61,214,1655,1930,
+Kiowa,Attorney General,Mark Myles,DEM,32,94,640,766,
+Kiowa,State Treasurer,Randy Mcdaniel,REP,65,225,1748,2038,
+Kiowa,State Treasurer,Charles De Coune,IND,23,63,401,487,
+Kiowa,Superintendent of Public Instruction,Joy Hofmeister,REP,54,209,1507,1770,
+Kiowa,Superintendent of Public Instruction,John Cox,DEM,33,81,577,691,
+Kiowa,Superintendent of Public Instruction,Larry Huff,IND,8,20,215,243,
+Kiowa,Commissioner of Labor,Leslie Osborn,REP,56,208,1560,1824,
+Kiowa,Commissioner of Labor,Fred Dorrell,DEM,36,89,631,756,
+Kiowa,Commissioner of Labor,Brandt Dismukes,IND,3,8,82,93,
+Kiowa,Insurance Commissioner,Glen Mulready,REP,53,200,1557,1810,
+Kiowa,Insurance Commissioner,Kimberly Fobbs,DEM,39,104,722,865,
+Kiowa,Corporation Commissioner,Bob Anthony,REP,55,201,1567,1823,
+Kiowa,Corporation Commissioner,Ashley Nicole Mccray,DEM,34,95,615,744,
+Kiowa,Corporation Commissioner,Jackie Short,IND,6,12,103,121,
+Kiowa,U.S. House,Frank Lucas,REP,63,228,1764,2055,03
+Kiowa,U.S. House,Frankie Robbins,DEM,32,81,543,656,03
+Kiowa,State Senate,Brent Howard,REP,51,180,1450,1681,38
+Kiowa,State Senate,Jeff Berrong,DEM,43,129,849,1021,38
+Kiowa,State House,Todd Russ,REP,23,129,527,679,55
+Kiowa,State House,Dennis Dugger,DEM,20,106,479,605,55
+Kiowa,State House,Charles Wells,REP,10,14,242,266,56
+Kiowa,State House,David Perryman,DEM,13,24,357,394,56
+Latimer,Governor,Chris Powell,LIB,3,8,107,118,
+Latimer,Governor,Kevin Stitt,REP,46,169,1559,1774,
+Latimer,Governor,Drew Edmondson,DEM,53,118,954,1125,
+Latimer,Lieutenant Governor,Matt Pinnell,REP,53,198,1738,1989,
+Latimer,Lieutenant Governor,Anastasia Pittman,DEM,46,81,758,885,
+Latimer,Lieutenant Governor,Ivan Holmes,IND,3,14,93,110,
+Latimer,State Auditor,John Yeutter,LIB,24,52,458,534,
+Latimer,State Auditor,Cindy Byrd,REP,65,216,1904,2185,
+Latimer,Attorney General,Mike Hunter,REP,48,190,1775,2013,
+Latimer,Attorney General,Mark Myles,DEM,51,102,804,957,
+Latimer,State Treasurer,Randy Mcdaniel,REP,56,197,1878,2131,
+Latimer,State Treasurer,Charles De Coune,IND,33,67,500,600,
+Latimer,Superintendent of Public Instruction,Joy Hofmeister,REP,40,154,1438,1632,
+Latimer,Superintendent of Public Instruction,John Cox,DEM,53,119,946,1118,
+Latimer,Superintendent of Public Instruction,Larry Huff,IND,8,21,197,226,
+Latimer,Commissioner of Labor,Leslie Osborn,REP,46,171,1591,1808,
+Latimer,Commissioner of Labor,Fred Dorrell,DEM,50,102,846,998,
+Latimer,Commissioner of Labor,Brandt Dismukes,IND,4,16,126,146,
+Latimer,Insurance Commissioner,Glen Mulready,REP,49,186,1674,1909,
+Latimer,Insurance Commissioner,Kimberly Fobbs,DEM,52,102,872,1026,
+Latimer,Corporation Commissioner,Bob Anthony,REP,46,179,1641,1866,
+Latimer,Corporation Commissioner,Ashley Nicole Mccray,DEM,48,96,772,916,
+Latimer,Corporation Commissioner,Jackie Short,IND,8,17,145,170,
+Latimer,U.S. House,Richard Castaldo,LIB,3,5,51,59,02
+Latimer,U.S. House,Markwayne Mullin,REP,50,181,1754,1985,02
+Latimer,U.S. House,Jason Nichols,DEM,42,104,723,869,02
+Latimer,U.S. House,John Foreman,IND,6,6,71,83,02
+Latimer,State House,Jim Grego,REP,57,225,1899,2181,17
+Latimer,State House,Peggy Defrange,DEM,45,72,711,828,17
+Leflore,Governor,Chris Powell,LIB,7,24,296,327,
+Leflore,Governor,Kevin Stitt,REP,186,816,7007,8009,
+Leflore,Governor,Drew Edmondson,DEM,135,458,3874,4467,
+Leflore,Lieutenant Governor,Matt Pinnell,REP,200,865,7698,8763,
+Leflore,Lieutenant Governor,Anastasia Pittman,DEM,116,407,3085,3608,
+Leflore,Lieutenant Governor,Ivan Holmes,IND,8,18,295,321,
+Leflore,State Auditor,John Yeutter,LIB,61,224,1902,2187,
+Leflore,State Auditor,Cindy Byrd,REP,230,955,8465,9650,
+Leflore,Attorney General,Mike Hunter,REP,209,883,7889,8981,
+Leflore,Attorney General,Mark Myles,DEM,114,399,3157,3670,
+Leflore,State Treasurer,Randy Mcdaniel,REP,212,930,8334,9476,
+Leflore,State Treasurer,Charles De Coune,IND,74,247,2012,2333,
+Leflore,Superintendent of Public Instruction,Joy Hofmeister,REP,182,782,6722,7686,
+Leflore,Superintendent of Public Instruction,John Cox,DEM,122,437,3664,4223,
+Leflore,Superintendent of Public Instruction,Larry Huff,IND,22,68,687,777,
+Leflore,Commissioner of Labor,Leslie Osborn,REP,189,837,7439,8465,
+Leflore,Commissioner of Labor,Fred Dorrell,DEM,118,395,3088,3601,
+Leflore,Commissioner of Labor,Brandt Dismukes,IND,18,48,442,508,
+Leflore,Insurance Commissioner,Glen Mulready,REP,202,854,7557,8613,
+Leflore,Insurance Commissioner,Kimberly Fobbs,DEM,121,423,3383,3927,
+Leflore,Corporation Commissioner,Bob Anthony,REP,196,856,7446,8498,
+Leflore,Corporation Commissioner,Ashley Nicole Mccray,DEM,113,380,3009,3502,
+Leflore,Corporation Commissioner,Jackie Short,IND,15,44,517,576,
+Leflore,U.S. House,Richard Castaldo,LIB,6,10,179,195,02
+Leflore,U.S. House,Markwayne Mullin,REP,209,860,7744,8813,02
+Leflore,U.S. House,Jason Nichols,DEM,106,399,2912,3417,02
+Leflore,U.S. House,John Foreman,IND,4,23,284,311,02
+Leflore,State Senate,Mark Dean Allen,REP,138,691,5398,6227,4
+Leflore,State Senate,Eddie Martin,DEM,91,402,2723,3216,4
+Leflore,State House,Lundy Kiger,REP,116,583,4457,5156,3
+Leflore,State House,Troy Dyer,DEM,125,506,3655,4286,3
+Leflore,State House,Randy Randleman,REP,23,108,1103,1234,15
+Leflore,State House,Judy Ross Moore,DEM,3,38,465,506,15
+Leflore,State House,Jim Grego,REP,21,23,377,421,17
+Leflore,State House,Peggy Defrange,DEM,4,6,190,200,17
+Lincoln,Governor,Chris Powell,LIB,13,27,495,535,
+Lincoln,Governor,Kevin Stitt,REP,247,567,6509,7323,
+Lincoln,Governor,Drew Edmondson,DEM,142,252,3024,3418,
+Lincoln,Lieutenant Governor,Matt Pinnell,REP,274,633,7306,8213,
+Lincoln,Lieutenant Governor,Anastasia Pittman,DEM,109,185,2271,2565,
+Lincoln,Lieutenant Governor,Ivan Holmes,IND,14,29,403,446,
+Lincoln,State Auditor,John Yeutter,LIB,81,132,1678,1891,
+Lincoln,State Auditor,Cindy Byrd,REP,291,668,7817,8776,
+Lincoln,Attorney General,Mike Hunter,REP,268,631,7399,8298,
+Lincoln,Attorney General,Mark Myles,DEM,131,212,2546,2889,
+Lincoln,State Treasurer,Randy Mcdaniel,REP,286,647,7648,8581,
+Lincoln,State Treasurer,Charles De Coune,IND,89,155,1827,2071,
+Lincoln,Superintendent of Public Instruction,Joy Hofmeister,REP,251,555,6484,7290,
+Lincoln,Superintendent of Public Instruction,John Cox,DEM,115,212,2427,2754,
+Lincoln,Superintendent of Public Instruction,Larry Huff,IND,34,73,1036,1143,
+Lincoln,Commissioner of Labor,Leslie Osborn,REP,270,609,7037,7916,
+Lincoln,Commissioner of Labor,Fred Dorrell,DEM,109,181,2295,2585,
+Lincoln,Commissioner of Labor,Brandt Dismukes,IND,17,40,541,598,
+Lincoln,Insurance Commissioner,Glen Mulready,REP,262,623,7203,8088,
+Lincoln,Insurance Commissioner,Kimberly Fobbs,DEM,135,217,2678,3030,
+Lincoln,Corporation Commissioner,Bob Anthony,REP,260,583,6897,7740,
+Lincoln,Corporation Commissioner,Ashley Nicole Mccray,DEM,117,207,2352,2676,
+Lincoln,Corporation Commissioner,Jackie Short,IND,26,50,691,767,
+Lincoln,U.S. House,Frank Lucas,REP,279,652,7589,8520,03
+Lincoln,U.S. House,Frankie Robbins,DEM,123,193,2371,2687,03
+Lincoln,State Senate,Jason Smalley,REP,273,635,7326,8234,28
+Lincoln,State Senate,Stephanie Sanders,IND,102,185,2286,2573,28
+Lincoln,State House,Kevin Wallace,REP,270,628,7121,8019,32
+Lincoln,State House,Christi Wolff,DEM,128,216,2821,3165,32
+Logan,Governor,Chris Powell,LIB,27,39,575,641,
+Logan,Governor,Kevin Stitt,REP,598,1074,8175,9847,
+Logan,Governor,Drew Edmondson,DEM,449,653,4269,5371,
+Logan,Lieutenant Governor,Matt Pinnell,REP,696,1172,9204,11072,
+Logan,Lieutenant Governor,Anastasia Pittman,DEM,348,537,3251,4136,
+Logan,Lieutenant Governor,Ivan Holmes,IND,29,52,463,544,
+Logan,State Auditor,John Yeutter,LIB,218,343,2498,3059,
+Logan,State Auditor,Cindy Byrd,REP,752,1287,9746,11785,
+Logan,Attorney General,Mike Hunter,REP,686,1194,9396,11276,
+Logan,Attorney General,Mark Myles,DEM,386,563,3478,4427,
+Logan,State Treasurer,Randy Mcdaniel,REP,711,1210,9477,11398,
+Logan,State Treasurer,Charles De Coune,IND,275,411,2722,3408,
+Logan,Superintendent of Public Instruction,Joy Hofmeister,REP,647,1117,8439,10203,
+Logan,Superintendent of Public Instruction,John Cox,DEM,332,503,3162,3997,
+Logan,Superintendent of Public Instruction,Larry Huff,IND,94,140,1269,1503,
+Logan,Commissioner of Labor,Leslie Osborn,REP,685,1145,8955,10785,
+Logan,Commissioner of Labor,Fred Dorrell,DEM,320,517,3115,3952,
+Logan,Commissioner of Labor,Brandt Dismukes,IND,58,78,693,829,
+Logan,Insurance Commissioner,Glen Mulready,REP,683,1184,9170,11037,
+Logan,Insurance Commissioner,Kimberly Fobbs,DEM,373,566,3568,4507,
+Logan,Corporation Commissioner,Bob Anthony,REP,676,1166,8692,10534,
+Logan,Corporation Commissioner,Ashley Nicole Mccray,DEM,330,498,3236,4064,
+Logan,Corporation Commissioner,Jackie Short,IND,61,93,875,1029,
+Logan,U.S. House,Frank Lucas,REP,716,1207,9533,11456,03
+Logan,U.S. House,Frankie Robbins,DEM,358,552,3336,4246,03
+Logan,State Senate,Chuck Hall,REP,643,1118,8618,10379,20
+Logan,State Senate,Heady Coleman,DEM,418,637,4194,5249,20
+Logan,State House,Garry Mize,REP,614,1055,7368,9037,31
+Logan,State House,Kara Sawyer,DEM,346,527,2930,3803,31
+Logan,State House,Kevin Wallace,REP,17,15,203,235,32
+Logan,State House,Christi Wolff,DEM,16,17,240,273,32
+Love,Governor,Chris Powell,LIB,0,3,56,59,
+Love,Governor,Kevin Stitt,REP,33,207,1662,1902,
+Love,Governor,Drew Edmondson,DEM,20,56,732,808,
+Love,Lieutenant Governor,Matt Pinnell,REP,34,204,1714,1952,
+Love,Lieutenant Governor,Anastasia Pittman,DEM,19,55,656,730,
+Love,Lieutenant Governor,Ivan Holmes,IND,0,5,59,64,
+Love,State Auditor,John Yeutter,LIB,4,27,382,413,
+Love,State Auditor,Cindy Byrd,REP,39,228,1852,2119,
+Love,Attorney General,Mike Hunter,REP,34,211,1748,1993,
+Love,Attorney General,Mark Myles,DEM,19,54,675,748,
+Love,State Treasurer,Randy Mcdaniel,REP,39,228,1855,2122,
+Love,State Treasurer,Charles De Coune,IND,6,27,390,423,
+Love,Superintendent of Public Instruction,Joy Hofmeister,REP,35,201,1606,1842,
+Love,Superintendent of Public Instruction,John Cox,DEM,16,52,674,742,
+Love,Superintendent of Public Instruction,Larry Huff,IND,2,9,138,149,
+Love,Commissioner of Labor,Leslie Osborn,REP,35,203,1680,1918,
+Love,Commissioner of Labor,Fred Dorrell,DEM,16,53,635,704,
+Love,Commissioner of Labor,Brandt Dismukes,IND,3,8,87,98,
+Love,Insurance Commissioner,Glen Mulready,REP,36,209,1667,1912,
+Love,Insurance Commissioner,Kimberly Fobbs,DEM,18,54,748,820,
+Love,Corporation Commissioner,Bob Anthony,REP,35,200,1645,1880,
+Love,Corporation Commissioner,Ashley Nicole Mccray,DEM,19,52,670,741,
+Love,Corporation Commissioner,Jackie Short,IND,0,12,104,116,
+Love,U.S. House,Tom Cole,REP,36,215,1763,2014,04
+Love,U.S. House,Mary Brannon,DEM,18,41,633,692,04
+Love,U.S. House,Ruby Peters,IND,0,8,58,66,04
+Love,State Senate,Frank Simpson,REP,35,215,1711,1961,14
+Love,State Senate,Justin Arledge,DEM,18,51,737,806,14
+Love,State House,Tommy Hardin,REP,36,209,1618,1863,49
+Love,State House,Miranda Shelton,DEM,16,56,833,905,49
+Major,Governor,Chris Powell,LIB,4,8,87,99,
+Major,Governor,Kevin Stitt,REP,70,216,1891,2177,
+Major,Governor,Drew Edmondson,DEM,30,79,361,470,
+Major,Lieutenant Governor,Matt Pinnell,REP,87,235,2016,2338,
+Major,Lieutenant Governor,Anastasia Pittman,DEM,17,58,243,318,
+Major,Lieutenant Governor,Ivan Holmes,IND,2,10,65,77,
+Major,State Auditor,John Yeutter,LIB,15,34,232,281,
+Major,State Auditor,Cindy Byrd,REP,89,254,2054,2397,
+Major,Attorney General,Mike Hunter,REP,85,242,2037,2364,
+Major,Attorney General,Mark Myles,DEM,20,59,283,362,
+Major,State Treasurer,Randy Mcdaniel,REP,93,246,2056,2395,
+Major,State Treasurer,Charles De Coune,IND,11,42,228,281,
+Major,Superintendent of Public Instruction,Joy Hofmeister,REP,78,233,1846,2157,
+Major,Superintendent of Public Instruction,John Cox,DEM,23,48,296,367,
+Major,Superintendent of Public Instruction,Larry Huff,IND,5,19,173,197,
+Major,Commissioner of Labor,Leslie Osborn,REP,88,228,1958,2274,
+Major,Commissioner of Labor,Fred Dorrell,DEM,13,59,247,319,
+Major,Commissioner of Labor,Brandt Dismukes,IND,3,14,107,124,
+Major,Insurance Commissioner,Glen Mulready,REP,79,239,1979,2297,
+Major,Insurance Commissioner,Kimberly Fobbs,DEM,24,62,325,411,
+Major,Corporation Commissioner,Bob Anthony,REP,78,235,1872,2185,
+Major,Corporation Commissioner,Ashley Nicole Mccray,DEM,21,57,297,375,
+Major,Corporation Commissioner,Jackie Short,IND,6,10,145,161,
+Major,U.S. House,Frank Lucas,REP,88,251,2051,2390,03
+Major,U.S. House,Frankie Robbins,DEM,17,49,273,339,03
+Marshall,Governor,Chris Powell,LIB,4,13,104,121,
+Marshall,Governor,Kevin Stitt,REP,88,390,2465,2943,
+Marshall,Governor,Drew Edmondson,DEM,51,159,1141,1351,
+Marshall,Lieutenant Governor,Matt Pinnell,REP,94,425,2610,3129,
+Marshall,Lieutenant Governor,Anastasia Pittman,DEM,44,125,954,1123,
+Marshall,Lieutenant Governor,Ivan Holmes,IND,5,10,115,130,
+Marshall,State Auditor,John Yeutter,LIB,14,62,551,627,
+Marshall,State Auditor,Cindy Byrd,REP,114,458,2869,3441,
+Marshall,Attorney General,Mike Hunter,REP,99,428,2684,3211,
+Marshall,Attorney General,Mark Myles,DEM,42,125,985,1152,
+Marshall,State Treasurer,Randy Mcdaniel,REP,109,449,2853,3411,
+Marshall,State Treasurer,Charles De Coune,IND,21,71,582,674,
+Marshall,Superintendent of Public Instruction,Joy Hofmeister,REP,95,413,2461,2969,
+Marshall,Superintendent of Public Instruction,John Cox,DEM,38,128,986,1152,
+Marshall,Superintendent of Public Instruction,Larry Huff,IND,9,17,235,261,
+Marshall,Commissioner of Labor,Leslie Osborn,REP,101,418,2551,3070,
+Marshall,Commissioner of Labor,Fred Dorrell,DEM,34,120,952,1106,
+Marshall,Commissioner of Labor,Brandt Dismukes,IND,7,13,146,166,
+Marshall,Insurance Commissioner,Glen Mulready,REP,103,423,2590,3116,
+Marshall,Insurance Commissioner,Kimberly Fobbs,DEM,37,129,1053,1219,
+Marshall,Corporation Commissioner,Bob Anthony,REP,92,404,2487,2983,
+Marshall,Corporation Commissioner,Ashley Nicole Mccray,DEM,36,129,987,1152,
+Marshall,Corporation Commissioner,Jackie Short,IND,12,18,190,220,
+Marshall,U.S. House,Richard Castaldo,LIB,6,6,56,68,02
+Marshall,U.S. House,Markwayne Mullin,REP,101,430,2640,3171,02
+Marshall,U.S. House,Jason Nichols,DEM,34,116,881,1031,02
+Marshall,U.S. House,John Foreman,IND,3,9,111,123,02
+Marshall,State Senate,David Bullard,REP,98,428,2593,3119,6
+Marshall,State Senate,Arnold Bourne,DEM,43,125,1081,1249,6
+Marshall,State House,Tommy Hardin,REP,95,399,2301,2795,49
+Marshall,State House,Miranda Shelton,DEM,49,162,1397,1608,49
+Mayes,Governor,Chris Powell,LIB,12,30,444,486,
+Mayes,Governor,Kevin Stitt,REP,178,633,7026,7837,
+Mayes,Governor,Drew Edmondson,DEM,188,410,4006,4604,
+Mayes,Lieutenant Governor,Matt Pinnell,REP,212,720,7832,8764,
+Mayes,Lieutenant Governor,Anastasia Pittman,DEM,143,322,3169,3634,
+Mayes,Lieutenant Governor,Ivan Holmes,IND,18,26,406,450,
+Mayes,State Auditor,John Yeutter,LIB,98,207,2265,2570,
+Mayes,State Auditor,Cindy Byrd,REP,241,771,8426,9438,
+Mayes,Attorney General,Mike Hunter,REP,214,716,7975,8905,
+Mayes,Attorney General,Mark Myles,DEM,156,345,3378,3879,
+Mayes,State Treasurer,Randy Mcdaniel,REP,236,776,8451,9463,
+Mayes,State Treasurer,Charles De Coune,IND,101,206,2217,2524,
+Mayes,Superintendent of Public Instruction,Joy Hofmeister,REP,188,553,6009,6750,
+Mayes,Superintendent of Public Instruction,John Cox,DEM,168,444,4594,5206,
+Mayes,Superintendent of Public Instruction,Larry Huff,IND,22,70,802,894,
+Mayes,Commissioner of Labor,Leslie Osborn,REP,206,679,7297,8182,
+Mayes,Commissioner of Labor,Fred Dorrell,DEM,153,344,3475,3972,
+Mayes,Commissioner of Labor,Brandt Dismukes,IND,16,32,522,570,
+Mayes,Insurance Commissioner,Glen Mulready,REP,207,701,7648,8556,
+Mayes,Insurance Commissioner,Kimberly Fobbs,DEM,163,347,3636,4146,
+Mayes,Corporation Commissioner,Bob Anthony,REP,213,686,7447,8346,
+Mayes,Corporation Commissioner,Ashley Nicole Mccray,DEM,138,325,3223,3686,
+Mayes,Corporation Commissioner,Jackie Short,IND,27,47,643,717,
+Mayes,U.S. House,Richard Castaldo,LIB,5,18,241,264,02
+Mayes,U.S. House,Markwayne Mullin,REP,205,690,7639,8534,02
+Mayes,U.S. House,Jason Nichols,DEM,160,339,3203,3702,02
+Mayes,U.S. House,John Foreman,IND,8,20,357,385,02
+Mayes,State Senate,Marty Quinn,REP,56,302,2059,2417,2
+Mayes,State Senate,Jennifer Esau,DEM,67,227,1346,1640,2
+Mayes,State Senate,Kim David,REP,9,15,457,481,18
+Mayes,State Senate,Charles Arnall,DEM,4,14,197,215,18
+Mayes,State House,Josh West,REP,68,117,1920,2105,5
+Mayes,State House,Ed Trumbull,DEM,39,65,951,1055,5
+Mayes,State House,Rusty Cornwell,REP,23,60,844,927,6
+Mayes,State House,John Myers,DEM,25,47,428,500,6
+Mayes,State House,Tom Gann,REP,102,381,3793,4276,8
+Mayes,State House,Darrell Moore,DEM,121,394,3464,3979,8
+Mcclain,Governor,Chris Powell,LIB,23,29,445,497,
+Mcclain,Governor,Kevin Stitt,REP,483,538,8000,9021,
+Mcclain,Governor,Drew Edmondson,DEM,266,273,3747,4286,
+Mcclain,Lieutenant Governor,Matt Pinnell,REP,518,592,8910,10020,
+Mcclain,Lieutenant Governor,Anastasia Pittman,DEM,221,227,2815,3263,
+Mcclain,Lieutenant Governor,Ivan Holmes,IND,29,20,409,458,
+Mcclain,State Auditor,John Yeutter,LIB,120,129,1910,2159,
+Mcclain,State Auditor,Cindy Byrd,REP,595,656,9692,10943,
+Mcclain,Attorney General,Mike Hunter,REP,524,606,9149,10279,
+Mcclain,Attorney General,Mark Myles,DEM,236,228,2921,3385,
+Mcclain,State Treasurer,Randy Mcdaniel,REP,557,646,9342,10545,
+Mcclain,State Treasurer,Charles De Coune,IND,163,144,2223,2530,
+Mcclain,Superintendent of Public Instruction,Joy Hofmeister,REP,522,562,8364,9448,
+Mcclain,Superintendent of Public Instruction,John Cox,DEM,204,211,2724,3139,
+Mcclain,Superintendent of Public Instruction,Larry Huff,IND,36,62,1029,1127,
+Mcclain,Commissioner of Labor,Leslie Osborn,REP,543,606,8906,10055,
+Mcclain,Commissioner of Labor,Fred Dorrell,DEM,195,200,2525,2920,
+Mcclain,Commissioner of Labor,Brandt Dismukes,IND,24,28,560,612,
+Mcclain,Insurance Commissioner,Glen Mulready,REP,516,589,8789,9894,
+Mcclain,Insurance Commissioner,Kimberly Fobbs,DEM,237,240,3196,3673,
+Mcclain,Corporation Commissioner,Bob Anthony,REP,515,562,8424,9501,
+Mcclain,Corporation Commissioner,Ashley Nicole Mccray,DEM,218,232,2896,3346,
+Mcclain,Corporation Commissioner,Jackie Short,IND,32,42,719,793,
+Mcclain,U.S. House,Tom Cole,REP,538,583,8979,10100,04
+Mcclain,U.S. House,Mary Brannon,DEM,206,242,2713,3161,04
+Mcclain,U.S. House,Ruby Peters,IND,24,12,454,490,04
+Mcclain,State House,Sherrie Conley,REP,284,185,4079,4548,20
+Mcclain,State House,Steve Jarman,DEM,102,94,1282,1478,20
+Mcclain,State House,Cynthia Roe,REP,174,326,3781,4281,42
+Mcclain,State House,Liz George,DEM,155,208,2193,2556,42
+Mccurtain,Governor,Chris Powell,LIB,1,6,171,178,
+Mccurtain,Governor,Kevin Stitt,REP,105,391,4682,5178,
+Mccurtain,Governor,Drew Edmondson,DEM,65,165,1981,2211,
+Mccurtain,Lieutenant Governor,Matt Pinnell,REP,109,413,5005,5527,
+Mccurtain,Lieutenant Governor,Anastasia Pittman,DEM,53,143,1607,1803,
+Mccurtain,Lieutenant Governor,Ivan Holmes,IND,6,4,160,170,
+Mccurtain,State Auditor,John Yeutter,LIB,26,81,904,1011,
+Mccurtain,State Auditor,Cindy Byrd,REP,130,428,5444,6002,
+Mccurtain,Attorney General,Mike Hunter,REP,111,405,5126,5642,
+Mccurtain,Attorney General,Mark Myles,DEM,57,151,1622,1830,
+Mccurtain,State Treasurer,Randy Mcdaniel,REP,116,427,5417,5960,
+Mccurtain,State Treasurer,Charles De Coune,IND,40,82,950,1072,
+Mccurtain,Superintendent of Public Instruction,Joy Hofmeister,REP,104,369,4401,4874,
+Mccurtain,Superintendent of Public Instruction,John Cox,DEM,58,170,2014,2242,
+Mccurtain,Superintendent of Public Instruction,Larry Huff,IND,6,15,351,372,
+Mccurtain,Commissioner of Labor,Leslie Osborn,REP,110,407,4925,5442,
+Mccurtain,Commissioner of Labor,Fred Dorrell,DEM,49,143,1597,1789,
+Mccurtain,Commissioner of Labor,Brandt Dismukes,IND,9,5,199,213,
+Mccurtain,Insurance Commissioner,Glen Mulready,REP,110,402,4976,5488,
+Mccurtain,Insurance Commissioner,Kimberly Fobbs,DEM,56,155,1725,1936,
+Mccurtain,Corporation Commissioner,Bob Anthony,REP,107,392,4877,5376,
+Mccurtain,Corporation Commissioner,Ashley Nicole Mccray,DEM,55,153,1596,1804,
+Mccurtain,Corporation Commissioner,Jackie Short,IND,7,11,252,270,
+Mccurtain,U.S. House,Richard Castaldo,LIB,3,8,85,96,02
+Mccurtain,U.S. House,Markwayne Mullin,REP,113,405,5105,5623,02
+Mccurtain,U.S. House,Jason Nichols,DEM,50,145,1466,1661,02
+Mccurtain,U.S. House,John Foreman,IND,4,5,155,164,02
+Mcintosh,Governor,Chris Powell,LIB,3,23,197,223,
+Mcintosh,Governor,Kevin Stitt,REP,113,366,3133,3612,
+Mcintosh,Governor,Drew Edmondson,DEM,94,258,2433,2785,
+Mcintosh,Lieutenant Governor,Matt Pinnell,REP,119,407,3542,4068,
+Mcintosh,Lieutenant Governor,Anastasia Pittman,DEM,85,215,1987,2287,
+Mcintosh,Lieutenant Governor,Ivan Holmes,IND,5,18,191,214,
+Mcintosh,State Auditor,John Yeutter,LIB,46,124,1266,1436,
+Mcintosh,State Auditor,Cindy Byrd,REP,140,458,4030,4628,
+Mcintosh,Attorney General,Mike Hunter,REP,116,422,3652,4190,
+Mcintosh,Attorney General,Mark Myles,DEM,90,220,2036,2346,
+Mcintosh,State Treasurer,Randy Mcdaniel,REP,133,447,3985,4565,
+Mcintosh,State Treasurer,Charles De Coune,IND,54,137,1309,1500,
+Mcintosh,Superintendent of Public Instruction,Joy Hofmeister,REP,114,377,3133,3624,
+Mcintosh,Superintendent of Public Instruction,John Cox,DEM,78,224,2101,2403,
+Mcintosh,Superintendent of Public Instruction,Larry Huff,IND,17,42,486,545,
+Mcintosh,Commissioner of Labor,Leslie Osborn,REP,109,382,3259,3750,
+Mcintosh,Commissioner of Labor,Fred Dorrell,DEM,82,232,2025,2339,
+Mcintosh,Commissioner of Labor,Brandt Dismukes,IND,16,16,386,418,
+Mcintosh,Insurance Commissioner,Glen Mulready,REP,114,396,3508,4018,
+Mcintosh,Insurance Commissioner,Kimberly Fobbs,DEM,93,235,2161,2489,
+Mcintosh,Corporation Commissioner,Bob Anthony,REP,118,383,3370,3871,
+Mcintosh,Corporation Commissioner,Ashley Nicole Mccray,DEM,79,227,2020,2326,
+Mcintosh,Corporation Commissioner,Jackie Short,IND,10,29,290,329,
+Mcintosh,U.S. House,Richard Castaldo,LIB,1,11,89,101,02
+Mcintosh,U.S. House,Markwayne Mullin,REP,123,390,3504,4017,02
+Mcintosh,U.S. House,Jason Nichols,DEM,78,229,1999,2306,02
+Mcintosh,U.S. House,John Foreman,IND,5,12,144,161,02
+Mcintosh,State Senate,Roger Thompson,REP,123,402,3504,4029,8
+Mcintosh,State Senate,Shannan Tucker,DEM,77,224,2005,2306,8
+Mcintosh,State Senate,Marlena Nobles,IND,8,12,190,210,8
+Mcintosh,State House,Avery Carl Frix,REP,31,83,1328,1442,13
+Mcintosh,State House,Jolene Armstrong,DEM,19,27,440,486,13
+Mcintosh,State House,Randy Randleman,REP,56,164,1064,1284,15
+Mcintosh,State House,Judy Ross Moore,DEM,23,75,544,642,15
+Mcintosh,State House,David Smith,REP,38,134,1203,1375,18
+Mcintosh,State House,Donnie Condit,DEM,40,154,1134,1328,18
+Murray,Governor,Chris Powell,LIB,7,18,150,175,
+Murray,Governor,Kevin Stitt,REP,94,287,2370,2751,
+Murray,Governor,Drew Edmondson,DEM,56,190,1197,1443,
+Murray,Lieutenant Governor,Matt Pinnell,REP,96,331,2600,3027,
+Murray,Lieutenant Governor,Anastasia Pittman,DEM,50,148,980,1178,
+Murray,Lieutenant Governor,Ivan Holmes,IND,7,12,115,134,
+Murray,State Auditor,John Yeutter,LIB,34,82,588,704,
+Murray,State Auditor,Cindy Byrd,REP,107,372,2893,3372,
+Murray,Attorney General,Mike Hunter,REP,101,347,2665,3113,
+Murray,Attorney General,Mark Myles,DEM,52,144,1021,1217,
+Murray,State Treasurer,Randy Mcdaniel,REP,102,360,2843,3305,
+Murray,State Treasurer,Charles De Coune,IND,37,91,635,763,
+Murray,Superintendent of Public Instruction,Joy Hofmeister,REP,101,329,2444,2874,
+Murray,Superintendent of Public Instruction,John Cox,DEM,41,133,963,1137,
+Murray,Superintendent of Public Instruction,Larry Huff,IND,12,27,288,327,
+Murray,Commissioner of Labor,Leslie Osborn,REP,100,327,2524,2951,
+Murray,Commissioner of Labor,Fred Dorrell,DEM,45,141,969,1155,
+Murray,Commissioner of Labor,Brandt Dismukes,IND,7,22,164,193,
+Murray,Insurance Commissioner,Glen Mulready,REP,96,332,2514,2942,
+Murray,Insurance Commissioner,Kimberly Fobbs,DEM,56,158,1155,1369,
+Murray,Corporation Commissioner,Bob Anthony,REP,95,321,2476,2892,
+Murray,Corporation Commissioner,Ashley Nicole Mccray,DEM,47,146,1011,1204,
+Murray,Corporation Commissioner,Jackie Short,IND,12,23,201,236,
+Murray,U.S. House,Tom Cole,REP,107,352,2780,3239,04
+Murray,U.S. House,Mary Brannon,DEM,41,127,802,970,04
+Murray,U.S. House,Ruby Peters,IND,5,14,125,144,04
+Murray,State Senate,Frank Simpson,REP,104,335,2676,3115,14
+Murray,State Senate,Justin Arledge,DEM,48,156,1015,1219,14
+Murray,State House,Charles Mccall,REP,81,244,1944,2269,22
+Murray,State House,Wayne Eidson,DEM,59,209,1357,1625,22
+Murray,State House,Renae Ward,IND,8,23,181,212,22
+Murray,State House,Tammy Townley,REP,4,9,148,161,48
+Murray,State House,Cheryl Key,DEM,2,8,82,92,48
+Muskogee,Governor,Chris Powell,LIB,20,36,612,668,
+Muskogee,Governor,Kevin Stitt,REP,288,899,8328,9515,
+Muskogee,Governor,Drew Edmondson,DEM,310,972,8234,9516,
+Muskogee,Lieutenant Governor,Matt Pinnell,REP,316,1060,9864,11240,
+Muskogee,Lieutenant Governor,Anastasia Pittman,DEM,275,796,6610,7681,
+Muskogee,Lieutenant Governor,Ivan Holmes,IND,24,41,562,627,
+Muskogee,State Auditor,John Yeutter,LIB,149,494,4445,5088,
+Muskogee,State Auditor,Cindy Byrd,REP,375,1229,11332,12936,
+Muskogee,Attorney General,Mike Hunter,REP,338,1106,10267,11711,
+Muskogee,Attorney General,Mark Myles,DEM,275,786,6698,7759,
+Muskogee,State Treasurer,Randy Mcdaniel,REP,371,1202,10991,12564,
+Muskogee,State Treasurer,Charles De Coune,IND,151,524,4764,5439,
+Muskogee,Superintendent of Public Instruction,Joy Hofmeister,REP,326,992,8873,10191,
+Muskogee,Superintendent of Public Instruction,John Cox,DEM,258,779,6805,7842,
+Muskogee,Superintendent of Public Instruction,Larry Huff,IND,33,120,1370,1523,
+Muskogee,Commissioner of Labor,Leslie Osborn,REP,328,1019,9307,10654,
+Muskogee,Commissioner of Labor,Fred Dorrell,DEM,261,796,6679,7736,
+Muskogee,Commissioner of Labor,Brandt Dismukes,IND,21,71,911,1003,
+Muskogee,Insurance Commissioner,Glen Mulready,REP,318,1040,9725,11083,
+Muskogee,Insurance Commissioner,Kimberly Fobbs,DEM,288,843,7168,8299,
+Muskogee,Corporation Commissioner,Bob Anthony,REP,317,1046,9510,10873,
+Muskogee,Corporation Commissioner,Ashley Nicole Mccray,DEM,271,784,6555,7610,
+Muskogee,Corporation Commissioner,Jackie Short,IND,21,63,896,980,
+Muskogee,U.S. House,Richard Castaldo,LIB,14,27,371,412,02
+Muskogee,U.S. House,Markwayne Mullin,REP,320,978,9426,10724,02
+Muskogee,U.S. House,Jason Nichols,DEM,266,849,6800,7915,02
+Muskogee,U.S. House,John Foreman,IND,16,43,509,568,02
+Muskogee,State Senate,Roger Thompson,REP,12,46,1032,1090,8
+Muskogee,State Senate,Shannan Tucker,DEM,16,14,517,547,8
+Muskogee,State Senate,Marlena Nobles,IND,7,3,65,75,8
+Muskogee,State Senate,Kim David,REP,72,151,1770,1993,18
+Muskogee,State Senate,Charles Arnall,DEM,44,82,997,1123,18
+Muskogee,State House,Avery Carl Frix,REP,149,544,4921,5614,13
+Muskogee,State House,Jolene Armstrong,DEM,90,277,2347,2714,13
+Muskogee,State House,Chris Sneed,REP,148,512,4128,4788,14
+Muskogee,State House,Jack Reavis,DEM,159,490,3806,4455,14
+Muskogee,State House,Randy Randleman,REP,7,22,397,426,15
+Muskogee,State House,Judy Ross Moore,DEM,10,10,329,349,15
+Muskogee,State House,Scott Fetgatter,REP,26,22,690,738,16
+Muskogee,State House,Chandler Torbett,DEM,22,14,395,431,16
+Muskogee,State House,James Delso,IND,1,2,48,51,16
+Noble,Governor,Chris Powell,LIB,14,28,147,189,
+Noble,Governor,Kevin Stitt,REP,90,417,2036,2543,
+Noble,Governor,Drew Edmondson,DEM,41,184,1027,1252,
+Noble,Lieutenant Governor,Matt Pinnell,REP,103,477,2352,2932,
+Noble,Lieutenant Governor,Anastasia Pittman,DEM,30,130,712,872,
+Noble,Lieutenant Governor,Ivan Holmes,IND,9,19,111,139,
+Noble,State Auditor,John Yeutter,LIB,24,75,555,654,
+Noble,State Auditor,Cindy Byrd,REP,114,522,2520,3156,
+Noble,Attorney General,Mike Hunter,REP,113,474,2372,2959,
+Noble,Attorney General,Mark Myles,DEM,28,153,791,972,
+Noble,State Treasurer,Randy Mcdaniel,REP,110,520,2479,3109,
+Noble,State Treasurer,Charles De Coune,IND,27,81,593,701,
+Noble,Superintendent of Public Instruction,Joy Hofmeister,REP,95,452,2097,2644,
+Noble,Superintendent of Public Instruction,John Cox,DEM,32,121,772,925,
+Noble,Superintendent of Public Instruction,Larry Huff,IND,16,55,309,380,
+Noble,Commissioner of Labor,Leslie Osborn,REP,99,489,2323,2911,
+Noble,Commissioner of Labor,Fred Dorrell,DEM,31,117,679,827,
+Noble,Commissioner of Labor,Brandt Dismukes,IND,14,14,156,184,
+Noble,Insurance Commissioner,Glen Mulready,REP,100,465,2291,2856,
+Noble,Insurance Commissioner,Kimberly Fobbs,DEM,42,158,862,1062,
+Noble,Corporation Commissioner,Bob Anthony,REP,96,462,2195,2753,
+Noble,Corporation Commissioner,Ashley Nicole Mccray,DEM,29,130,774,933,
+Noble,Corporation Commissioner,Jackie Short,IND,17,32,196,245,
+Noble,U.S. House,Frank Lucas,REP,112,509,2457,3078,03
+Noble,U.S. House,Frankie Robbins,DEM,32,117,730,879,03
+Noble,State Senate,Chuck Hall,REP,107,455,2372,2934,20
+Noble,State Senate,Heady Coleman,DEM,38,173,817,1028,20
+Noble,State House,Ty Burns,REP,70,336,1504,1910,35
+Noble,State House,Jasha Lyons Echo-Hawk,DEM,17,120,476,613,35
+Nowata,Governor,Chris Powell,LIB,4,26,141,171,
+Nowata,Governor,Kevin Stitt,REP,75,274,1970,2319,
+Nowata,Governor,Drew Edmondson,DEM,33,133,850,1016,
+Nowata,Lieutenant Governor,Matt Pinnell,REP,79,320,2151,2550,
+Nowata,Lieutenant Governor,Anastasia Pittman,DEM,28,91,680,799,
+Nowata,Lieutenant Governor,Ivan Holmes,IND,6,16,113,135,
+Nowata,State Auditor,John Yeutter,LIB,17,83,558,658,
+Nowata,State Auditor,Cindy Byrd,REP,89,329,2267,2685,
+Nowata,Attorney General,Mike Hunter,REP,78,314,2180,2572,
+Nowata,Attorney General,Mark Myles,DEM,31,109,740,880,
+Nowata,State Treasurer,Randy Mcdaniel,REP,89,331,2275,2695,
+Nowata,State Treasurer,Charles De Coune,IND,19,84,557,660,
+Nowata,Superintendent of Public Instruction,Joy Hofmeister,REP,78,279,1831,2188,
+Nowata,Superintendent of Public Instruction,John Cox,DEM,29,113,859,1001,
+Nowata,Superintendent of Public Instruction,Larry Huff,IND,5,34,250,289,
+Nowata,Commissioner of Labor,Leslie Osborn,REP,78,298,2043,2419,
+Nowata,Commissioner of Labor,Fred Dorrell,DEM,29,103,726,858,
+Nowata,Commissioner of Labor,Brandt Dismukes,IND,3,15,146,164,
+Nowata,Insurance Commissioner,Glen Mulready,REP,77,300,2102,2479,
+Nowata,Insurance Commissioner,Kimberly Fobbs,DEM,33,117,816,966,
+Nowata,Corporation Commissioner,Bob Anthony,REP,75,281,2009,2365,
+Nowata,Corporation Commissioner,Ashley Nicole Mccray,DEM,33,112,727,872,
+Nowata,Corporation Commissioner,Jackie Short,IND,3,25,179,207,
+Nowata,U.S. House,Richard Castaldo,LIB,1,10,76,87,02
+Nowata,U.S. House,Markwayne Mullin,REP,85,313,2135,2533,02
+Nowata,U.S. House,Jason Nichols,DEM,25,96,630,751,02
+Nowata,U.S. House,John Foreman,IND,2,8,97,107,02
+Nowata,State House,Judd Strom,REP,62,185,1323,1570,10
+Nowata,State House,Kevin Stacy,DEM,51,251,1635,1937,10
+Okfuskee,Governor,Chris Powell,LIB,7,16,88,111,
+Okfuskee,Governor,Kevin Stitt,REP,50,190,1512,1752,
+Okfuskee,Governor,Drew Edmondson,DEM,61,135,1045,1241,
+Okfuskee,Lieutenant Governor,Matt Pinnell,REP,59,213,1723,1995,
+Okfuskee,Lieutenant Governor,Anastasia Pittman,DEM,53,124,816,993,
+Okfuskee,Lieutenant Governor,Ivan Holmes,IND,4,5,85,94,
+Okfuskee,State Auditor,John Yeutter,LIB,26,60,545,631,
+Okfuskee,State Auditor,Cindy Byrd,REP,72,248,1885,2205,
+Okfuskee,Attorney General,Mike Hunter,REP,61,222,1729,2012,
+Okfuskee,Attorney General,Mark Myles,DEM,53,117,890,1060,
+Okfuskee,State Treasurer,Randy Mcdaniel,REP,65,239,1919,2223,
+Okfuskee,State Treasurer,Charles De Coune,IND,31,70,519,620,
+Okfuskee,Superintendent of Public Instruction,Joy Hofmeister,REP,55,182,1461,1698,
+Okfuskee,Superintendent of Public Instruction,John Cox,DEM,52,141,927,1120,
+Okfuskee,Superintendent of Public Instruction,Larry Huff,IND,9,20,228,257,
+Okfuskee,Commissioner of Labor,Leslie Osborn,REP,58,202,1648,1908,
+Okfuskee,Commissioner of Labor,Fred Dorrell,DEM,47,119,834,1000,
+Okfuskee,Commissioner of Labor,Brandt Dismukes,IND,6,18,111,135,
+Okfuskee,Insurance Commissioner,Glen Mulready,REP,58,215,1684,1957,
+Okfuskee,Insurance Commissioner,Kimberly Fobbs,DEM,55,126,921,1102,
+Okfuskee,Corporation Commissioner,Bob Anthony,REP,59,207,1644,1910,
+Okfuskee,Corporation Commissioner,Ashley Nicole Mccray,DEM,49,122,835,1006,
+Okfuskee,Corporation Commissioner,Jackie Short,IND,8,11,133,152,
+Okfuskee,U.S. House,Richard Castaldo,LIB,5,7,39,51,02
+Okfuskee,U.S. House,Markwayne Mullin,REP,60,203,1662,1925,02
+Okfuskee,U.S. House,Jason Nichols,DEM,47,123,817,987,02
+Okfuskee,U.S. House,John Foreman,IND,5,10,111,126,02
+Okfuskee,State Senate,Roger Thompson,REP,44,151,1139,1334,8
+Okfuskee,State Senate,Shannan Tucker,DEM,50,138,1022,1210,8
+Okfuskee,State Senate,Marlena Nobles,IND,4,7,73,84,8
+Okfuskee,State House,Logan Phillips,REP,51,160,1296,1507,24
+Okfuskee,State House,Steve Kouplen,DEM,62,181,1316,1559,24
+Oklahoma,Governor,Chris Powell,LIB,584,297,7057,7938,
+Oklahoma,Governor,Kevin Stitt,REP,9008,5567,84419,98994,
+Oklahoma,Governor,Drew Edmondson,DEM,13018,10013,103636,126667,
+Oklahoma,Lieutenant Governor,Matt Pinnell,REP,10648,6535,98714,115897,
+Oklahoma,Lieutenant Governor,Anastasia Pittman,DEM,11061,8760,86943,106764,
+Oklahoma,Lieutenant Governor,Ivan Holmes,IND,735,493,8110,9338,
+Oklahoma,State Auditor,John Yeutter,LIB,5772,5037,57916,68725,
+Oklahoma,State Auditor,Cindy Byrd,REP,13696,8516,117550,139762,
+Oklahoma,Attorney General,Mike Hunter,REP,11251,6953,104065,122269,
+Oklahoma,Attorney General,Mark Myles,DEM,11104,8822,88619,108545,
+Oklahoma,State Treasurer,Randy Mcdaniel,REP,12204,7338,107528,127070,
+Oklahoma,State Treasurer,Charles De Coune,IND,7454,6435,68514,82403,
+Oklahoma,Superintendent of Public Instruction,Joy Hofmeister,REP,11168,7006,97803,115977,
+Oklahoma,Superintendent of Public Instruction,John Cox,DEM,9837,7870,78562,96269,
+Oklahoma,Superintendent of Public Instruction,Larry Huff,IND,1330,887,16259,18476,
+Oklahoma,Commissioner of Labor,Leslie Osborn,REP,11628,6978,101168,119774,
+Oklahoma,Commissioner of Labor,Fred Dorrell,DEM,9772,8150,79338,97260,
+Oklahoma,Commissioner of Labor,Brandt Dismukes,IND,771,530,10053,11354,
+Oklahoma,Insurance Commissioner,Glen Mulready,REP,10606,6504,98225,115335,
+Oklahoma,Insurance Commissioner,Kimberly Fobbs,DEM,11452,9134,91907,112493,
+Oklahoma,Corporation Commissioner,Bob Anthony,REP,11104,6714,96512,114330,
+Oklahoma,Corporation Commissioner,Ashley Nicole Mccray,DEM,10121,8390,82694,101205,
+Oklahoma,Corporation Commissioner,Jackie Short,IND,1068,612,12416,14096,
+Oklahoma,U.S. House,Tom Cole,REP,793,295,10264,11352,04
+Oklahoma,U.S. House,Mary Brannon,DEM,578,479,7115,8172,04
+Oklahoma,U.S. House,Ruby Peters,IND,41,20,830,891,04
+Oklahoma,U.S. House,Steve Russell,REP,9772,5994,85059,100825,05
+Oklahoma,U.S. House,Kendra Horn,DEM,11326,9053,90348,110727,05
+Oklahoma,State Senate,Stephanie Bice,REP,1150,813,9527,11490,22
+Oklahoma,State Senate,William Andrews,DEM,784,652,4842,6278,22
+Oklahoma,State Senate,John Symcox,REP,831,319,9110,10260,30
+Oklahoma,State Senate,Julia Kirt,DEM,1222,648,10375,12245,30
+Oklahoma,State Senate,Joe Howell,REP,944,489,8993,10426,40
+Oklahoma,State Senate,Carri Hicks,DEM,1680,1062,12830,15572,40
+Oklahoma,State Senate,Christopher Hensley,IND,58,30,857,945,40
+Oklahoma,State Senate,Brenda Stanley,REP,863,305,10857,12025,42
+Oklahoma,State Senate,Linda Wade,DEM,759,583,8880,10222,42
+Oklahoma,State Senate,Matt Campbell,IND,89,29,1410,1528,42
+Oklahoma,State Senate,Willard Linzy,REP,355,245,3685,4285,48
+Oklahoma,State Senate,George Young,DEM,1356,2293,15736,19385,48
+Oklahoma,State House,Garry Mize,REP,200,186,1514,1900,31
+Oklahoma,State House,Kara Sawyer,DEM,124,56,517,697,31
+Oklahoma,State House,Ryan Martinez,REP,1114,1018,7998,10130,39
+Oklahoma,State House,Devyn Denton,DEM,811,652,4377,5840,39
+Oklahoma,State House,Richard Prawdzienski,IND,57,47,518,622,39
+Oklahoma,State House,Denise Crosswhite Hader,REP,224,64,1344,1632,41
+Oklahoma,State House,Jennie Scott,DEM,150,84,817,1051,41
+Oklahoma,State House,Kevin West,REP,40,9,526,575,54
+Oklahoma,State House,Katelyn Dockery,DEM,32,18,391,441,54
+Oklahoma,State House,Mike Osburn,REP,744,912,6374,8030,81
+Oklahoma,State House,Jackie Phillips,DEM,763,723,4319,5805,81
+Oklahoma,State House,Nicole Miller,REP,1501,801,11069,13371,82
+Oklahoma,State House,Oraynab Jwayyed,DEM,962,665,5222,6849,82
+Oklahoma,State House,Jason Reese,REP,830,488,6331,7649,83
+Oklahoma,State House,Chelsey Branham,DEM,1076,818,6444,8338,83
+Oklahoma,State House,William Cagle,LIB,33,7,459,499,84
+Oklahoma,State House,Tammy West,REP,374,145,5232,5751,84
+Oklahoma,State House,Lauren Morris,DEM,350,154,3172,3676,84
+Oklahoma,State House,Stephen Paulsen,LIB,25,12,370,407,85
+Oklahoma,State House,Matt Jackson,REP,781,364,5428,6573,85
+Oklahoma,State House,Cyndi Munson,DEM,1388,794,7433,9615,85
+Oklahoma,State House,Jon Echols,REP,231,79,3566,3876,90
+Oklahoma,State House,Lavelle Compton,DEM,195,106,2743,3044,90
+Oklahoma,State House,Jason Sansone,REP,279,118,3458,3855,94
+Oklahoma,State House,Andy Fugate,DEM,488,317,5072,5877,94
+Oklahoma,State House,Paul Brewbaker,LIB,13,3,308,324,95
+Oklahoma,State House,Jack Beall Jr,REP,283,134,3967,4384,95
+Oklahoma,State House,Kelly Albright,DEM,333,296,4220,4849,95
+Oklahoma,State House,Rashard Bickham,IND,21,16,302,339,95
+Oklahoma,State House,Lewis Moore,REP,983,795,8792,10570,96
+Oklahoma,State House,Kathy Wallis,DEM,914,531,5049,6494,96
+Oklahoma,State House,Marilyn Stark,REP,722,253,5887,6862,10
+Oklahoma,State House,Zach Pearson,DEM,639,353,4745,5737,10
+Oklahoma,State House,Robert Manger,REP,633,188,8122,8943,10
+Oklahoma,State House,John Carpenter,DEM,487,263,5122,5872,10
+Okmulgee,Governor,Chris Powell,LIB,5,26,312,343,
+Okmulgee,Governor,Kevin Stitt,REP,229,483,5134,5846,
+Okmulgee,Governor,Drew Edmondson,DEM,150,493,4206,4849,
+Okmulgee,Lieutenant Governor,Matt Pinnell,REP,245,536,5706,6487,
+Okmulgee,Lieutenant Governor,Anastasia Pittman,DEM,121,431,3546,4098,
+Okmulgee,Lieutenant Governor,Ivan Holmes,IND,16,28,357,401,
+Okmulgee,State Auditor,John Yeutter,LIB,78,299,2491,2868,
+Okmulgee,State Auditor,Cindy Byrd,REP,259,598,6361,7218,
+Okmulgee,Attorney General,Mike Hunter,REP,237,538,5911,6686,
+Okmulgee,Attorney General,Mark Myles,DEM,145,450,3670,4265,
+Okmulgee,State Treasurer,Randy Mcdaniel,REP,248,568,6267,7083,
+Okmulgee,State Treasurer,Charles De Coune,IND,89,327,2582,2998,
+Okmulgee,Superintendent of Public Instruction,Joy Hofmeister,REP,218,470,5159,5847,
+Okmulgee,Superintendent of Public Instruction,John Cox,DEM,144,452,3684,4280,
+Okmulgee,Superintendent of Public Instruction,Larry Huff,IND,20,66,761,847,
+Okmulgee,Commissioner of Labor,Leslie Osborn,REP,232,505,5408,6145,
+Okmulgee,Commissioner of Labor,Fred Dorrell,DEM,132,441,3687,4260,
+Okmulgee,Commissioner of Labor,Brandt Dismukes,IND,15,35,415,465,
+Okmulgee,Insurance Commissioner,Glen Mulready,REP,237,518,5620,6375,
+Okmulgee,Insurance Commissioner,Kimberly Fobbs,DEM,142,468,3897,4507,
+Okmulgee,Corporation Commissioner,Bob Anthony,REP,233,510,5457,6200,
+Okmulgee,Corporation Commissioner,Ashley Nicole Mccray,DEM,132,435,3610,4177,
+Okmulgee,Corporation Commissioner,Jackie Short,IND,17,43,492,552,
+Okmulgee,U.S. House,Richard Castaldo,LIB,3,10,171,184,02
+Okmulgee,U.S. House,Markwayne Mullin,REP,238,520,5618,6376,02
+Okmulgee,U.S. House,Jason Nichols,DEM,133,450,3553,4136,02
+Okmulgee,U.S. House,John Foreman,IND,9,19,286,314,02
+Okmulgee,State Senate,Roger Thompson,REP,242,538,5594,6374,8
+Okmulgee,State Senate,Shannan Tucker,DEM,126,434,3647,4207,8
+Okmulgee,State Senate,Marlena Nobles,IND,11,23,362,396,8
+Okmulgee,State House,Scott Fetgatter,REP,118,339,2815,3272,16
+Okmulgee,State House,Chandler Torbett,DEM,99,375,2843,3317,16
+Okmulgee,State House,James Delso,IND,9,15,205,229,16
+Okmulgee,State House,Logan Phillips,REP,102,131,2088,2321,24
+Okmulgee,State House,Steve Kouplen,DEM,50,134,1655,1839,24
+Osage,Governor,Chris Powell,LIB,28,18,478,524,
+Osage,Governor,Kevin Stitt,REP,409,636,7584,8629,
+Osage,Governor,Drew Edmondson,DEM,447,469,5286,6202,
+Osage,Lieutenant Governor,Matt Pinnell,REP,457,713,8318,9488,
+Osage,Lieutenant Governor,Anastasia Pittman,DEM,398,387,4522,5307,
+Osage,Lieutenant Governor,Ivan Holmes,IND,28,18,445,491,
+Osage,State Auditor,John Yeutter,LIB,207,205,3105,3517,
+Osage,State Auditor,Cindy Byrd,REP,555,790,9087,10432,
+Osage,Attorney General,Mike Hunter,REP,483,726,8509,9718,
+Osage,Attorney General,Mark Myles,DEM,397,392,4719,5508,
+Osage,State Treasurer,Randy Mcdaniel,REP,493,749,8776,10018,
+Osage,State Treasurer,Charles De Coune,IND,268,243,3407,3918,
+Osage,Superintendent of Public Instruction,Joy Hofmeister,REP,470,674,7567,8711,
+Osage,Superintendent of Public Instruction,John Cox,DEM,361,384,4602,5347,
+Osage,Superintendent of Public Instruction,Larry Huff,IND,51,60,1067,1178,
+Osage,Commissioner of Labor,Leslie Osborn,REP,465,710,7889,9064,
+Osage,Commissioner of Labor,Fred Dorrell,DEM,378,376,4641,5395,
+Osage,Commissioner of Labor,Brandt Dismukes,IND,29,25,594,648,
+Osage,Insurance Commissioner,Glen Mulready,REP,439,699,8123,9261,
+Osage,Insurance Commissioner,Kimberly Fobbs,DEM,438,411,5019,5868,
+Osage,Corporation Commissioner,Bob Anthony,REP,462,718,7947,9127,
+Osage,Corporation Commissioner,Ashley Nicole Mccray,DEM,370,364,4527,5261,
+Osage,Corporation Commissioner,Jackie Short,IND,47,33,714,794,
+Osage,U.S. House,Frank Lucas,REP,489,715,8519,9723,03
+Osage,U.S. House,Frankie Robbins,DEM,394,401,4719,5514,03
+Osage,State House,Judd Strom,REP,26,33,615,674,10
+Osage,State House,Kevin Stacy,DEM,11,5,125,141,10
+Osage,State House,Ty Burns,REP,20,8,220,248,35
+Osage,State House,Jasha Lyons Echo-Hawk,DEM,10,2,94,106,35
+Osage,State House,Jadine Nollan,REP,49,9,358,416,66
+Osage,State House,Angela Graham,DEM,19,7,180,206,66
+Ottawa,Governor,Chris Powell,LIB,3,14,254,271,
+Ottawa,Governor,Kevin Stitt,REP,132,390,4230,4752,
+Ottawa,Governor,Drew Edmondson,DEM,113,318,3071,3502,
+Ottawa,Lieutenant Governor,Matt Pinnell,REP,140,422,4728,5290,
+Ottawa,Lieutenant Governor,Anastasia Pittman,DEM,97,270,2451,2818,
+Ottawa,Lieutenant Governor,Ivan Holmes,IND,9,22,322,353,
+Ottawa,State Auditor,John Yeutter,LIB,58,122,1585,1765,
+Ottawa,State Auditor,Cindy Byrd,REP,163,519,5366,6048,
+Ottawa,Attorney General,Mike Hunter,REP,147,429,4875,5451,
+Ottawa,Attorney General,Mark Myles,DEM,98,280,2592,2970,
+Ottawa,State Treasurer,Randy Mcdaniel,REP,149,471,5213,5833,
+Ottawa,State Treasurer,Charles De Coune,IND,71,172,1721,1964,
+Ottawa,Superintendent of Public Instruction,Joy Hofmeister,REP,135,400,4115,4650,
+Ottawa,Superintendent of Public Instruction,John Cox,DEM,100,273,2858,3231,
+Ottawa,Superintendent of Public Instruction,Larry Huff,IND,9,35,532,576,
+Ottawa,Commissioner of Labor,Leslie Osborn,REP,145,422,4643,5210,
+Ottawa,Commissioner of Labor,Fred Dorrell,DEM,92,255,2463,2810,
+Ottawa,Commissioner of Labor,Brandt Dismukes,IND,7,29,332,368,
+Ottawa,Insurance Commissioner,Glen Mulready,REP,139,411,4679,5229,
+Ottawa,Insurance Commissioner,Kimberly Fobbs,DEM,103,293,2753,3149,
+Ottawa,Corporation Commissioner,Bob Anthony,REP,135,400,4405,4940,
+Ottawa,Corporation Commissioner,Ashley Nicole Mccray,DEM,104,280,2634,3018,
+Ottawa,Corporation Commissioner,Jackie Short,IND,4,31,408,443,
+Ottawa,U.S. House,Richard Castaldo,LIB,5,10,160,175,02
+Ottawa,U.S. House,Markwayne Mullin,REP,141,404,4571,5116,02
+Ottawa,U.S. House,Jason Nichols,DEM,96,275,2479,2850,02
+Ottawa,U.S. House,John Foreman,IND,2,25,306,333,02
+Ottawa,State House,William Leonard,REP,110,294,3447,3851,7
+Ottawa,State House,Ben Loring,DEM,135,425,4104,4664,7
+Pawnee,Governor,Chris Powell,LIB,3,18,186,207,
+Pawnee,Governor,Kevin Stitt,REP,97,207,2772,3076,
+Pawnee,Governor,Drew Edmondson,DEM,62,149,1434,1645,
+Pawnee,Lieutenant Governor,Matt Pinnell,REP,103,234,3041,3378,
+Pawnee,Lieutenant Governor,Anastasia Pittman,DEM,49,124,1156,1329,
+Pawnee,Lieutenant Governor,Ivan Holmes,IND,8,12,163,183,
+Pawnee,State Auditor,John Yeutter,LIB,31,57,823,911,
+Pawnee,State Auditor,Cindy Byrd,REP,114,276,3264,3654,
+Pawnee,Attorney General,Mike Hunter,REP,101,246,3137,3484,
+Pawnee,Attorney General,Mark Myles,DEM,60,124,1211,1395,
+Pawnee,State Treasurer,Randy Mcdaniel,REP,109,259,3192,3560,
+Pawnee,State Treasurer,Charles De Coune,IND,35,73,889,997,
+Pawnee,Superintendent of Public Instruction,Joy Hofmeister,REP,92,216,2698,3006,
+Pawnee,Superintendent of Public Instruction,John Cox,DEM,59,123,1234,1416,
+Pawnee,Superintendent of Public Instruction,Larry Huff,IND,10,29,419,458,
+Pawnee,Commissioner of Labor,Leslie Osborn,REP,97,240,2894,3231,
+Pawnee,Commissioner of Labor,Fred Dorrell,DEM,53,112,1188,1353,
+Pawnee,Commissioner of Labor,Brandt Dismukes,IND,9,14,222,245,
+Pawnee,Insurance Commissioner,Glen Mulready,REP,95,232,2971,3298,
+Pawnee,Insurance Commissioner,Kimberly Fobbs,DEM,64,134,1332,1530,
+Pawnee,Corporation Commissioner,Bob Anthony,REP,95,216,2920,3231,
+Pawnee,Corporation Commissioner,Ashley Nicole Mccray,DEM,55,134,1190,1379,
+Pawnee,Corporation Commissioner,Jackie Short,IND,9,17,235,261,
+Pawnee,U.S. House,Frank Lucas,REP,103,248,3124,3475,03
+Pawnee,U.S. House,Frankie Robbins,DEM,58,121,1218,1397,03
+Pawnee,State Senate,Chuck Hall,REP,104,250,3065,3419,20
+Pawnee,State Senate,Heady Coleman,DEM,55,116,1262,1433,20
+Pawnee,State House,Ty Burns,REP,101,252,3078,3431,35
+Pawnee,State House,Jasha Lyons Echo-Hawk,DEM,58,117,1277,1452,35
+Payne,Governor,Chris Powell,LIB,28,85,801,914,
+Payne,Governor,Kevin Stitt,REP,383,1217,9593,11193,
+Payne,Governor,Drew Edmondson,DEM,553,1581,8516,10650,
+Payne,Lieutenant Governor,Matt Pinnell,REP,460,1493,11281,13234,
+Payne,Lieutenant Governor,Anastasia Pittman,DEM,470,1282,6626,8378,
+Payne,Lieutenant Governor,Ivan Holmes,IND,28,101,839,968,
+Payne,State Auditor,John Yeutter,LIB,262,757,4676,5695,
+Payne,State Auditor,Cindy Byrd,REP,577,1851,12834,15262,
+Payne,Attorney General,Mike Hunter,REP,456,1578,11598,13632,
+Payne,Attorney General,Mark Myles,DEM,498,1285,7001,8784,
+Payne,State Treasurer,Randy Mcdaniel,REP,489,1615,12008,14112,
+Payne,State Treasurer,Charles De Coune,IND,351,1021,5527,6899,
+Payne,Superintendent of Public Instruction,Joy Hofmeister,REP,458,1582,10729,12769,
+Payne,Superintendent of Public Instruction,John Cox,DEM,449,1093,6305,7847,
+Payne,Superintendent of Public Instruction,Larry Huff,IND,43,192,1658,1893,
+Payne,Commissioner of Labor,Leslie Osborn,REP,471,1549,11367,13387,
+Payne,Commissioner of Labor,Fred Dorrell,DEM,434,1162,6087,7683,
+Payne,Commissioner of Labor,Brandt Dismukes,IND,34,124,1005,1163,
+Payne,Insurance Commissioner,Glen Mulready,REP,471,1512,11196,13179,
+Payne,Insurance Commissioner,Kimberly Fobbs,DEM,470,1311,7244,9025,
+Payne,Corporation Commissioner,Bob Anthony,REP,461,1513,10843,12817,
+Payne,Corporation Commissioner,Ashley Nicole Mccray,DEM,440,1196,6422,8058,
+Payne,Corporation Commissioner,Jackie Short,IND,47,142,1289,1478,
+Payne,U.S. House,Frank Lucas,REP,484,1584,11925,13993,03
+Payne,U.S. House,Frankie Robbins,DEM,474,1285,6788,8547,03
+Payne,State House,Aaron Means,REP,149,556,3179,3884,34
+Payne,State House,Trish Ranson,DEM,296,911,4024,5231,34
+Payne,State House,Ty Burns,REP,39,100,904,1043,35
+Payne,State House,Jasha Lyons Echo-Hawk,DEM,21,54,395,470,35
+Pittsburg,Governor,Chris Powell,LIB,8,22,527,557,
+Pittsburg,Governor,Kevin Stitt,REP,189,598,7199,7986,
+Pittsburg,Governor,Drew Edmondson,DEM,185,537,4120,4842,
+Pittsburg,Lieutenant Governor,Matt Pinnell,REP,202,674,7933,8809,
+Pittsburg,Lieutenant Governor,Anastasia Pittman,DEM,169,445,3375,3989,
+Pittsburg,Lieutenant Governor,Ivan Holmes,IND,10,30,459,499,
+Pittsburg,State Auditor,John Yeutter,LIB,86,260,2283,2629,
+Pittsburg,State Auditor,Cindy Byrd,REP,232,804,8701,9737,
+Pittsburg,Attorney General,Mike Hunter,REP,205,689,8176,9070,
+Pittsburg,Attorney General,Mark Myles,DEM,177,458,3536,4171,
+Pittsburg,State Treasurer,Randy Mcdaniel,REP,212,725,8491,9428,
+Pittsburg,State Treasurer,Charles De Coune,IND,108,332,2503,2943,
+Pittsburg,Superintendent of Public Instruction,Joy Hofmeister,REP,189,588,6826,7603,
+Pittsburg,Superintendent of Public Instruction,John Cox,DEM,171,496,3900,4567,
+Pittsburg,Superintendent of Public Instruction,Larry Huff,IND,22,63,1024,1109,
+Pittsburg,Commissioner of Labor,Leslie Osborn,REP,201,633,7372,8206,
+Pittsburg,Commissioner of Labor,Fred Dorrell,DEM,165,471,3593,4229,
+Pittsburg,Commissioner of Labor,Brandt Dismukes,IND,13,39,697,749,
+Pittsburg,Insurance Commissioner,Glen Mulready,REP,206,648,7808,8662,
+Pittsburg,Insurance Commissioner,Kimberly Fobbs,DEM,173,497,3841,4511,
+Pittsburg,Corporation Commissioner,Bob Anthony,REP,196,630,7466,8292,
+Pittsburg,Corporation Commissioner,Ashley Nicole Mccray,DEM,165,462,3484,4111,
+Pittsburg,Corporation Commissioner,Jackie Short,IND,21,50,730,801,
+Pittsburg,U.S. House,Richard Castaldo,LIB,10,18,174,202,02
+Pittsburg,U.S. House,Markwayne Mullin,REP,204,668,8082,8954,02
+Pittsburg,U.S. House,Jason Nichols,DEM,162,452,3161,3775,02
+Pittsburg,U.S. House,John Foreman,IND,5,14,389,408,02
+Pittsburg,State House,Randy Randleman,REP,31,33,535,599,15
+Pittsburg,State House,Judy Ross Moore,DEM,11,8,217,236,15
+Pittsburg,State House,Jim Grego,REP,104,311,3967,4382,17
+Pittsburg,State House,Peggy Defrange,DEM,123,300,2581,3004,17
+Pittsburg,State House,David Smith,REP,45,213,2283,2541,18
+Pittsburg,State House,Donnie Condit,DEM,69,293,2221,2583,18
+Pontotoc,Governor,Chris Powell,LIB,7,25,331,363,
+Pontotoc,Governor,Kevin Stitt,REP,153,856,5224,6233,
+Pontotoc,Governor,Drew Edmondson,DEM,175,888,4230,5293,
+Pontotoc,Lieutenant Governor,Matt Pinnell,REP,186,1020,6100,7306,
+Pontotoc,Lieutenant Governor,Anastasia Pittman,DEM,138,682,3216,4036,
+Pontotoc,Lieutenant Governor,Ivan Holmes,IND,7,46,361,414,
+Pontotoc,State Auditor,John Yeutter,LIB,62,260,1709,2031,
+Pontotoc,State Auditor,Cindy Byrd,REP,234,1341,7498,9073,
+Pontotoc,Attorney General,Mike Hunter,REP,188,1114,6484,7786,
+Pontotoc,Attorney General,Mark Myles,DEM,140,632,3165,3937,
+Pontotoc,State Treasurer,Randy Mcdaniel,REP,210,1225,7163,8598,
+Pontotoc,State Treasurer,Charles De Coune,IND,86,371,1984,2441,
+Pontotoc,Superintendent of Public Instruction,Joy Hofmeister,REP,193,1069,6051,7313,
+Pontotoc,Superintendent of Public Instruction,John Cox,DEM,126,587,2930,3643,
+Pontotoc,Superintendent of Public Instruction,Larry Huff,IND,11,92,710,813,
+Pontotoc,Commissioner of Labor,Leslie Osborn,REP,185,1055,6092,7332,
+Pontotoc,Commissioner of Labor,Fred Dorrell,DEM,128,615,3007,3750,
+Pontotoc,Commissioner of Labor,Brandt Dismukes,IND,12,55,443,510,
+Pontotoc,Insurance Commissioner,Glen Mulready,REP,174,1009,6033,7216,
+Pontotoc,Insurance Commissioner,Kimberly Fobbs,DEM,149,717,3526,4392,
+Pontotoc,Corporation Commissioner,Bob Anthony,REP,183,1038,5979,7200,
+Pontotoc,Corporation Commissioner,Ashley Nicole Mccray,DEM,128,630,3100,3858,
+Pontotoc,Corporation Commissioner,Jackie Short,IND,17,69,535,621,
+Pontotoc,U.S. House,Tom Cole,REP,198,1166,6738,8102,04
+Pontotoc,U.S. House,Mary Brannon,DEM,129,559,2664,3352,04
+Pontotoc,U.S. House,Ruby Peters,IND,5,33,335,373,04
+Pontotoc,State House,Ronny Johns,REP,152,827,4871,5850,25
+Pontotoc,State House,Daniel Manuel,DEM,160,863,4420,5443,25
+Pontotoc,State House,Gary Rhynes,IND,18,75,480,573,25
+Pottawatomie,Governor,Chris Powell,LIB,54,67,812,933,
+Pottawatomie,Governor,Kevin Stitt,REP,638,1239,10119,11996,
+Pottawatomie,Governor,Drew Edmondson,DEM,682,926,6485,8093,
+Pottawatomie,Lieutenant Governor,Matt Pinnell,REP,748,1421,11505,13674,
+Pottawatomie,Lieutenant Governor,Anastasia Pittman,DEM,572,744,5073,6389,
+Pottawatomie,Lieutenant Governor,Ivan Holmes,IND,52,55,711,818,
+Pottawatomie,State Auditor,John Yeutter,LIB,334,403,3500,4237,
+Pottawatomie,State Auditor,Cindy Byrd,REP,909,1647,12826,15382,
+Pottawatomie,Attorney General,Mike Hunter,REP,775,1495,12171,14441,
+Pottawatomie,Attorney General,Mark Myles,DEM,584,725,5044,6353,
+Pottawatomie,State Treasurer,Randy Mcdaniel,REP,830,1560,12439,14829,
+Pottawatomie,State Treasurer,Charles De Coune,IND,415,497,3871,4783,
+Pottawatomie,Superintendent of Public Instruction,Joy Hofmeister,REP,755,1437,10908,13100,
+Pottawatomie,Superintendent of Public Instruction,John Cox,DEM,519,652,4591,5762,
+Pottawatomie,Superintendent of Public Instruction,Larry Huff,IND,85,136,1733,1954,
+Pottawatomie,Commissioner of Labor,Leslie Osborn,REP,775,1466,11434,13675,
+Pottawatomie,Commissioner of Labor,Fred Dorrell,DEM,521,667,4679,5867,
+Pottawatomie,Commissioner of Labor,Brandt Dismukes,IND,58,71,943,1072,
+Pottawatomie,Insurance Commissioner,Glen Mulready,REP,737,1425,11397,13559,
+Pottawatomie,Insurance Commissioner,Kimberly Fobbs,DEM,609,777,5648,7034,
+Pottawatomie,Corporation Commissioner,Bob Anthony,REP,761,1388,10855,13004,
+Pottawatomie,Corporation Commissioner,Ashley Nicole Mccray,DEM,524,720,5111,6355,
+Pottawatomie,Corporation Commissioner,Jackie Short,IND,73,106,1196,1375,
+Pottawatomie,U.S. House,Steve Russell,REP,741,1371,10918,13030,05
+Pottawatomie,U.S. House,Kendra Horn,DEM,626,852,6366,7844,05
+Pottawatomie,State Senate,Jason Smalley,REP,275,500,4781,5556,28
+Pottawatomie,State Senate,Stephanie Sanders,IND,176,182,1793,2151,28
+Pottawatomie,State House,Sherrie Conley,REP,8,4,148,160,20
+Pottawatomie,State House,Steve Jarman,DEM,1,0,56,57,20
+Pottawatomie,State House,Dell Kerbs,REP,363,771,5115,6249,26
+Pottawatomie,State House,Terry Hopkins,DEM,420,602,3702,4724,26
+Pottawatomie,State House,Zack Taylor,REP,141,226,2027,2394,28
+Pottawatomie,State House,Steve Barnes,DEM,97,105,752,954,28
+Pottawatomie,State House,Kyle Webb,IND,16,17,226,259,28
+Pushmataha,Governor,Chris Powell,LIB,0,4,121,125,
+Pushmataha,Governor,Kevin Stitt,REP,63,167,1872,2102,
+Pushmataha,Governor,Drew Edmondson,DEM,31,137,938,1106,
+Pushmataha,Lieutenant Governor,Matt Pinnell,REP,68,198,2028,2294,
+Pushmataha,Lieutenant Governor,Anastasia Pittman,DEM,24,103,735,862,
+Pushmataha,Lieutenant Governor,Ivan Holmes,IND,1,5,118,124,
+Pushmataha,State Auditor,John Yeutter,LIB,8,53,420,481,
+Pushmataha,State Auditor,Cindy Byrd,REP,79,232,2298,2609,
+Pushmataha,Attorney General,Mike Hunter,REP,69,200,2084,2353,
+Pushmataha,Attorney General,Mark Myles,DEM,24,102,778,904,
+Pushmataha,State Treasurer,Randy Mcdaniel,REP,74,221,2233,2528,
+Pushmataha,State Treasurer,Charles De Coune,IND,12,62,451,525,
+Pushmataha,Superintendent of Public Instruction,Joy Hofmeister,REP,59,174,1805,2038,
+Pushmataha,Superintendent of Public Instruction,John Cox,DEM,27,111,829,967,
+Pushmataha,Superintendent of Public Instruction,Larry Huff,IND,5,18,239,262,
+Pushmataha,Commissioner of Labor,Leslie Osborn,REP,64,179,1961,2204,
+Pushmataha,Commissioner of Labor,Fred Dorrell,DEM,26,103,743,872,
+Pushmataha,Commissioner of Labor,Brandt Dismukes,IND,1,12,127,140,
+Pushmataha,Insurance Commissioner,Glen Mulready,REP,67,194,2004,2265,
+Pushmataha,Insurance Commissioner,Kimberly Fobbs,DEM,25,105,831,961,
+Pushmataha,Corporation Commissioner,Bob Anthony,REP,69,182,1915,2166,
+Pushmataha,Corporation Commissioner,Ashley Nicole Mccray,DEM,22,106,754,882,
+Pushmataha,Corporation Commissioner,Jackie Short,IND,3,12,175,190,
+Pushmataha,U.S. House,Richard Castaldo,LIB,1,5,42,48,02
+Pushmataha,U.S. House,Markwayne Mullin,REP,68,190,2112,2370,02
+Pushmataha,U.S. House,Jason Nichols,DEM,24,105,665,794,02
+Pushmataha,U.S. House,John Foreman,IND,1,7,91,99,02
+Pushmataha,State House,Justin Humphrey,REP,63,190,2077,2330,19
+Pushmataha,State House,Lewis Collins,DEM,29,116,835,980,19
+Roger Mills,Governor,Chris Powell,LIB,0,5,55,60,
+Roger Mills,Governor,Kevin Stitt,REP,41,141,975,1157,
+Roger Mills,Governor,Drew Edmondson,DEM,13,33,237,283,
+Roger Mills,Lieutenant Governor,Matt Pinnell,REP,43,153,1019,1215,
+Roger Mills,Lieutenant Governor,Anastasia Pittman,DEM,7,19,191,217,
+Roger Mills,Lieutenant Governor,Ivan Holmes,IND,1,5,45,51,
+Roger Mills,State Auditor,John Yeutter,LIB,8,14,157,179,
+Roger Mills,State Auditor,Cindy Byrd,REP,43,160,1070,1273,
+Roger Mills,Attorney General,Mike Hunter,REP,37,148,1026,1211,
+Roger Mills,Attorney General,Mark Myles,DEM,12,27,220,259,
+Roger Mills,State Treasurer,Randy Mcdaniel,REP,42,160,1078,1280,
+Roger Mills,State Treasurer,Charles De Coune,IND,8,15,138,161,
+Roger Mills,Superintendent of Public Instruction,Joy Hofmeister,REP,30,115,852,997,
+Roger Mills,Superintendent of Public Instruction,John Cox,DEM,16,42,269,327,
+Roger Mills,Superintendent of Public Instruction,Larry Huff,IND,6,22,126,154,
+Roger Mills,Commissioner of Labor,Leslie Osborn,REP,38,153,981,1172,
+Roger Mills,Commissioner of Labor,Fred Dorrell,DEM,8,18,194,220,
+Roger Mills,Commissioner of Labor,Brandt Dismukes,IND,3,6,59,68,
+Roger Mills,Insurance Commissioner,Glen Mulready,REP,36,148,980,1164,
+Roger Mills,Insurance Commissioner,Kimberly Fobbs,DEM,13,25,254,292,
+Roger Mills,Corporation Commissioner,Bob Anthony,REP,32,139,925,1096,
+Roger Mills,Corporation Commissioner,Ashley Nicole Mccray,DEM,16,29,238,283,
+Roger Mills,Corporation Commissioner,Jackie Short,IND,3,10,77,90,
+Roger Mills,U.S. House,Frank Lucas,REP,48,172,1111,1331,03
+Roger Mills,U.S. House,Frankie Robbins,DEM,7,8,162,177,03
+Roger Mills,State House,Todd Russ,REP,28,82,584,694,55
+Roger Mills,State House,Dennis Dugger,DEM,25,95,684,804,55
+Rogers,Governor,Chris Powell,LIB,34,105,930,1069,
+Rogers,Governor,Kevin Stitt,REP,851,2964,17635,21450,
+Rogers,Governor,Drew Edmondson,DEM,625,1623,8357,10605,
+Rogers,Lieutenant Governor,Matt Pinnell,REP,951,3308,19631,23890,
+Rogers,Lieutenant Governor,Anastasia Pittman,DEM,514,1277,6253,8044,
+Rogers,Lieutenant Governor,Ivan Holmes,IND,37,90,870,997,
+Rogers,State Auditor,John Yeutter,LIB,302,812,4754,5868,
+Rogers,State Auditor,Cindy Byrd,REP,1081,3553,20733,25367,
+Rogers,Attorney General,Mike Hunter,REP,958,3324,19840,24122,
+Rogers,Attorney General,Mark Myles,DEM,536,1337,6771,8644,
+Rogers,State Treasurer,Randy Mcdaniel,REP,1001,3449,20227,24677,
+Rogers,State Treasurer,Charles De Coune,IND,367,908,5201,6476,
+Rogers,Superintendent of Public Instruction,Joy Hofmeister,REP,907,3040,17334,21281,
+Rogers,Superintendent of Public Instruction,John Cox,DEM,504,1328,7175,9007,
+Rogers,Superintendent of Public Instruction,Larry Huff,IND,88,304,2187,2579,
+Rogers,Commissioner of Labor,Leslie Osborn,REP,959,3181,18653,22793,
+Rogers,Commissioner of Labor,Fred Dorrell,DEM,494,1306,6481,8281,
+Rogers,Commissioner of Labor,Brandt Dismukes,IND,40,140,1258,1438,
+Rogers,Insurance Commissioner,Glen Mulready,REP,925,3263,19316,23504,
+Rogers,Insurance Commissioner,Kimberly Fobbs,DEM,557,1364,7095,9016,
+Rogers,Corporation Commissioner,Bob Anthony,REP,922,3220,18660,22802,
+Rogers,Corporation Commissioner,Ashley Nicole Mccray,DEM,516,1263,6408,8187,
+Rogers,Corporation Commissioner,Jackie Short,IND,55,159,1458,1672,
+Rogers,U.S. House,Kevin Hern,REP,219,762,3595,4576,01
+Rogers,U.S. House,Tim Gilpin,DEM,156,345,1241,1742,01
+Rogers,U.S. House,Richard Castaldo,LIB,31,65,638,734,02
+Rogers,U.S. House,Markwayne Mullin,REP,684,2387,15246,18317,02
+Rogers,U.S. House,Jason Nichols,DEM,379,1041,5266,6686,02
+Rogers,U.S. House,John Foreman,IND,32,90,779,901,02
+Rogers,State Senate,Marty Quinn,REP,705,2545,12593,15843,2
+Rogers,State Senate,Jennifer Esau,DEM,515,1552,7015,9082,2
+Rogers,State House,Rusty Cornwell,REP,139,339,3862,4340,6
+Rogers,State House,John Myers,DEM,77,165,1733,1975,6
+Rogers,State House,Tom Gann,REP,55,139,1867,2061,8
+Rogers,State House,Darrell Moore,DEM,52,75,814,941,8
+Rogers,State House,Mark Lepak,REP,409,1617,7521,9547,9
+Rogers,State House,Clay Layton,DEM,240,781,3323,4344,9
+Rogers,State House,Terry O'Donnell,REP,70,176,1886,2132,23
+Rogers,State House,Craig John Hoxie,DEM,44,72,749,865,23
+Rogers,State House,Todd Blackburn,REP,5,3,128,136,77
+Rogers,State House,John Waldron,DEM,3,4,71,78,77
+Seminole,Governor,Chris Powell,LIB,14,14,258,286,
+Seminole,Governor,Kevin Stitt,REP,148,271,3262,3681,
+Seminole,Governor,Drew Edmondson,DEM,131,211,2265,2607,
+Seminole,Lieutenant Governor,Matt Pinnell,REP,157,304,3720,4181,
+Seminole,Lieutenant Governor,Anastasia Pittman,DEM,118,168,1838,2124,
+Seminole,Lieutenant Governor,Ivan Holmes,IND,16,19,201,236,
+Seminole,State Auditor,John Yeutter,LIB,68,95,1243,1406,
+Seminole,State Auditor,Cindy Byrd,REP,198,363,4255,4816,
+Seminole,Attorney General,Mike Hunter,REP,160,331,3897,4388,
+Seminole,Attorney General,Mark Myles,DEM,130,158,1830,2118,
+Seminole,State Treasurer,Randy Mcdaniel,REP,188,349,4135,4672,
+Seminole,State Treasurer,Charles De Coune,IND,79,105,1318,1502,
+Seminole,Superintendent of Public Instruction,Joy Hofmeister,REP,149,295,3417,3861,
+Seminole,Superintendent of Public Instruction,John Cox,DEM,114,167,1812,2093,
+Seminole,Superintendent of Public Instruction,Larry Huff,IND,28,28,511,567,
+Seminole,Commissioner of Labor,Leslie Osborn,REP,168,309,3694,4171,
+Seminole,Commissioner of Labor,Fred Dorrell,DEM,106,165,1742,2013,
+Seminole,Commissioner of Labor,Brandt Dismukes,IND,16,15,264,295,
+Seminole,Insurance Commissioner,Glen Mulready,REP,158,297,3643,4098,
+Seminole,Insurance Commissioner,Kimberly Fobbs,DEM,130,187,2059,2376,
+Seminole,Corporation Commissioner,Bob Anthony,REP,166,311,3588,4065,
+Seminole,Corporation Commissioner,Ashley Nicole Mccray,DEM,112,162,1820,2094,
+Seminole,Corporation Commissioner,Jackie Short,IND,14,16,318,348,
+Seminole,U.S. House,Steve Russell,REP,162,301,3493,3956,05
+Seminole,U.S. House,Kendra Horn,DEM,130,190,2258,2578,05
+Seminole,State Senate,Jason Smalley,REP,131,280,3007,3418,28
+Seminole,State Senate,Stephanie Sanders,IND,72,121,1338,1531,28
+Seminole,State House,Zack Taylor,REP,154,251,3363,3768,28
+Seminole,State House,Steve Barnes,DEM,130,234,2201,2565,28
+Seminole,State House,Kyle Webb,IND,7,11,205,223,28
+Sequoyah,Governor,Chris Powell,LIB,6,19,282,307,
+Sequoyah,Governor,Kevin Stitt,REP,158,600,5937,6695,
+Sequoyah,Governor,Drew Edmondson,DEM,152,468,3860,4480,
+Sequoyah,Lieutenant Governor,Matt Pinnell,REP,194,672,6648,7514,
+Sequoyah,Lieutenant Governor,Anastasia Pittman,DEM,111,375,2980,3466,
+Sequoyah,Lieutenant Governor,Ivan Holmes,IND,7,30,341,378,
+Sequoyah,State Auditor,John Yeutter,LIB,64,199,1854,2117,
+Sequoyah,State Auditor,Cindy Byrd,REP,220,789,7430,8439,
+Sequoyah,Attorney General,Mike Hunter,REP,199,699,6919,7817,
+Sequoyah,Attorney General,Mark Myles,DEM,111,377,3020,3508,
+Sequoyah,State Treasurer,Randy Mcdaniel,REP,203,743,7269,8215,
+Sequoyah,State Treasurer,Charles De Coune,IND,78,244,2002,2324,
+Sequoyah,Superintendent of Public Instruction,Joy Hofmeister,REP,182,647,5919,6748,
+Sequoyah,Superintendent of Public Instruction,John Cox,DEM,109,383,3314,3806,
+Sequoyah,Superintendent of Public Instruction,Larry Huff,IND,20,48,758,826,
+Sequoyah,Commissioner of Labor,Leslie Osborn,REP,187,668,6557,7412,
+Sequoyah,Commissioner of Labor,Fred Dorrell,DEM,110,368,2922,3400,
+Sequoyah,Commissioner of Labor,Brandt Dismukes,IND,11,33,407,451,
+Sequoyah,Insurance Commissioner,Glen Mulready,REP,182,673,6652,7507,
+Sequoyah,Insurance Commissioner,Kimberly Fobbs,DEM,125,399,3227,3751,
+Sequoyah,Corporation Commissioner,Bob Anthony,REP,195,638,6436,7269,
+Sequoyah,Corporation Commissioner,Ashley Nicole Mccray,DEM,101,372,2889,3362,
+Sequoyah,Corporation Commissioner,Jackie Short,IND,13,63,564,640,
+Sequoyah,U.S. House,Richard Castaldo,LIB,6,5,151,162,02
+Sequoyah,U.S. House,Markwayne Mullin,REP,188,679,6681,7548,02
+Sequoyah,U.S. House,Jason Nichols,DEM,112,378,2930,3420,02
+Sequoyah,U.S. House,John Foreman,IND,8,22,264,294,02
+Sequoyah,State Senate,Mark Dean Allen,REP,168,592,6202,6962,4
+Sequoyah,State Senate,Eddie Martin,DEM,144,488,3855,4487,4
+Sequoyah,State House,Jim Olsen,REP,133,485,4560,5178,2
+Sequoyah,State House,Tom Stites,DEM,155,522,3943,4620,2
+Sequoyah,State House,Randy Randleman,REP,22,41,981,1044,15
+Sequoyah,State House,Judy Ross Moore,DEM,5,36,606,647,15
+Stephens,Governor,Chris Powell,LIB,14,23,370,407,
+Stephens,Governor,Kevin Stitt,REP,271,794,8249,9314,
+Stephens,Governor,Drew Edmondson,DEM,182,342,3557,4081,
+Stephens,Lieutenant Governor,Matt Pinnell,REP,313,856,9016,10185,
+Stephens,Lieutenant Governor,Anastasia Pittman,DEM,140,270,2740,3150,
+Stephens,Lieutenant Governor,Ivan Holmes,IND,10,28,358,396,
+Stephens,State Auditor,John Yeutter,LIB,87,154,1812,2053,
+Stephens,State Auditor,Cindy Byrd,REP,329,929,9742,11000,
+Stephens,Attorney General,Mike Hunter,REP,316,878,9300,10494,
+Stephens,Attorney General,Mark Myles,DEM,144,272,2776,3192,
+Stephens,State Treasurer,Randy Mcdaniel,REP,321,905,9577,10803,
+Stephens,State Treasurer,Charles De Coune,IND,93,170,1977,2240,
+Stephens,Superintendent of Public Instruction,Joy Hofmeister,REP,289,795,8061,9145,
+Stephens,Superintendent of Public Instruction,John Cox,DEM,145,289,3138,3572,
+Stephens,Superintendent of Public Instruction,Larry Huff,IND,25,66,904,995,
+Stephens,Commissioner of Labor,Leslie Osborn,REP,298,827,8716,9841,
+Stephens,Commissioner of Labor,Fred Dorrell,DEM,136,268,2670,3074,
+Stephens,Commissioner of Labor,Brandt Dismukes,IND,24,48,633,705,
+Stephens,Insurance Commissioner,Glen Mulready,REP,304,841,8867,10012,
+Stephens,Insurance Commissioner,Kimberly Fobbs,DEM,156,305,3130,3591,
+Stephens,Corporation Commissioner,Bob Anthony,REP,295,837,8817,9949,
+Stephens,Corporation Commissioner,Ashley Nicole Mccray,DEM,144,270,2654,3068,
+Stephens,Corporation Commissioner,Jackie Short,IND,24,45,594,663,
+Stephens,U.S. House,Tom Cole,REP,316,875,9350,10541,04
+Stephens,U.S. House,Mary Brannon,DEM,134,255,2394,2783,04
+Stephens,U.S. House,Ruby Peters,IND,14,24,399,437,04
+Stephens,State House,Toni Hasenbeck,REP,6,36,440,482,65
+Stephens,State House,Brandon Thompson,DEM,4,9,111,124,65
+Texas,Governor,Chris Powell,LIB,4,7,136,147,
+Texas,Governor,Kevin Stitt,REP,143,358,2596,3097,
+Texas,Governor,Drew Edmondson,DEM,27,106,761,894,
+Texas,Lieutenant Governor,Matt Pinnell,REP,142,380,2795,3317,
+Texas,Lieutenant Governor,Anastasia Pittman,DEM,26,71,565,662,
+Texas,Lieutenant Governor,Ivan Holmes,IND,2,17,120,139,
+Texas,State Auditor,John Yeutter,LIB,14,48,436,498,
+Texas,State Auditor,Cindy Byrd,REP,146,403,2932,3481,
+Texas,Attorney General,Mike Hunter,REP,140,383,2875,3398,
+Texas,Attorney General,Mark Myles,DEM,29,87,596,712,
+Texas,State Treasurer,Randy Mcdaniel,REP,137,392,2870,3399,
+Texas,State Treasurer,Charles De Coune,IND,24,60,495,579,
+Texas,Superintendent of Public Instruction,Joy Hofmeister,REP,127,369,2607,3103,
+Texas,Superintendent of Public Instruction,John Cox,DEM,29,85,645,759,
+Texas,Superintendent of Public Instruction,Larry Huff,IND,13,14,220,247,
+Texas,Commissioner of Labor,Leslie Osborn,REP,140,388,2827,3355,
+Texas,Commissioner of Labor,Fred Dorrell,DEM,22,71,513,606,
+Texas,Commissioner of Labor,Brandt Dismukes,IND,5,8,119,132,
+Texas,Insurance Commissioner,Glen Mulready,REP,135,378,2797,3310,
+Texas,Insurance Commissioner,Kimberly Fobbs,DEM,32,89,657,778,
+Texas,Corporation Commissioner,Bob Anthony,REP,128,364,2625,3117,
+Texas,Corporation Commissioner,Ashley Nicole Mccray,DEM,26,85,643,754,
+Texas,Corporation Commissioner,Jackie Short,IND,15,16,195,226,
+Texas,U.S. House,Frank Lucas,REP,142,398,2899,3439,03
+Texas,U.S. House,Frankie Robbins,DEM,26,71,580,677,03
+Texas,State House,Kenton Patzkowsky,REP,126,322,2326,2774,61
+Texas,State House,Ashley Lehnert,DEM,45,148,1164,1357,61
+Tillman,Governor,Chris Powell,LIB,2,9,49,60,
+Tillman,Governor,Kevin Stitt,REP,33,178,1104,1315,
+Tillman,Governor,Drew Edmondson,DEM,21,82,613,716,
+Tillman,Lieutenant Governor,Matt Pinnell,REP,33,197,1205,1435,
+Tillman,Lieutenant Governor,Anastasia Pittman,DEM,16,60,481,557,
+Tillman,Lieutenant Governor,Ivan Holmes,IND,4,6,57,67,
+Tillman,State Auditor,John Yeutter,LIB,5,32,323,360,
+Tillman,State Auditor,Cindy Byrd,REP,41,218,1316,1575,
+Tillman,Attorney General,Mike Hunter,REP,35,202,1237,1474,
+Tillman,Attorney General,Mark Myles,DEM,13,56,500,569,
+Tillman,State Treasurer,Randy Mcdaniel,REP,39,213,1327,1579,
+Tillman,State Treasurer,Charles De Coune,IND,6,39,311,356,
+Tillman,Superintendent of Public Instruction,Joy Hofmeister,REP,33,182,1102,1317,
+Tillman,Superintendent of Public Instruction,John Cox,DEM,16,67,533,616,
+Tillman,Superintendent of Public Instruction,Larry Huff,IND,3,15,112,130,
+Tillman,Commissioner of Labor,Leslie Osborn,REP,35,197,1174,1406,
+Tillman,Commissioner of Labor,Fred Dorrell,DEM,12,63,488,563,
+Tillman,Commissioner of Labor,Brandt Dismukes,IND,3,3,64,70,
+Tillman,Insurance Commissioner,Glen Mulready,REP,31,191,1174,1396,
+Tillman,Insurance Commissioner,Kimberly Fobbs,DEM,18,71,550,639,
+Tillman,Corporation Commissioner,Bob Anthony,REP,37,196,1203,1436,
+Tillman,Corporation Commissioner,Ashley Nicole Mccray,DEM,13,60,468,541,
+Tillman,Corporation Commissioner,Jackie Short,IND,1,7,67,75,
+Tillman,U.S. House,Tom Cole,REP,40,213,1310,1563,04
+Tillman,U.S. House,Mary Brannon,DEM,13,52,409,474,04
+Tillman,U.S. House,Ruby Peters,IND,1,3,44,48,04
+Tillman,State House,Trey Caldwell,REP,44,219,1342,1605,63
+Tillman,State House,Joan Gabelmann,DEM,11,48,418,477,63
+Tulsa,Governor,Chris Powell,LIB,170,207,5339,5716,
+Tulsa,Governor,Kevin Stitt,REP,4675,5437,91406,101518,
+Tulsa,Governor,Drew Edmondson,DEM,5254,7217,82879,95350,
+Tulsa,Lieutenant Governor,Matt Pinnell,REP,5368,6235,105309,116912,
+Tulsa,Lieutenant Governor,Anastasia Pittman,DEM,4400,6289,67161,77850,
+Tulsa,Lieutenant Governor,Ivan Holmes,IND,238,295,5824,6357,
+Tulsa,State Auditor,John Yeutter,LIB,2282,3724,45670,51676,
+Tulsa,State Auditor,Cindy Byrd,REP,6483,7571,117596,131650,
+Tulsa,Attorney General,Mike Hunter,REP,5375,6274,106495,118144,
+Tulsa,Attorney General,Mark Myles,DEM,4596,6491,70592,81679,
+Tulsa,State Treasurer,Randy Mcdaniel,REP,5714,6754,109706,122174,
+Tulsa,State Treasurer,Charles De Coune,IND,3039,4578,53211,60828,
+Tulsa,Superintendent of Public Instruction,Joy Hofmeister,REP,5568,6400,100999,112967,
+Tulsa,Superintendent of Public Instruction,John Cox,DEM,3974,5759,64592,74325,
+Tulsa,Superintendent of Public Instruction,Larry Huff,IND,465,609,12025,13099,
+Tulsa,Commissioner of Labor,Leslie Osborn,REP,5342,6097,100540,111979,
+Tulsa,Commissioner of Labor,Fred Dorrell,DEM,4240,6162,66063,76465,
+Tulsa,Commissioner of Labor,Brandt Dismukes,IND,288,406,8381,9075,
+Tulsa,Insurance Commissioner,Glen Mulready,REP,5314,6113,103482,114909,
+Tulsa,Insurance Commissioner,Kimberly Fobbs,DEM,4545,6549,71953,83047,
+Tulsa,Corporation Commissioner,Bob Anthony,REP,5285,6197,101489,112971,
+Tulsa,Corporation Commissioner,Ashley Nicole Mccray,DEM,4248,6093,65730,76071,
+Tulsa,Corporation Commissioner,Jackie Short,IND,398,412,8934,9744,
+Tulsa,U.S. House,Kevin Hern,REP,5096,5874,102048,113018,01
+Tulsa,U.S. House,Tim Gilpin,DEM,4931,6944,76029,87904,01
+Tulsa,State Senate,James Leewright,REP,66,55,1610,1731,12
+Tulsa,State Senate,Rick Parris,DEM,29,36,723,788,12
+Tulsa,State Senate,Kim David,REP,17,36,547,600,18
+Tulsa,State Senate,Charles Arnall,DEM,22,10,197,229,18
+Tulsa,State Senate,John Haste,REP,422,389,8159,8970,36
+Tulsa,State Senate,Bryan O'Brien,DEM,307,416,5884,6607,36
+Tulsa,State House,Scott Fetgatter,REP,6,0,127,133,16
+Tulsa,State House,Chandler Torbett,DEM,2,5,24,31,16
+Tulsa,State House,James Delso,IND,0,0,0,0,16
+Tulsa,State House,Terry O'Donnell,REP,90,65,2209,2364,23
+Tulsa,State House,Craig John Hoxie,DEM,76,123,2213,2412,23
+Tulsa,State House,Kyle Hilbert,REP,39,37,955,1031,29
+Tulsa,State House,Jesse Goodwin,DEM,13,22,371,406,29
+Tulsa,State House,Jadine Nollan,REP,226,269,5972,6467,66
+Tulsa,State House,Angela Graham,DEM,199,334,4151,4684,66
+Tulsa,State House,Jeff Boatman,REP,638,1035,9371,11044,67
+Tulsa,State House,Carly Hotvedt,DEM,458,709,4611,5778,67
+Tulsa,State House,J. Lee Miller Jr.,LIB,13,12,284,309,68
+Tulsa,State House,Lonnie Sims,REP,292,355,6118,6765,68
+Tulsa,State House,Michael Ross,DEM,206,281,3186,3673,68
+Tulsa,State House,Heather Chenoweth,IND,25,33,1030,1088,68
+Tulsa,State House,Sheila Dills,REP,677,715,10229,11621,69
+Tulsa,State House,Andy Richardson,DEM,360,428,4069,4857,69
+Tulsa,State House,Carol Bush,REP,542,530,8180,9252,70
+Tulsa,State House,Jj Burnam,DEM,510,576,6604,7690,70
+Tulsa,State House,Cheryl Baber,REP,302,339,4524,5165,71
+Tulsa,State House,Denise Brewer,DEM,436,596,5579,6611,71
+Tulsa,State House,Kelli Krebs,LIB,9,15,371,395,75
+Tulsa,State House,T. Marti,REP,279,272,5076,5627,75
+Tulsa,State House,Karen Gaddis,DEM,237,293,3986,4516,75
+Tulsa,State House,Ross Ford,REP,370,475,8253,9098,76
+Tulsa,State House,Forrest Mayer,DEM,233,334,3878,4445,76
+Tulsa,State House,Todd Blackburn,REP,77,78,2782,2937,77
+Tulsa,State House,John Waldron,DEM,132,212,3899,4243,77
+Tulsa,State House,Gene Bell,LIB,22,23,520,565,78
+Tulsa,State House,Paul Royse,REP,176,232,4177,4585,78
+Tulsa,State House,Meloyde Blancett,DEM,384,616,6580,7580,78
+Tulsa,State House,Dan Hicks,REP,351,367,5289,6007,79
+Tulsa,State House,Melissa Provenzano,DEM,384,493,5630,6507,79
+Tulsa,State House,Stan May,REP,413,498,8965,9876,80
+Tulsa,State House,Janice Graham,DEM,285,283,3874,4442,80
+Tulsa,State House,Dean Davis,REP,110,111,2483,2704,98
+Tulsa,State House,Kilmyn Easley-Graf,DEM,101,82,1486,1669,98
+Tulsa,State House,Sean Parrish,IND,2,3,83,88,98
+Wagoner,Governor,Chris Powell,LIB,20,70,811,901,
+Wagoner,Governor,Kevin Stitt,REP,557,2185,13604,16346,
+Wagoner,Governor,Drew Edmondson,DEM,334,1149,7217,8700,
+Wagoner,Lieutenant Governor,Matt Pinnell,REP,602,2402,15127,18131,
+Wagoner,Lieutenant Governor,Anastasia Pittman,DEM,288,924,5572,6784,
+Wagoner,Lieutenant Governor,Ivan Holmes,IND,16,67,794,877,
+Wagoner,State Auditor,John Yeutter,LIB,171,560,4317,5048,
+Wagoner,State Auditor,Cindy Byrd,REP,662,2575,16039,19276,
+Wagoner,Attorney General,Mike Hunter,REP,609,2429,15462,18500,
+Wagoner,Attorney General,Mark Myles,DEM,294,960,5950,7204,
+Wagoner,State Treasurer,Randy Mcdaniel,REP,610,2518,15695,18823,
+Wagoner,State Treasurer,Charles De Coune,IND,222,637,4585,5444,
+Wagoner,Superintendent of Public Instruction,Joy Hofmeister,REP,574,2262,13649,16485,
+Wagoner,Superintendent of Public Instruction,John Cox,DEM,278,928,5996,7202,
+Wagoner,Superintendent of Public Instruction,Larry Huff,IND,49,193,1801,2043,
+Wagoner,Commissioner of Labor,Leslie Osborn,REP,579,2321,14328,17228,
+Wagoner,Commissioner of Labor,Fred Dorrell,DEM,282,934,5838,7054,
+Wagoner,Commissioner of Labor,Brandt Dismukes,IND,30,98,1092,1220,
+Wagoner,Insurance Commissioner,Glen Mulready,REP,582,2358,14804,17744,
+Wagoner,Insurance Commissioner,Kimberly Fobbs,DEM,314,1003,6447,7764,
+Wagoner,Corporation Commissioner,Bob Anthony,REP,573,2301,14437,17311,
+Wagoner,Corporation Commissioner,Ashley Nicole Mccray,DEM,297,937,5661,6895,
+Wagoner,Corporation Commissioner,Jackie Short,IND,29,137,1218,1384,
+Wagoner,U.S. House,Kevin Hern,REP,595,2364,15218,18177,01
+Wagoner,U.S. House,Tim Gilpin,DEM,307,1029,6252,7588,01
+Wagoner,State Senate,Kim David,REP,383,1193,10930,12506,18
+Wagoner,State Senate,Charles Arnall,DEM,188,585,4969,5742,18
+Wagoner,State Senate,John Haste,REP,216,1135,3980,5331,36
+Wagoner,State Senate,Bryan O'Brien,DEM,116,461,1520,2097,36
+Wagoner,State House,Tom Gann,REP,13,25,488,526,8
+Wagoner,State House,Darrell Moore,DEM,9,14,194,217,8
+Wagoner,State House,Kevin Mcdugle,REP,212,860,6104,7176,12
+Wagoner,State House,Cyndi Ralston,DEM,147,603,4061,4811,12
+Wagoner,State House,Scott Fetgatter,REP,65,116,1607,1788,16
+Wagoner,State House,Chandler Torbett,DEM,21,40,481,542,16
+Wagoner,State House,James Delso,IND,3,4,99,106,16
+Wagoner,State House,Terry O'Donnell,REP,9,15,361,385,23
+Wagoner,State House,Craig John Hoxie,DEM,2,11,220,233,23
+Wagoner,State House,Stan May,REP,48,91,845,984,80
+Wagoner,State House,Janice Graham,DEM,15,52,302,369,80
+Wagoner,State House,Dean Davis,REP,208,989,4150,5347,98
+Wagoner,State House,Kilmyn Easley-Graf,DEM,141,544,2342,3027,98
+Wagoner,State House,Sean Parrish,IND,4,20,165,189,98
+Washington,Governor,Chris Powell,LIB,16,46,526,588,
+Washington,Governor,Kevin Stitt,REP,322,1046,9858,11226,
+Washington,Governor,Drew Edmondson,DEM,307,775,4935,6017,
+Washington,Lieutenant Governor,Matt Pinnell,REP,360,1236,11154,12750,
+Washington,Lieutenant Governor,Anastasia Pittman,DEM,262,580,3603,4445,
+Washington,Lieutenant Governor,Ivan Holmes,IND,22,46,473,541,
+Washington,State Auditor,John Yeutter,LIB,148,337,2761,3246,
+Washington,State Auditor,Cindy Byrd,REP,422,1376,11583,13381,
+Washington,Attorney General,Mike Hunter,REP,369,1217,11205,12791,
+Washington,Attorney General,Mark Myles,DEM,271,636,3925,4832,
+Washington,State Treasurer,Randy Mcdaniel,REP,393,1296,11387,13076,
+Washington,State Treasurer,Charles De Coune,IND,187,424,2966,3577,
+Washington,Superintendent of Public Instruction,Joy Hofmeister,REP,371,1192,10354,11917,
+Washington,Superintendent of Public Instruction,John Cox,DEM,240,559,3669,4468,
+Washington,Superintendent of Public Instruction,Larry Huff,IND,29,95,1157,1281,
+Washington,Commissioner of Labor,Leslie Osborn,REP,365,1224,10623,12212,
+Washington,Commissioner of Labor,Fred Dorrell,DEM,252,569,3708,4529,
+Washington,Commissioner of Labor,Brandt Dismukes,IND,18,47,702,767,
+Washington,Insurance Commissioner,Glen Mulready,REP,366,1190,10877,12433,
+Washington,Insurance Commissioner,Kimberly Fobbs,DEM,263,652,4119,5034,
+Washington,Corporation Commissioner,Bob Anthony,REP,363,1212,10552,12127,
+Washington,Corporation Commissioner,Ashley Nicole Mccray,DEM,248,574,3647,4469,
+Washington,Corporation Commissioner,Jackie Short,IND,27,60,876,963,
+Washington,U.S. House,Kevin Hern,REP,359,1160,10952,12471,01
+Washington,U.S. House,Tim Gilpin,DEM,283,703,4267,5253,01
+Washington,State House,Judd Strom,REP,133,385,5164,5682,10
+Washington,State House,Kevin Stacy,DEM,103,176,1875,2154,10
+Washita,Governor,Chris Powell,LIB,8,11,170,189,
+Washita,Governor,Kevin Stitt,REP,111,159,2383,2653,
+Washita,Governor,Drew Edmondson,DEM,54,84,825,963,
+Washita,Lieutenant Governor,Matt Pinnell,REP,123,167,2574,2864,
+Washita,Lieutenant Governor,Anastasia Pittman,DEM,39,75,634,748,
+Washita,Lieutenant Governor,Ivan Holmes,IND,8,13,137,158,
+Washita,State Auditor,John Yeutter,LIB,30,36,462,528,
+Washita,State Auditor,Cindy Byrd,REP,132,206,2790,3128,
+Washita,Attorney General,Mike Hunter,REP,128,184,2656,2968,
+Washita,Attorney General,Mark Myles,DEM,43,71,692,806,
+Washita,State Treasurer,Randy Mcdaniel,REP,132,192,2803,3127,
+Washita,State Treasurer,Charles De Coune,IND,31,49,451,531,
+Washita,Superintendent of Public Instruction,Joy Hofmeister,REP,121,160,2404,2685,
+Washita,Superintendent of Public Instruction,John Cox,DEM,32,69,626,727,
+Washita,Superintendent of Public Instruction,Larry Huff,IND,17,25,325,367,
+Washita,Commissioner of Labor,Leslie Osborn,REP,118,163,2535,2816,
+Washita,Commissioner of Labor,Fred Dorrell,DEM,41,74,624,739,
+Washita,Commissioner of Labor,Brandt Dismukes,IND,10,13,162,185,
+Washita,Insurance Commissioner,Glen Mulready,REP,126,166,2543,2835,
+Washita,Insurance Commissioner,Kimberly Fobbs,DEM,42,85,766,893,
+Washita,Corporation Commissioner,Bob Anthony,REP,121,157,2445,2723,
+Washita,Corporation Commissioner,Ashley Nicole Mccray,DEM,38,80,674,792,
+Washita,Corporation Commissioner,Jackie Short,IND,13,17,220,250,
+Washita,U.S. House,Frank Lucas,REP,137,201,2810,3148,03
+Washita,U.S. House,Frankie Robbins,DEM,36,54,560,650,03
+Washita,State Senate,Brent Howard,REP,113,143,2260,2516,38
+Washita,State Senate,Jeff Berrong,DEM,58,112,1097,1267,38
+Washita,State House,Todd Russ,REP,104,115,1817,2036,55
+Washita,State House,Dennis Dugger,DEM,70,142,1549,1761,55
+Woods,Governor,Chris Powell,LIB,4,21,93,118,
+Woods,Governor,Kevin Stitt,REP,78,275,1576,1929,
+Woods,Governor,Drew Edmondson,DEM,48,152,597,797,
+Woods,Lieutenant Governor,Matt Pinnell,REP,90,309,1785,2184,
+Woods,Lieutenant Governor,Anastasia Pittman,DEM,31,132,410,573,
+Woods,Lieutenant Governor,Ivan Holmes,IND,8,3,61,72,
+Woods,State Auditor,John Yeutter,LIB,27,63,292,382,
+Woods,State Auditor,Cindy Byrd,REP,90,348,1919,2357,
+Woods,Attorney General,Mike Hunter,REP,91,333,1818,2242,
+Woods,Attorney General,Mark Myles,DEM,38,110,434,582,
+Woods,State Treasurer,Randy Mcdaniel,REP,99,357,1920,2376,
+Woods,State Treasurer,Charles De Coune,IND,20,72,301,393,
+Woods,Superintendent of Public Instruction,Joy Hofmeister,REP,83,313,1642,2038,
+Woods,Superintendent of Public Instruction,John Cox,DEM,34,108,426,568,
+Woods,Superintendent of Public Instruction,Larry Huff,IND,11,22,191,224,
+Woods,Commissioner of Labor,Leslie Osborn,REP,91,305,1786,2182,
+Woods,Commissioner of Labor,Fred Dorrell,DEM,33,122,363,518,
+Woods,Commissioner of Labor,Brandt Dismukes,IND,2,13,96,111,
+Woods,Insurance Commissioner,Glen Mulready,REP,89,319,1757,2165,
+Woods,Insurance Commissioner,Kimberly Fobbs,DEM,36,124,478,638,
+Woods,Corporation Commissioner,Bob Anthony,REP,97,307,1677,2081,
+Woods,Corporation Commissioner,Ashley Nicole Mccray,DEM,26,121,443,590,
+Woods,Corporation Commissioner,Jackie Short,IND,6,20,134,160,
+Woods,U.S. House,Frank Lucas,REP,96,334,1894,2324,03
+Woods,U.S. House,Frankie Robbins,DEM,34,112,363,509,03
+Woodward,Governor,Chris Powell,LIB,0,17,167,184,
+Woodward,Governor,Kevin Stitt,REP,114,617,3595,4326,
+Woodward,Governor,Drew Edmondson,DEM,47,216,1125,1388,
+Woodward,Lieutenant Governor,Matt Pinnell,REP,127,678,3930,4735,
+Woodward,Lieutenant Governor,Anastasia Pittman,DEM,31,152,784,967,
+Woodward,Lieutenant Governor,Ivan Holmes,IND,2,22,160,184,
+Woodward,State Auditor,John Yeutter,LIB,16,105,584,705,
+Woodward,State Auditor,Cindy Byrd,REP,134,714,4156,5004,
+Woodward,Attorney General,Mike Hunter,REP,124,699,4030,4853,
+Woodward,Attorney General,Mark Myles,DEM,34,149,829,1012,
+Woodward,State Treasurer,Randy Mcdaniel,REP,125,702,4125,4952,
+Woodward,State Treasurer,Charles De Coune,IND,21,119,602,742,
+Woodward,Superintendent of Public Instruction,Joy Hofmeister,REP,120,669,3645,4434,
+Woodward,Superintendent of Public Instruction,John Cox,DEM,33,130,840,1003,
+Woodward,Superintendent of Public Instruction,Larry Huff,IND,6,48,376,430,
+Woodward,Commissioner of Labor,Leslie Osborn,REP,129,688,3880,4697,
+Woodward,Commissioner of Labor,Fred Dorrell,DEM,29,131,728,888,
+Woodward,Commissioner of Labor,Brandt Dismukes,IND,2,25,221,248,
+Woodward,Insurance Commissioner,Glen Mulready,REP,121,679,3854,4654,
+Woodward,Insurance Commissioner,Kimberly Fobbs,DEM,38,166,978,1182,
+Woodward,Corporation Commissioner,Bob Anthony,REP,117,649,3712,4478,
+Woodward,Corporation Commissioner,Ashley Nicole Mccray,DEM,37,165,841,1043,
+Woodward,Corporation Commissioner,Jackie Short,IND,5,35,291,331,
+Woodward,U.S. House,Frank Lucas,REP,131,701,4127,4959,03
+Woodward,U.S. House,Frankie Robbins,DEM,30,150,744,924,03
+Woodward,State House,Kenton Patzkowsky,REP,1,3,70,74,61
+Woodward,State House,Ashley Lehnert,DEM,0,1,32,33,61
