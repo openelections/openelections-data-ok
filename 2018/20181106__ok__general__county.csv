@@ -22,10 +22,10 @@ Adair,Insurance Commissioner,Kimberly Fobbs,DEM,55,141,1523,1719,
 Adair,Corporation Commissioner,Bob Anthony,REP,76,195,2978,3249,
 Adair,Corporation Commissioner,Ashley Nicole Mccray,DEM,47,131,1383,1561,
 Adair,Corporation Commissioner,Jackie Short,IND,5,13,262,280,
-Adair,U.S. House,Richard Castaldo,LIB,4,10,95,109,02
-Adair,U.S. House,Markwayne Mullin,REP,77,185,3100,3362,02
-Adair,U.S. House,Jason Nichols,DEM,47,142,1340,1529,02
-Adair,U.S. House,John Foreman,IND,1,9,167,177,02
+Adair,U.S. House,Richard Castaldo,LIB,4,10,95,109,2
+Adair,U.S. House,Markwayne Mullin,REP,77,185,3100,3362,2
+Adair,U.S. House,Jason Nichols,DEM,47,142,1340,1529,2
+Adair,U.S. House,John Foreman,IND,1,9,167,177,2
 Adair,State House,David Hardin,REP,79,186,2952,3217,86
 Adair,State House,Rhonda Cox,DEM,50,158,1733,1941,86
 Alfalfa,Governor,Chris Powell,LIB,1,4,72,77,
@@ -51,8 +51,8 @@ Alfalfa,Insurance Commissioner,Kimberly Fobbs,DEM,13,18,254,285,
 Alfalfa,Corporation Commissioner,Bob Anthony,REP,40,122,1254,1416,
 Alfalfa,Corporation Commissioner,Ashley Nicole Mccray,DEM,15,17,240,272,
 Alfalfa,Corporation Commissioner,Jackie Short,IND,5,5,86,96,
-Alfalfa,U.S. House,Frank Lucas,REP,45,125,1377,1547,03
-Alfalfa,U.S. House,Frankie Robbins,DEM,15,20,213,248,03
+Alfalfa,U.S. House,Frank Lucas,REP,45,125,1377,1547,3
+Alfalfa,U.S. House,Frankie Robbins,DEM,15,20,213,248,3
 Atoka,Governor,Chris Powell,LIB,4,18,73,95,
 Atoka,Governor,Kevin Stitt,REP,62,486,2241,2789,
 Atoka,Governor,Drew Edmondson,DEM,40,226,889,1155,
@@ -76,10 +76,10 @@ Atoka,Insurance Commissioner,Kimberly Fobbs,DEM,34,211,805,1050,
 Atoka,Corporation Commissioner,Bob Anthony,REP,64,466,2231,2761,
 Atoka,Corporation Commissioner,Ashley Nicole Mccray,DEM,34,210,743,987,
 Atoka,Corporation Commissioner,Jackie Short,IND,1,33,154,188,
-Atoka,U.S. House,Richard Castaldo,LIB,1,11,28,40,02
-Atoka,U.S. House,Markwayne Mullin,REP,69,524,2474,3067,02
-Atoka,U.S. House,Jason Nichols,DEM,32,179,607,818,02
-Atoka,U.S. House,John Foreman,IND,1,13,70,84,02
+Atoka,U.S. House,Richard Castaldo,LIB,1,11,28,40,2
+Atoka,U.S. House,Markwayne Mullin,REP,69,524,2474,3067,2
+Atoka,U.S. House,Jason Nichols,DEM,32,179,607,818,2
+Atoka,U.S. House,John Foreman,IND,1,13,70,84,2
 Atoka,State Senate,David Bullard,REP,59,453,1764,2276,6
 Atoka,State Senate,Arnold Bourne,DEM,29,202,694,925,6
 Atoka,State House,Justin Humphrey,REP,18,173,928,1119,19
@@ -110,8 +110,8 @@ Beaver,Insurance Commissioner,Kimberly Fobbs,DEM,14,32,182,228,
 Beaver,Corporation Commissioner,Bob Anthony,REP,79,171,1211,1461,
 Beaver,Corporation Commissioner,Ashley Nicole Mccray,DEM,13,30,174,217,
 Beaver,Corporation Commissioner,Jackie Short,IND,2,6,85,93,
-Beaver,U.S. House,Frank Lucas,REP,87,179,1342,1608,03
-Beaver,U.S. House,Frankie Robbins,DEM,9,31,147,187,03
+Beaver,U.S. House,Frank Lucas,REP,87,179,1342,1608,3
+Beaver,U.S. House,Frankie Robbins,DEM,9,31,147,187,3
 Beaver,State House,Kenton Patzkowsky,REP,70,134,1020,1224,61
 Beaver,State House,Ashley Lehnert,DEM,26,75,470,571,61
 Beckham,Governor,Chris Powell,LIB,2,14,232,248,
@@ -137,8 +137,8 @@ Beckham,Insurance Commissioner,Kimberly Fobbs,DEM,54,106,1116,1276,
 Beckham,Corporation Commissioner,Bob Anthony,REP,141,323,3670,4134,
 Beckham,Corporation Commissioner,Ashley Nicole Mccray,DEM,47,93,1035,1175,
 Beckham,Corporation Commissioner,Jackie Short,IND,14,23,316,353,
-Beckham,U.S. House,Frank Lucas,REP,161,363,4196,4720,03
-Beckham,U.S. House,Frankie Robbins,DEM,41,80,861,982,03
+Beckham,U.S. House,Frank Lucas,REP,161,363,4196,4720,3
+Beckham,U.S. House,Frankie Robbins,DEM,41,80,861,982,3
 Beckham,State House,Todd Russ,REP,79,200,1854,2133,55
 Beckham,State House,Dennis Dugger,DEM,52,170,1615,1837,55
 Blaine,Governor,Chris Powell,LIB,4,11,108,123,
@@ -164,8 +164,8 @@ Blaine,Insurance Commissioner,Kimberly Fobbs,DEM,32,63,702,797,
 Blaine,Corporation Commissioner,Bob Anthony,REP,87,147,1756,1990,
 Blaine,Corporation Commissioner,Ashley Nicole Mccray,DEM,26,64,663,753,
 Blaine,Corporation Commissioner,Jackie Short,IND,4,12,156,172,
-Blaine,U.S. House,Frank Lucas,REP,97,172,2041,2310,03
-Blaine,U.S. House,Frankie Robbins,DEM,20,50,558,628,03
+Blaine,U.S. House,Frank Lucas,REP,97,172,2041,2310,3
+Blaine,U.S. House,Frankie Robbins,DEM,20,50,558,628,3
 Bryan,Governor,Chris Powell,LIB,7,23,272,302,
 Bryan,Governor,Kevin Stitt,REP,184,713,6404,7301,
 Bryan,Governor,Drew Edmondson,DEM,156,342,3248,3746,
@@ -189,10 +189,10 @@ Bryan,Insurance Commissioner,Kimberly Fobbs,DEM,151,306,2976,3433,
 Bryan,Corporation Commissioner,Bob Anthony,REP,199,742,6592,7533,
 Bryan,Corporation Commissioner,Ashley Nicole Mccray,DEM,131,292,2712,3135,
 Bryan,Corporation Commissioner,Jackie Short,IND,11,32,473,516,
-Bryan,U.S. House,Richard Castaldo,LIB,5,14,195,214,02
-Bryan,U.S. House,Markwayne Mullin,REP,188,764,6759,7711,02
-Bryan,U.S. House,Jason Nichols,DEM,146,285,2672,3103,02
-Bryan,U.S. House,John Foreman,IND,7,14,263,284,02
+Bryan,U.S. House,Richard Castaldo,LIB,5,14,195,214,2
+Bryan,U.S. House,Markwayne Mullin,REP,188,764,6759,7711,2
+Bryan,U.S. House,Jason Nichols,DEM,146,285,2672,3103,2
+Bryan,U.S. House,John Foreman,IND,7,14,263,284,2
 Bryan,State Senate,David Bullard,REP,185,711,6155,7051,6
 Bryan,State Senate,Arnold Bourne,DEM,162,366,3734,4262,6
 Bryan,State House,Justin Humphrey,REP,25,62,967,1054,19
@@ -220,8 +220,8 @@ Caddo,Insurance Commissioner,Kimberly Fobbs,DEM,72,160,2569,2801,
 Caddo,Corporation Commissioner,Bob Anthony,REP,136,242,3978,4356,
 Caddo,Corporation Commissioner,Ashley Nicole Mccray,DEM,75,146,2349,2570,
 Caddo,Corporation Commissioner,Jackie Short,IND,14,13,355,382,
-Caddo,U.S. House,Frank Lucas,REP,161,275,4585,5021,03
-Caddo,U.S. House,Frankie Robbins,DEM,63,126,2119,2308,03
+Caddo,U.S. House,Frank Lucas,REP,161,275,4585,5021,3
+Caddo,U.S. House,Frankie Robbins,DEM,63,126,2119,2308,3
 Caddo,State House,Charles Wells,REP,32,99,1023,1154,56
 Caddo,State House,David Perryman,DEM,62,211,2342,2615,56
 Caddo,State House,Toni Hasenbeck,REP,20,28,649,697,65
@@ -249,11 +249,11 @@ Canadian,Insurance Commissioner,Kimberly Fobbs,DEM,1140,845,11789,13774,
 Canadian,Corporation Commissioner,Bob Anthony,REP,2054,1562,25942,29558,
 Canadian,Corporation Commissioner,Ashley Nicole Mccray,DEM,1046,767,10722,12535,
 Canadian,Corporation Commissioner,Jackie Short,IND,209,123,2773,3105,
-Canadian,U.S. House,Frank Lucas,REP,1900,1482,23992,27374,03
-Canadian,U.S. House,Frankie Robbins,DEM,911,724,9255,10890,03
-Canadian,U.S. House,Tom Cole,REP,338,173,4620,5131,04
-Canadian,U.S. House,Mary Brannon,DEM,159,74,1507,1740,04
-Canadian,U.S. House,Ruby Peters,IND,19,10,289,318,04
+Canadian,U.S. House,Frank Lucas,REP,1900,1482,23992,27374,3
+Canadian,U.S. House,Frankie Robbins,DEM,911,724,9255,10890,3
+Canadian,U.S. House,Tom Cole,REP,338,173,4620,5131,4
+Canadian,U.S. House,Mary Brannon,DEM,159,74,1507,1740,4
+Canadian,U.S. House,Ruby Peters,IND,19,10,289,318,4
 Canadian,State Senate,Stephanie Bice,REP,988,534,11453,12975,22
 Canadian,State Senate,William Andrews,DEM,420,275,4404,5099,22
 Canadian,State House,Denise Crosswhite Hader,REP,405,175,4470,5050,41
@@ -285,9 +285,9 @@ Carter,Insurance Commissioner,Kimberly Fobbs,DEM,173,612,3520,4305,
 Carter,Corporation Commissioner,Bob Anthony,REP,243,1133,7948,9324,
 Carter,Corporation Commissioner,Ashley Nicole Mccray,DEM,159,554,3163,3876,
 Carter,Corporation Commissioner,Jackie Short,IND,16,72,559,647,
-Carter,U.S. House,Tom Cole,REP,253,1186,8479,9918,04
-Carter,U.S. House,Mary Brannon,DEM,154,545,2909,3608,04
-Carter,U.S. House,Ruby Peters,IND,14,36,367,417,04
+Carter,U.S. House,Tom Cole,REP,253,1186,8479,9918,4
+Carter,U.S. House,Mary Brannon,DEM,154,545,2909,3608,4
+Carter,U.S. House,Ruby Peters,IND,14,36,367,417,4
 Carter,State Senate,Frank Simpson,REP,247,1177,8224,9648,14
 Carter,State Senate,Justin Arledge,DEM,172,595,3526,4293,14
 Carter,State House,Tammy Townley,REP,170,774,5249,6193,48
@@ -317,10 +317,10 @@ Cherokee,Insurance Commissioner,Kimberly Fobbs,DEM,267,1532,4641,6440,
 Cherokee,Corporation Commissioner,Bob Anthony,REP,279,1318,5296,6893,
 Cherokee,Corporation Commissioner,Ashley Nicole Mccray,DEM,261,1436,4260,5957,
 Cherokee,Corporation Commissioner,Jackie Short,IND,27,140,666,833,
-Cherokee,U.S. House,Richard Castaldo,LIB,10,57,241,308,02
-Cherokee,U.S. House,Markwayne Mullin,REP,287,1294,5164,6745,02
-Cherokee,U.S. House,Jason Nichols,DEM,263,1474,4555,6292,02
-Cherokee,U.S. House,John Foreman,IND,14,101,397,512,02
+Cherokee,U.S. House,Richard Castaldo,LIB,10,57,241,308,2
+Cherokee,U.S. House,Markwayne Mullin,REP,287,1294,5164,6745,2
+Cherokee,U.S. House,Jason Nichols,DEM,263,1474,4555,6292,2
+Cherokee,U.S. House,John Foreman,IND,14,101,397,512,2
 Cherokee,State Senate,Kim David,REP,71,169,1218,1458,18
 Cherokee,State Senate,Charles Arnall,DEM,46,209,1143,1398,18
 Cherokee,State House,Chris Sneed,REP,52,71,789,912,14
@@ -350,10 +350,10 @@ Choctaw,Insurance Commissioner,Kimberly Fobbs,DEM,46,153,994,1193,
 Choctaw,Corporation Commissioner,Bob Anthony,REP,74,399,2216,2689,
 Choctaw,Corporation Commissioner,Ashley Nicole Mccray,DEM,44,136,908,1088,
 Choctaw,Corporation Commissioner,Jackie Short,IND,6,15,155,176,
-Choctaw,U.S. House,Richard Castaldo,LIB,2,8,51,61,02
-Choctaw,U.S. House,Markwayne Mullin,REP,69,408,2350,2827,02
-Choctaw,U.S. House,Jason Nichols,DEM,40,138,851,1029,02
-Choctaw,U.S. House,John Foreman,IND,14,7,92,113,02
+Choctaw,U.S. House,Richard Castaldo,LIB,2,8,51,61,2
+Choctaw,U.S. House,Markwayne Mullin,REP,69,408,2350,2827,2
+Choctaw,U.S. House,Jason Nichols,DEM,40,138,851,1029,2
+Choctaw,U.S. House,John Foreman,IND,14,7,92,113,2
 Choctaw,State House,Justin Humphrey,REP,66,336,2080,2482,19
 Choctaw,State House,Lewis Collins,DEM,58,227,1258,1543,19
 Cimarron,Governor,Chris Powell,LIB,1,1,17,19,
@@ -379,8 +379,8 @@ Cimarron,Insurance Commissioner,Kimberly Fobbs,DEM,5,16,72,93,
 Cimarron,Corporation Commissioner,Bob Anthony,REP,37,128,483,648,
 Cimarron,Corporation Commissioner,Ashley Nicole Mccray,DEM,6,19,67,92,
 Cimarron,Corporation Commissioner,Jackie Short,IND,1,8,36,45,
-Cimarron,U.S. House,Frank Lucas,REP,42,145,543,730,03
-Cimarron,U.S. House,Frankie Robbins,DEM,2,11,54,67,03
+Cimarron,U.S. House,Frank Lucas,REP,42,145,543,730,3
+Cimarron,U.S. House,Frankie Robbins,DEM,2,11,54,67,3
 Cimarron,State House,Kenton Patzkowsky,REP,37,133,499,669,61
 Cimarron,State House,Ashley Lehnert,DEM,7,23,95,125,61
 Cleveland,Governor,Chris Powell,LIB,179,210,2842,3231,
@@ -406,13 +406,13 @@ Cleveland,Insurance Commissioner,Kimberly Fobbs,DEM,3711,5261,32335,41307,
 Cleveland,Corporation Commissioner,Bob Anthony,REP,3775,5182,38521,47478,
 Cleveland,Corporation Commissioner,Ashley Nicole Mccray,DEM,3377,4867,29442,37686,
 Cleveland,Corporation Commissioner,Jackie Short,IND,359,444,4725,5528,
-Cleveland,U.S. House,Tom Cole,REP,3914,5295,41066,50275,04
-Cleveland,U.S. House,Mary Brannon,DEM,3450,5003,29256,37709,04
-Cleveland,U.S. House,Ruby Peters,IND,220,260,3102,3582,04
+Cleveland,U.S. House,Tom Cole,REP,3914,5295,41066,50275,4
+Cleveland,U.S. House,Mary Brannon,DEM,3450,5003,29256,37709,4
+Cleveland,U.S. House,Ruby Peters,IND,220,260,3102,3582,4
 Cleveland,State Senate,Becki Maldonado,REP,547,763,7847,9157,16
 Cleveland,State Senate,Mary Boren,DEM,1117,1821,12589,15527,16
 Cleveland,State Senate,Darrell Weaver,REP,1433,2247,13893,17573,24
-Cleveland,State Senate,Ren…E Jerden,DEM,1031,1330,7736,10097,24
+Cleveland,State Senate,Ren√âE Jerden,DEM,1031,1330,7736,10097,24
 Cleveland,State House,Sherrie Conley,REP,150,145,3074,3369,20
 Cleveland,State House,Steve Jarman,DEM,93,73,1230,1396,20
 Cleveland,State House,Marc Etters,REP,433,692,4697,5822,45
@@ -451,10 +451,10 @@ Coal,Insurance Commissioner,Kimberly Fobbs,DEM,20,68,515,603,
 Coal,Corporation Commissioner,Bob Anthony,REP,24,185,958,1167,
 Coal,Corporation Commissioner,Ashley Nicole Mccray,DEM,21,59,455,535,
 Coal,Corporation Commissioner,Jackie Short,IND,0,9,87,96,
-Coal,U.S. House,Richard Castaldo,LIB,0,6,28,34,02
-Coal,U.S. House,Markwayne Mullin,REP,27,189,1026,1242,02
-Coal,U.S. House,Jason Nichols,DEM,18,58,418,494,02
-Coal,U.S. House,John Foreman,IND,0,7,53,60,02
+Coal,U.S. House,Richard Castaldo,LIB,0,6,28,34,2
+Coal,U.S. House,Markwayne Mullin,REP,27,189,1026,1242,2
+Coal,U.S. House,Jason Nichols,DEM,18,58,418,494,2
+Coal,U.S. House,John Foreman,IND,0,7,53,60,2
 Coal,State Senate,David Bullard,REP,25,181,978,1184,6
 Coal,State Senate,Arnold Bourne,DEM,21,77,530,628,6
 Coal,State House,David Smith,REP,22,148,819,989,18
@@ -482,9 +482,9 @@ Comanche,Insurance Commissioner,Kimberly Fobbs,DEM,645,1568,9356,11569,
 Comanche,Corporation Commissioner,Bob Anthony,REP,748,1784,11743,14275,
 Comanche,Corporation Commissioner,Ashley Nicole Mccray,DEM,560,1436,8398,10394,
 Comanche,Corporation Commissioner,Jackie Short,IND,69,160,1298,1527,
-Comanche,U.S. House,Tom Cole,REP,806,1956,13012,15774,04
-Comanche,U.S. House,Mary Brannon,DEM,538,1274,7323,9135,04
-Comanche,U.S. House,Ruby Peters,IND,50,176,1350,1576,04
+Comanche,U.S. House,Tom Cole,REP,806,1956,13012,15774,4
+Comanche,U.S. House,Mary Brannon,DEM,538,1274,7323,9135,4
+Comanche,U.S. House,Ruby Peters,IND,50,176,1350,1576,4
 Comanche,State Senate,John Michael Montgomery,REP,497,825,7117,8439,32
 Comanche,State Senate,Jacobi Crowley,DEM,413,844,5610,6867,32
 Comanche,State House,Daniel Pae,REP,258,487,3377,4122,62
@@ -519,9 +519,9 @@ Cotton,Insurance Commissioner,Kimberly Fobbs,DEM,26,59,435,520,
 Cotton,Corporation Commissioner,Bob Anthony,REP,48,208,1179,1435,
 Cotton,Corporation Commissioner,Ashley Nicole Mccray,DEM,23,48,360,431,
 Cotton,Corporation Commissioner,Jackie Short,IND,5,16,86,107,
-Cotton,U.S. House,Tom Cole,REP,54,225,1261,1540,04
-Cotton,U.S. House,Mary Brannon,DEM,21,38,319,378,04
-Cotton,U.S. House,Ruby Peters,IND,2,12,62,76,04
+Cotton,U.S. House,Tom Cole,REP,54,225,1261,1540,4
+Cotton,U.S. House,Mary Brannon,DEM,21,38,319,378,4
+Cotton,U.S. House,Ruby Peters,IND,2,12,62,76,4
 Cotton,State House,Toni Hasenbeck,REP,39,151,941,1131,65
 Cotton,State House,Brandon Thompson,DEM,38,121,700,859,65
 Craig,Governor,Chris Powell,LIB,1,7,156,164,
@@ -547,10 +547,10 @@ Craig,Insurance Commissioner,Kimberly Fobbs,DEM,57,137,1364,1558,
 Craig,Corporation Commissioner,Bob Anthony,REP,73,252,2691,3016,
 Craig,Corporation Commissioner,Ashley Nicole Mccray,DEM,51,126,1230,1407,
 Craig,Corporation Commissioner,Jackie Short,IND,7,16,233,256,
-Craig,U.S. House,Richard Castaldo,LIB,1,1,58,60,02
-Craig,U.S. House,Markwayne Mullin,REP,84,275,2922,3281,02
-Craig,U.S. House,Jason Nichols,DEM,45,116,1111,1272,02
-Craig,U.S. House,John Foreman,IND,2,7,116,125,02
+Craig,U.S. House,Richard Castaldo,LIB,1,1,58,60,2
+Craig,U.S. House,Markwayne Mullin,REP,84,275,2922,3281,2
+Craig,U.S. House,Jason Nichols,DEM,45,116,1111,1272,2
+Craig,U.S. House,John Foreman,IND,2,7,116,125,2
 Craig,State House,Rusty Cornwell,REP,70,235,2663,2968,6
 Craig,State House,John Myers,DEM,63,164,1545,1772,6
 Creek,Governor,Chris Powell,LIB,20,36,719,775,
@@ -576,10 +576,10 @@ Creek,Insurance Commissioner,Kimberly Fobbs,DEM,276,718,5302,6296,
 Creek,Corporation Commissioner,Bob Anthony,REP,502,1670,13364,15536,
 Creek,Corporation Commissioner,Ashley Nicole Mccray,DEM,256,640,4738,5634,
 Creek,Corporation Commissioner,Jackie Short,IND,39,81,1150,1270,
-Creek,U.S. House,Kevin Hern,REP,45,202,1640,1887,01
-Creek,U.S. House,Tim Gilpin,DEM,7,76,472,555,01
-Creek,U.S. House,Frank Lucas,REP,497,1501,12646,14644,03
-Creek,U.S. House,Frankie Robbins,DEM,253,612,4523,5388,03
+Creek,U.S. House,Kevin Hern,REP,45,202,1640,1887,1
+Creek,U.S. House,Tim Gilpin,DEM,7,76,472,555,1
+Creek,U.S. House,Frank Lucas,REP,497,1501,12646,14644,3
+Creek,U.S. House,Frankie Robbins,DEM,253,612,4523,5388,3
 Creek,State Senate,James Leewright,REP,549,1735,14566,16850,12
 Creek,State Senate,Rick Parris,DEM,253,655,4729,5637,12
 Creek,State House,Kyle Hilbert,REP,254,666,7100,8020,29
@@ -613,8 +613,8 @@ Custer,Insurance Commissioner,Kimberly Fobbs,DEM,100,199,2021,2320,
 Custer,Corporation Commissioner,Bob Anthony,REP,206,470,4935,5611,
 Custer,Corporation Commissioner,Ashley Nicole Mccray,DEM,92,192,1806,2090,
 Custer,Corporation Commissioner,Jackie Short,IND,19,32,445,496,
-Custer,U.S. House,Frank Lucas,REP,240,533,5586,6359,03
-Custer,U.S. House,Frankie Robbins,DEM,77,166,1659,1902,03
+Custer,U.S. House,Frank Lucas,REP,240,533,5586,6359,3
+Custer,U.S. House,Frankie Robbins,DEM,77,166,1659,1902,3
 Custer,State Senate,Brent Howard,REP,108,312,2996,3416,38
 Custer,State Senate,Jeff Berrong,DEM,132,233,2374,2739,38
 Delaware,Governor,Chris Powell,LIB,23,16,405,444,
@@ -640,10 +640,10 @@ Delaware,Insurance Commissioner,Kimberly Fobbs,DEM,261,371,3107,3739,
 Delaware,Corporation Commissioner,Bob Anthony,REP,477,752,7649,8878,
 Delaware,Corporation Commissioner,Ashley Nicole Mccray,DEM,227,348,2787,3362,
 Delaware,Corporation Commissioner,Jackie Short,IND,44,31,581,656,
-Delaware,U.S. House,Richard Castaldo,LIB,19,15,274,308,02
-Delaware,U.S. House,Markwayne Mullin,REP,501,739,7790,9030,02
-Delaware,U.S. House,Jason Nichols,DEM,223,361,2796,3380,02
-Delaware,U.S. House,John Foreman,IND,27,21,308,356,02
+Delaware,U.S. House,Richard Castaldo,LIB,19,15,274,308,2
+Delaware,U.S. House,Markwayne Mullin,REP,501,739,7790,9030,2
+Delaware,U.S. House,Jason Nichols,DEM,223,361,2796,3380,2
+Delaware,U.S. House,John Foreman,IND,27,21,308,356,2
 Delaware,State House,Josh West,REP,360,568,5203,6131,5
 Delaware,State House,Ed Trumbull,DEM,166,335,2278,2779,5
 Delaware,State House,William Leonard,REP,56,64,1019,1139,7
@@ -673,8 +673,8 @@ Dewey,Insurance Commissioner,Kimberly Fobbs,DEM,14,13,255,282,
 Dewey,Corporation Commissioner,Bob Anthony,REP,60,77,1273,1410,
 Dewey,Corporation Commissioner,Ashley Nicole Mccray,DEM,15,12,223,250,
 Dewey,Corporation Commissioner,Jackie Short,IND,0,4,86,90,
-Dewey,U.S. House,Frank Lucas,REP,66,84,1407,1557,03
-Dewey,U.S. House,Frankie Robbins,DEM,9,9,184,202,03
+Dewey,U.S. House,Frank Lucas,REP,66,84,1407,1557,3
+Dewey,U.S. House,Frankie Robbins,DEM,9,9,184,202,3
 Ellis,Governor,Chris Powell,LIB,1,11,43,55,
 Ellis,Governor,Kevin Stitt,REP,58,110,1018,1186,
 Ellis,Governor,Drew Edmondson,DEM,26,23,187,236,
@@ -698,8 +698,8 @@ Ellis,Insurance Commissioner,Kimberly Fobbs,DEM,20,25,171,216,
 Ellis,Corporation Commissioner,Bob Anthony,REP,64,109,977,1150,
 Ellis,Corporation Commissioner,Ashley Nicole Mccray,DEM,18,23,181,222,
 Ellis,Corporation Commissioner,Jackie Short,IND,2,7,75,84,
-Ellis,U.S. House,Frank Lucas,REP,68,122,1105,1295,03
-Ellis,U.S. House,Frankie Robbins,DEM,17,20,143,180,03
+Ellis,U.S. House,Frank Lucas,REP,68,122,1105,1295,3
+Ellis,U.S. House,Frankie Robbins,DEM,17,20,143,180,3
 Ellis,State House,Kenton Patzkowsky,REP,54,101,952,1107,61
 Ellis,State House,Ashley Lehnert,DEM,29,40,290,359,61
 Garfield,Governor,Chris Powell,LIB,26,60,668,754,
@@ -725,8 +725,8 @@ Garfield,Insurance Commissioner,Kimberly Fobbs,DEM,252,549,3759,4560,
 Garfield,Corporation Commissioner,Bob Anthony,REP,517,1355,9948,11820,
 Garfield,Corporation Commissioner,Ashley Nicole Mccray,DEM,227,538,3445,4210,
 Garfield,Corporation Commissioner,Jackie Short,IND,48,118,997,1163,
-Garfield,U.S. House,Frank Lucas,REP,558,1467,11061,13086,03
-Garfield,U.S. House,Frankie Robbins,DEM,241,555,3407,4203,03
+Garfield,U.S. House,Frank Lucas,REP,558,1467,11061,13086,3
+Garfield,U.S. House,Frankie Robbins,DEM,241,555,3407,4203,3
 Garfield,State House,Chad Caldwell,REP,262,617,4649,5528,40
 Garfield,State House,Norman Grey,DEM,167,493,3070,3730,40
 Garfield,State House,Denise Crosswhite Hader,REP,176,498,3420,4094,41
@@ -754,9 +754,9 @@ Garvin,Insurance Commissioner,Kimberly Fobbs,DEM,67,224,1928,2219,
 Garvin,Corporation Commissioner,Bob Anthony,REP,160,551,4654,5365,
 Garvin,Corporation Commissioner,Ashley Nicole Mccray,DEM,59,206,1772,2037,
 Garvin,Corporation Commissioner,Jackie Short,IND,5,35,394,434,
-Garvin,U.S. House,Tom Cole,REP,164,580,5042,5786,04
-Garvin,U.S. House,Mary Brannon,DEM,55,198,1579,1832,04
-Garvin,U.S. House,Ruby Peters,IND,3,18,236,257,04
+Garvin,U.S. House,Tom Cole,REP,164,580,5042,5786,4
+Garvin,U.S. House,Mary Brannon,DEM,55,198,1579,1832,4
+Garvin,U.S. House,Ruby Peters,IND,3,18,236,257,4
 Garvin,State House,Sherrie Conley,REP,39,141,633,813,20
 Garvin,State House,Steve Jarman,DEM,14,69,403,486,20
 Garvin,State House,Charles Mccall,REP,12,40,727,779,22
@@ -789,9 +789,9 @@ Grady,Insurance Commissioner,Kimberly Fobbs,DEM,303,344,3951,4598,
 Grady,Corporation Commissioner,Bob Anthony,REP,641,749,10105,11495,
 Grady,Corporation Commissioner,Ashley Nicole Mccray,DEM,297,303,3814,4414,
 Grady,Corporation Commissioner,Jackie Short,IND,60,67,915,1042,
-Grady,U.S. House,Tom Cole,REP,697,797,11177,12671,04
-Grady,U.S. House,Mary Brannon,DEM,270,297,3212,3779,04
-Grady,U.S. House,Ruby Peters,IND,36,26,549,611,04
+Grady,U.S. House,Tom Cole,REP,697,797,11177,12671,4
+Grady,U.S. House,Mary Brannon,DEM,270,297,3212,3779,4
+Grady,U.S. House,Ruby Peters,IND,36,26,549,611,4
 Grady,State House,Brian Hill,REP,150,72,1923,2145,47
 Grady,State House,Sarah Carnes,DEM,56,32,670,758,47
 Grady,State House,Charles Wells,REP,111,235,2046,2392,56
@@ -821,8 +821,8 @@ Grant,Insurance Commissioner,Kimberly Fobbs,DEM,7,24,301,332,
 Grant,Corporation Commissioner,Bob Anthony,REP,39,89,1136,1264,
 Grant,Corporation Commissioner,Ashley Nicole Mccray,DEM,5,21,288,314,
 Grant,Corporation Commissioner,Jackie Short,IND,4,11,90,105,
-Grant,U.S. House,Frank Lucas,REP,41,93,1212,1346,03
-Grant,U.S. House,Frankie Robbins,DEM,7,28,315,350,03
+Grant,U.S. House,Frank Lucas,REP,41,93,1212,1346,3
+Grant,U.S. House,Frankie Robbins,DEM,7,28,315,350,3
 Greer,Governor,Chris Powell,LIB,1,5,52,58,
 Greer,Governor,Kevin Stitt,REP,39,99,808,946,
 Greer,Governor,Drew Edmondson,DEM,13,45,411,469,
@@ -846,8 +846,8 @@ Greer,Insurance Commissioner,Kimberly Fobbs,DEM,12,43,363,418,
 Greer,Corporation Commissioner,Bob Anthony,REP,39,97,873,1009,
 Greer,Corporation Commissioner,Ashley Nicole Mccray,DEM,13,42,308,363,
 Greer,Corporation Commissioner,Jackie Short,IND,0,7,76,83,
-Greer,U.S. House,Frank Lucas,REP,42,113,967,1122,03
-Greer,U.S. House,Frankie Robbins,DEM,11,35,300,346,03
+Greer,U.S. House,Frank Lucas,REP,42,113,967,1122,3
+Greer,U.S. House,Frankie Robbins,DEM,11,35,300,346,3
 Greer,State Senate,Brent Howard,REP,36,102,826,964,38
 Greer,State Senate,Jeff Berrong,DEM,17,45,437,499,38
 Greer,State House,Todd Russ,REP,5,19,132,156,55
@@ -875,8 +875,8 @@ Harmon,Insurance Commissioner,Kimberly Fobbs,DEM,4,23,227,254,
 Harmon,Corporation Commissioner,Bob Anthony,REP,13,67,408,488,
 Harmon,Corporation Commissioner,Ashley Nicole Mccray,DEM,4,15,199,218,
 Harmon,Corporation Commissioner,Jackie Short,IND,1,4,23,28,
-Harmon,U.S. House,Frank Lucas,REP,14,72,473,559,03
-Harmon,U.S. House,Frankie Robbins,DEM,4,14,164,182,03
+Harmon,U.S. House,Frank Lucas,REP,14,72,473,559,3
+Harmon,U.S. House,Frankie Robbins,DEM,4,14,164,182,3
 Harmon,State Senate,Brent Howard,REP,13,60,391,464,38
 Harmon,State Senate,Jeff Berrong,DEM,5,26,251,282,38
 Harper,Governor,Chris Powell,LIB,1,3,44,48,
@@ -902,8 +902,8 @@ Harper,Insurance Commissioner,Kimberly Fobbs,DEM,9,21,158,188,
 Harper,Corporation Commissioner,Bob Anthony,REP,31,88,848,967,
 Harper,Corporation Commissioner,Ashley Nicole Mccray,DEM,6,19,151,176,
 Harper,Corporation Commissioner,Jackie Short,IND,5,4,50,59,
-Harper,U.S. House,Frank Lucas,REP,37,100,943,1080,03
-Harper,U.S. House,Frankie Robbins,DEM,5,11,110,126,03
+Harper,U.S. House,Frank Lucas,REP,37,100,943,1080,3
+Harper,U.S. House,Frankie Robbins,DEM,5,11,110,126,3
 Harper,State House,Kenton Patzkowsky,REP,31,76,736,843,61
 Harper,State House,Ashley Lehnert,DEM,11,35,318,364,61
 Haskell,Governor,Chris Powell,LIB,1,7,99,107,
@@ -929,10 +929,10 @@ Haskell,Insurance Commissioner,Kimberly Fobbs,DEM,54,159,930,1143,
 Haskell,Corporation Commissioner,Bob Anthony,REP,46,295,2117,2458,
 Haskell,Corporation Commissioner,Ashley Nicole Mccray,DEM,52,142,834,1028,
 Haskell,Corporation Commissioner,Jackie Short,IND,3,15,144,162,
-Haskell,U.S. House,Richard Castaldo,LIB,0,3,31,34,02
-Haskell,U.S. House,Markwayne Mullin,REP,50,313,2267,2630,02
-Haskell,U.S. House,Jason Nichols,DEM,51,133,751,935,02
-Haskell,U.S. House,John Foreman,IND,2,7,70,79,02
+Haskell,U.S. House,Richard Castaldo,LIB,0,3,31,34,2
+Haskell,U.S. House,Markwayne Mullin,REP,50,313,2267,2630,2
+Haskell,U.S. House,Jason Nichols,DEM,51,133,751,935,2
+Haskell,U.S. House,John Foreman,IND,2,7,70,79,2
 Haskell,State House,Randy Randleman,REP,43,273,2084,2400,15
 Haskell,State House,Judy Ross Moore,DEM,60,183,1050,1293,15
 Hughes,Governor,Chris Powell,LIB,4,13,149,166,
@@ -958,10 +958,10 @@ Hughes,Insurance Commissioner,Kimberly Fobbs,DEM,42,121,1088,1251,
 Hughes,Corporation Commissioner,Bob Anthony,REP,76,201,2112,2389,
 Hughes,Corporation Commissioner,Ashley Nicole Mccray,DEM,39,110,1011,1160,
 Hughes,Corporation Commissioner,Jackie Short,IND,7,18,184,209,
-Hughes,U.S. House,Richard Castaldo,LIB,4,10,70,84,02
-Hughes,U.S. House,Markwayne Mullin,REP,77,211,2135,2423,02
-Hughes,U.S. House,Jason Nichols,DEM,40,102,981,1123,02
-Hughes,U.S. House,John Foreman,IND,1,9,130,140,02
+Hughes,U.S. House,Richard Castaldo,LIB,4,10,70,84,2
+Hughes,U.S. House,Markwayne Mullin,REP,77,211,2135,2423,2
+Hughes,U.S. House,Jason Nichols,DEM,40,102,981,1123,2
+Hughes,U.S. House,John Foreman,IND,1,9,130,140,2
 Hughes,State House,David Smith,REP,13,25,619,657,18
 Hughes,State House,Donnie Condit,DEM,9,29,439,477,18
 Hughes,State House,Logan Phillips,REP,45,130,1110,1285,24
@@ -989,8 +989,8 @@ Jackson,Insurance Commissioner,Kimberly Fobbs,DEM,71,247,1321,1639,
 Jackson,Corporation Commissioner,Bob Anthony,REP,176,764,3692,4632,
 Jackson,Corporation Commissioner,Ashley Nicole Mccray,DEM,64,203,1144,1411,
 Jackson,Corporation Commissioner,Jackie Short,IND,9,31,256,296,
-Jackson,U.S. House,Frank Lucas,REP,194,808,4036,5038,03
-Jackson,U.S. House,Frankie Robbins,DEM,54,209,1128,1391,03
+Jackson,U.S. House,Frank Lucas,REP,194,808,4036,5038,3
+Jackson,U.S. House,Frankie Robbins,DEM,54,209,1128,1391,3
 Jackson,State Senate,Brent Howard,REP,185,740,3925,4850,38
 Jackson,State Senate,Jeff Berrong,DEM,67,277,1273,1617,38
 Jefferson,Governor,Chris Powell,LIB,0,1,45,46,
@@ -1016,9 +1016,9 @@ Jefferson,Insurance Commissioner,Kimberly Fobbs,DEM,12,39,340,391,
 Jefferson,Corporation Commissioner,Bob Anthony,REP,27,133,984,1144,
 Jefferson,Corporation Commissioner,Ashley Nicole Mccray,DEM,12,26,302,340,
 Jefferson,Corporation Commissioner,Jackie Short,IND,2,8,60,70,
-Jefferson,U.S. House,Tom Cole,REP,29,136,1056,1221,04
-Jefferson,U.S. House,Mary Brannon,DEM,11,29,263,303,04
-Jefferson,U.S. House,Ruby Peters,IND,0,2,35,37,04
+Jefferson,U.S. House,Tom Cole,REP,29,136,1056,1221,4
+Jefferson,U.S. House,Mary Brannon,DEM,11,29,263,303,4
+Jefferson,U.S. House,Ruby Peters,IND,0,2,35,37,4
 Johnston,Governor,Chris Powell,LIB,0,8,73,81,
 Johnston,Governor,Kevin Stitt,REP,41,261,1674,1976,
 Johnston,Governor,Drew Edmondson,DEM,16,128,818,962,
@@ -1042,10 +1042,10 @@ Johnston,Insurance Commissioner,Kimberly Fobbs,DEM,15,118,774,907,
 Johnston,Corporation Commissioner,Bob Anthony,REP,35,262,1701,1998,
 Johnston,Corporation Commissioner,Ashley Nicole Mccray,DEM,16,106,676,798,
 Johnston,Corporation Commissioner,Jackie Short,IND,5,25,142,172,
-Johnston,U.S. House,Richard Castaldo,LIB,0,5,45,50,02
-Johnston,U.S. House,Markwayne Mullin,REP,39,275,1813,2127,02
-Johnston,U.S. House,Jason Nichols,DEM,17,108,621,746,02
-Johnston,U.S. House,John Foreman,IND,1,7,75,83,02
+Johnston,U.S. House,Richard Castaldo,LIB,0,5,45,50,2
+Johnston,U.S. House,Markwayne Mullin,REP,39,275,1813,2127,2
+Johnston,U.S. House,Jason Nichols,DEM,17,108,621,746,2
+Johnston,U.S. House,John Foreman,IND,1,7,75,83,2
 Johnston,State Senate,David Bullard,REP,21,101,644,766,6
 Johnston,State Senate,Arnold Bourne,DEM,2,44,334,380,6
 Johnston,State Senate,Frank Simpson,REP,20,182,1163,1365,14
@@ -1076,8 +1076,8 @@ Kay,Insurance Commissioner,Kimberly Fobbs,DEM,171,232,3623,4026,
 Kay,Corporation Commissioner,Bob Anthony,REP,293,491,7569,8353,
 Kay,Corporation Commissioner,Ashley Nicole Mccray,DEM,153,224,3261,3638,
 Kay,Corporation Commissioner,Jackie Short,IND,22,30,809,861,
-Kay,U.S. House,Frank Lucas,REP,317,531,8383,9231,03
-Kay,U.S. House,Frankie Robbins,DEM,155,221,3307,3683,03
+Kay,U.S. House,Frank Lucas,REP,317,531,8383,9231,3
+Kay,U.S. House,Frankie Robbins,DEM,155,221,3307,3683,3
 Kingfisher,Governor,Chris Powell,LIB,7,12,183,202,
 Kingfisher,Governor,Kevin Stitt,REP,127,391,3328,3846,
 Kingfisher,Governor,Drew Edmondson,DEM,52,106,906,1064,
@@ -1101,8 +1101,8 @@ Kingfisher,Insurance Commissioner,Kimberly Fobbs,DEM,44,76,757,877,
 Kingfisher,Corporation Commissioner,Bob Anthony,REP,133,382,3286,3801,
 Kingfisher,Corporation Commissioner,Ashley Nicole Mccray,DEM,37,94,757,888,
 Kingfisher,Corporation Commissioner,Jackie Short,IND,14,25,317,356,
-Kingfisher,U.S. House,Frank Lucas,REP,149,451,3795,4395,03
-Kingfisher,U.S. House,Frankie Robbins,DEM,33,56,598,687,03
+Kingfisher,U.S. House,Frank Lucas,REP,149,451,3795,4395,3
+Kingfisher,U.S. House,Frankie Robbins,DEM,33,56,598,687,3
 Kingfisher,State Senate,Chuck Hall,REP,88,176,2027,2291,20
 Kingfisher,State Senate,Heady Coleman,DEM,17,39,352,408,20
 Kingfisher,State House,Denise Crosswhite Hader,REP,39,43,560,642,41
@@ -1130,8 +1130,8 @@ Kiowa,Insurance Commissioner,Kimberly Fobbs,DEM,39,104,722,865,
 Kiowa,Corporation Commissioner,Bob Anthony,REP,55,201,1567,1823,
 Kiowa,Corporation Commissioner,Ashley Nicole Mccray,DEM,34,95,615,744,
 Kiowa,Corporation Commissioner,Jackie Short,IND,6,12,103,121,
-Kiowa,U.S. House,Frank Lucas,REP,63,228,1764,2055,03
-Kiowa,U.S. House,Frankie Robbins,DEM,32,81,543,656,03
+Kiowa,U.S. House,Frank Lucas,REP,63,228,1764,2055,3
+Kiowa,U.S. House,Frankie Robbins,DEM,32,81,543,656,3
 Kiowa,State Senate,Brent Howard,REP,51,180,1450,1681,38
 Kiowa,State Senate,Jeff Berrong,DEM,43,129,849,1021,38
 Kiowa,State House,Todd Russ,REP,23,129,527,679,55
@@ -1161,10 +1161,10 @@ Latimer,Insurance Commissioner,Kimberly Fobbs,DEM,52,102,872,1026,
 Latimer,Corporation Commissioner,Bob Anthony,REP,46,179,1641,1866,
 Latimer,Corporation Commissioner,Ashley Nicole Mccray,DEM,48,96,772,916,
 Latimer,Corporation Commissioner,Jackie Short,IND,8,17,145,170,
-Latimer,U.S. House,Richard Castaldo,LIB,3,5,51,59,02
-Latimer,U.S. House,Markwayne Mullin,REP,50,181,1754,1985,02
-Latimer,U.S. House,Jason Nichols,DEM,42,104,723,869,02
-Latimer,U.S. House,John Foreman,IND,6,6,71,83,02
+Latimer,U.S. House,Richard Castaldo,LIB,3,5,51,59,2
+Latimer,U.S. House,Markwayne Mullin,REP,50,181,1754,1985,2
+Latimer,U.S. House,Jason Nichols,DEM,42,104,723,869,2
+Latimer,U.S. House,John Foreman,IND,6,6,71,83,2
 Latimer,State House,Jim Grego,REP,57,225,1899,2181,17
 Latimer,State House,Peggy Defrange,DEM,45,72,711,828,17
 Leflore,Governor,Chris Powell,LIB,7,24,296,327,
@@ -1190,10 +1190,10 @@ Leflore,Insurance Commissioner,Kimberly Fobbs,DEM,121,423,3383,3927,
 Leflore,Corporation Commissioner,Bob Anthony,REP,196,856,7446,8498,
 Leflore,Corporation Commissioner,Ashley Nicole Mccray,DEM,113,380,3009,3502,
 Leflore,Corporation Commissioner,Jackie Short,IND,15,44,517,576,
-Leflore,U.S. House,Richard Castaldo,LIB,6,10,179,195,02
-Leflore,U.S. House,Markwayne Mullin,REP,209,860,7744,8813,02
-Leflore,U.S. House,Jason Nichols,DEM,106,399,2912,3417,02
-Leflore,U.S. House,John Foreman,IND,4,23,284,311,02
+Leflore,U.S. House,Richard Castaldo,LIB,6,10,179,195,2
+Leflore,U.S. House,Markwayne Mullin,REP,209,860,7744,8813,2
+Leflore,U.S. House,Jason Nichols,DEM,106,399,2912,3417,2
+Leflore,U.S. House,John Foreman,IND,4,23,284,311,2
 Leflore,State Senate,Mark Dean Allen,REP,138,691,5398,6227,4
 Leflore,State Senate,Eddie Martin,DEM,91,402,2723,3216,4
 Leflore,State House,Lundy Kiger,REP,116,583,4457,5156,3
@@ -1225,8 +1225,8 @@ Lincoln,Insurance Commissioner,Kimberly Fobbs,DEM,135,217,2678,3030,
 Lincoln,Corporation Commissioner,Bob Anthony,REP,260,583,6897,7740,
 Lincoln,Corporation Commissioner,Ashley Nicole Mccray,DEM,117,207,2352,2676,
 Lincoln,Corporation Commissioner,Jackie Short,IND,26,50,691,767,
-Lincoln,U.S. House,Frank Lucas,REP,279,652,7589,8520,03
-Lincoln,U.S. House,Frankie Robbins,DEM,123,193,2371,2687,03
+Lincoln,U.S. House,Frank Lucas,REP,279,652,7589,8520,3
+Lincoln,U.S. House,Frankie Robbins,DEM,123,193,2371,2687,3
 Lincoln,State Senate,Jason Smalley,REP,273,635,7326,8234,28
 Lincoln,State Senate,Stephanie Sanders,IND,102,185,2286,2573,28
 Lincoln,State House,Kevin Wallace,REP,270,628,7121,8019,32
@@ -1254,8 +1254,8 @@ Logan,Insurance Commissioner,Kimberly Fobbs,DEM,373,566,3568,4507,
 Logan,Corporation Commissioner,Bob Anthony,REP,676,1166,8692,10534,
 Logan,Corporation Commissioner,Ashley Nicole Mccray,DEM,330,498,3236,4064,
 Logan,Corporation Commissioner,Jackie Short,IND,61,93,875,1029,
-Logan,U.S. House,Frank Lucas,REP,716,1207,9533,11456,03
-Logan,U.S. House,Frankie Robbins,DEM,358,552,3336,4246,03
+Logan,U.S. House,Frank Lucas,REP,716,1207,9533,11456,3
+Logan,U.S. House,Frankie Robbins,DEM,358,552,3336,4246,3
 Logan,State Senate,Chuck Hall,REP,643,1118,8618,10379,20
 Logan,State Senate,Heady Coleman,DEM,418,637,4194,5249,20
 Logan,State House,Garry Mize,REP,614,1055,7368,9037,31
@@ -1285,9 +1285,9 @@ Love,Insurance Commissioner,Kimberly Fobbs,DEM,18,54,748,820,
 Love,Corporation Commissioner,Bob Anthony,REP,35,200,1645,1880,
 Love,Corporation Commissioner,Ashley Nicole Mccray,DEM,19,52,670,741,
 Love,Corporation Commissioner,Jackie Short,IND,0,12,104,116,
-Love,U.S. House,Tom Cole,REP,36,215,1763,2014,04
-Love,U.S. House,Mary Brannon,DEM,18,41,633,692,04
-Love,U.S. House,Ruby Peters,IND,0,8,58,66,04
+Love,U.S. House,Tom Cole,REP,36,215,1763,2014,4
+Love,U.S. House,Mary Brannon,DEM,18,41,633,692,4
+Love,U.S. House,Ruby Peters,IND,0,8,58,66,4
 Love,State Senate,Frank Simpson,REP,35,215,1711,1961,14
 Love,State Senate,Justin Arledge,DEM,18,51,737,806,14
 Love,State House,Tommy Hardin,REP,36,209,1618,1863,49
@@ -1315,8 +1315,8 @@ Major,Insurance Commissioner,Kimberly Fobbs,DEM,24,62,325,411,
 Major,Corporation Commissioner,Bob Anthony,REP,78,235,1872,2185,
 Major,Corporation Commissioner,Ashley Nicole Mccray,DEM,21,57,297,375,
 Major,Corporation Commissioner,Jackie Short,IND,6,10,145,161,
-Major,U.S. House,Frank Lucas,REP,88,251,2051,2390,03
-Major,U.S. House,Frankie Robbins,DEM,17,49,273,339,03
+Major,U.S. House,Frank Lucas,REP,88,251,2051,2390,3
+Major,U.S. House,Frankie Robbins,DEM,17,49,273,339,3
 Marshall,Governor,Chris Powell,LIB,4,13,104,121,
 Marshall,Governor,Kevin Stitt,REP,88,390,2465,2943,
 Marshall,Governor,Drew Edmondson,DEM,51,159,1141,1351,
@@ -1340,10 +1340,10 @@ Marshall,Insurance Commissioner,Kimberly Fobbs,DEM,37,129,1053,1219,
 Marshall,Corporation Commissioner,Bob Anthony,REP,92,404,2487,2983,
 Marshall,Corporation Commissioner,Ashley Nicole Mccray,DEM,36,129,987,1152,
 Marshall,Corporation Commissioner,Jackie Short,IND,12,18,190,220,
-Marshall,U.S. House,Richard Castaldo,LIB,6,6,56,68,02
-Marshall,U.S. House,Markwayne Mullin,REP,101,430,2640,3171,02
-Marshall,U.S. House,Jason Nichols,DEM,34,116,881,1031,02
-Marshall,U.S. House,John Foreman,IND,3,9,111,123,02
+Marshall,U.S. House,Richard Castaldo,LIB,6,6,56,68,2
+Marshall,U.S. House,Markwayne Mullin,REP,101,430,2640,3171,2
+Marshall,U.S. House,Jason Nichols,DEM,34,116,881,1031,2
+Marshall,U.S. House,John Foreman,IND,3,9,111,123,2
 Marshall,State Senate,David Bullard,REP,98,428,2593,3119,6
 Marshall,State Senate,Arnold Bourne,DEM,43,125,1081,1249,6
 Marshall,State House,Tommy Hardin,REP,95,399,2301,2795,49
@@ -1371,10 +1371,10 @@ Mayes,Insurance Commissioner,Kimberly Fobbs,DEM,163,347,3636,4146,
 Mayes,Corporation Commissioner,Bob Anthony,REP,213,686,7447,8346,
 Mayes,Corporation Commissioner,Ashley Nicole Mccray,DEM,138,325,3223,3686,
 Mayes,Corporation Commissioner,Jackie Short,IND,27,47,643,717,
-Mayes,U.S. House,Richard Castaldo,LIB,5,18,241,264,02
-Mayes,U.S. House,Markwayne Mullin,REP,205,690,7639,8534,02
-Mayes,U.S. House,Jason Nichols,DEM,160,339,3203,3702,02
-Mayes,U.S. House,John Foreman,IND,8,20,357,385,02
+Mayes,U.S. House,Richard Castaldo,LIB,5,18,241,264,2
+Mayes,U.S. House,Markwayne Mullin,REP,205,690,7639,8534,2
+Mayes,U.S. House,Jason Nichols,DEM,160,339,3203,3702,2
+Mayes,U.S. House,John Foreman,IND,8,20,357,385,2
 Mayes,State Senate,Marty Quinn,REP,56,302,2059,2417,2
 Mayes,State Senate,Jennifer Esau,DEM,67,227,1346,1640,2
 Mayes,State Senate,Kim David,REP,9,15,457,481,18
@@ -1408,9 +1408,9 @@ Mcclain,Insurance Commissioner,Kimberly Fobbs,DEM,237,240,3196,3673,
 Mcclain,Corporation Commissioner,Bob Anthony,REP,515,562,8424,9501,
 Mcclain,Corporation Commissioner,Ashley Nicole Mccray,DEM,218,232,2896,3346,
 Mcclain,Corporation Commissioner,Jackie Short,IND,32,42,719,793,
-Mcclain,U.S. House,Tom Cole,REP,538,583,8979,10100,04
-Mcclain,U.S. House,Mary Brannon,DEM,206,242,2713,3161,04
-Mcclain,U.S. House,Ruby Peters,IND,24,12,454,490,04
+Mcclain,U.S. House,Tom Cole,REP,538,583,8979,10100,4
+Mcclain,U.S. House,Mary Brannon,DEM,206,242,2713,3161,4
+Mcclain,U.S. House,Ruby Peters,IND,24,12,454,490,4
 Mcclain,State House,Sherrie Conley,REP,284,185,4079,4548,20
 Mcclain,State House,Steve Jarman,DEM,102,94,1282,1478,20
 Mcclain,State House,Cynthia Roe,REP,174,326,3781,4281,42
@@ -1438,10 +1438,10 @@ Mccurtain,Insurance Commissioner,Kimberly Fobbs,DEM,56,155,1725,1936,
 Mccurtain,Corporation Commissioner,Bob Anthony,REP,107,392,4877,5376,
 Mccurtain,Corporation Commissioner,Ashley Nicole Mccray,DEM,55,153,1596,1804,
 Mccurtain,Corporation Commissioner,Jackie Short,IND,7,11,252,270,
-Mccurtain,U.S. House,Richard Castaldo,LIB,3,8,85,96,02
-Mccurtain,U.S. House,Markwayne Mullin,REP,113,405,5105,5623,02
-Mccurtain,U.S. House,Jason Nichols,DEM,50,145,1466,1661,02
-Mccurtain,U.S. House,John Foreman,IND,4,5,155,164,02
+Mccurtain,U.S. House,Richard Castaldo,LIB,3,8,85,96,2
+Mccurtain,U.S. House,Markwayne Mullin,REP,113,405,5105,5623,2
+Mccurtain,U.S. House,Jason Nichols,DEM,50,145,1466,1661,2
+Mccurtain,U.S. House,John Foreman,IND,4,5,155,164,2
 Mcintosh,Governor,Chris Powell,LIB,3,23,197,223,
 Mcintosh,Governor,Kevin Stitt,REP,113,366,3133,3612,
 Mcintosh,Governor,Drew Edmondson,DEM,94,258,2433,2785,
@@ -1465,10 +1465,10 @@ Mcintosh,Insurance Commissioner,Kimberly Fobbs,DEM,93,235,2161,2489,
 Mcintosh,Corporation Commissioner,Bob Anthony,REP,118,383,3370,3871,
 Mcintosh,Corporation Commissioner,Ashley Nicole Mccray,DEM,79,227,2020,2326,
 Mcintosh,Corporation Commissioner,Jackie Short,IND,10,29,290,329,
-Mcintosh,U.S. House,Richard Castaldo,LIB,1,11,89,101,02
-Mcintosh,U.S. House,Markwayne Mullin,REP,123,390,3504,4017,02
-Mcintosh,U.S. House,Jason Nichols,DEM,78,229,1999,2306,02
-Mcintosh,U.S. House,John Foreman,IND,5,12,144,161,02
+Mcintosh,U.S. House,Richard Castaldo,LIB,1,11,89,101,2
+Mcintosh,U.S. House,Markwayne Mullin,REP,123,390,3504,4017,2
+Mcintosh,U.S. House,Jason Nichols,DEM,78,229,1999,2306,2
+Mcintosh,U.S. House,John Foreman,IND,5,12,144,161,2
 Mcintosh,State Senate,Roger Thompson,REP,123,402,3504,4029,8
 Mcintosh,State Senate,Shannan Tucker,DEM,77,224,2005,2306,8
 Mcintosh,State Senate,Marlena Nobles,IND,8,12,190,210,8
@@ -1501,9 +1501,9 @@ Murray,Insurance Commissioner,Kimberly Fobbs,DEM,56,158,1155,1369,
 Murray,Corporation Commissioner,Bob Anthony,REP,95,321,2476,2892,
 Murray,Corporation Commissioner,Ashley Nicole Mccray,DEM,47,146,1011,1204,
 Murray,Corporation Commissioner,Jackie Short,IND,12,23,201,236,
-Murray,U.S. House,Tom Cole,REP,107,352,2780,3239,04
-Murray,U.S. House,Mary Brannon,DEM,41,127,802,970,04
-Murray,U.S. House,Ruby Peters,IND,5,14,125,144,04
+Murray,U.S. House,Tom Cole,REP,107,352,2780,3239,4
+Murray,U.S. House,Mary Brannon,DEM,41,127,802,970,4
+Murray,U.S. House,Ruby Peters,IND,5,14,125,144,4
 Murray,State Senate,Frank Simpson,REP,104,335,2676,3115,14
 Murray,State Senate,Justin Arledge,DEM,48,156,1015,1219,14
 Murray,State House,Charles Mccall,REP,81,244,1944,2269,22
@@ -1534,10 +1534,10 @@ Muskogee,Insurance Commissioner,Kimberly Fobbs,DEM,288,843,7168,8299,
 Muskogee,Corporation Commissioner,Bob Anthony,REP,317,1046,9510,10873,
 Muskogee,Corporation Commissioner,Ashley Nicole Mccray,DEM,271,784,6555,7610,
 Muskogee,Corporation Commissioner,Jackie Short,IND,21,63,896,980,
-Muskogee,U.S. House,Richard Castaldo,LIB,14,27,371,412,02
-Muskogee,U.S. House,Markwayne Mullin,REP,320,978,9426,10724,02
-Muskogee,U.S. House,Jason Nichols,DEM,266,849,6800,7915,02
-Muskogee,U.S. House,John Foreman,IND,16,43,509,568,02
+Muskogee,U.S. House,Richard Castaldo,LIB,14,27,371,412,2
+Muskogee,U.S. House,Markwayne Mullin,REP,320,978,9426,10724,2
+Muskogee,U.S. House,Jason Nichols,DEM,266,849,6800,7915,2
+Muskogee,U.S. House,John Foreman,IND,16,43,509,568,2
 Muskogee,State Senate,Roger Thompson,REP,12,46,1032,1090,8
 Muskogee,State Senate,Shannan Tucker,DEM,16,14,517,547,8
 Muskogee,State Senate,Marlena Nobles,IND,7,3,65,75,8
@@ -1575,8 +1575,8 @@ Noble,Insurance Commissioner,Kimberly Fobbs,DEM,42,158,862,1062,
 Noble,Corporation Commissioner,Bob Anthony,REP,96,462,2195,2753,
 Noble,Corporation Commissioner,Ashley Nicole Mccray,DEM,29,130,774,933,
 Noble,Corporation Commissioner,Jackie Short,IND,17,32,196,245,
-Noble,U.S. House,Frank Lucas,REP,112,509,2457,3078,03
-Noble,U.S. House,Frankie Robbins,DEM,32,117,730,879,03
+Noble,U.S. House,Frank Lucas,REP,112,509,2457,3078,3
+Noble,U.S. House,Frankie Robbins,DEM,32,117,730,879,3
 Noble,State Senate,Chuck Hall,REP,107,455,2372,2934,20
 Noble,State Senate,Heady Coleman,DEM,38,173,817,1028,20
 Noble,State House,Ty Burns,REP,70,336,1504,1910,35
@@ -1604,10 +1604,10 @@ Nowata,Insurance Commissioner,Kimberly Fobbs,DEM,33,117,816,966,
 Nowata,Corporation Commissioner,Bob Anthony,REP,75,281,2009,2365,
 Nowata,Corporation Commissioner,Ashley Nicole Mccray,DEM,33,112,727,872,
 Nowata,Corporation Commissioner,Jackie Short,IND,3,25,179,207,
-Nowata,U.S. House,Richard Castaldo,LIB,1,10,76,87,02
-Nowata,U.S. House,Markwayne Mullin,REP,85,313,2135,2533,02
-Nowata,U.S. House,Jason Nichols,DEM,25,96,630,751,02
-Nowata,U.S. House,John Foreman,IND,2,8,97,107,02
+Nowata,U.S. House,Richard Castaldo,LIB,1,10,76,87,2
+Nowata,U.S. House,Markwayne Mullin,REP,85,313,2135,2533,2
+Nowata,U.S. House,Jason Nichols,DEM,25,96,630,751,2
+Nowata,U.S. House,John Foreman,IND,2,8,97,107,2
 Nowata,State House,Judd Strom,REP,62,185,1323,1570,10
 Nowata,State House,Kevin Stacy,DEM,51,251,1635,1937,10
 Okfuskee,Governor,Chris Powell,LIB,7,16,88,111,
@@ -1633,10 +1633,10 @@ Okfuskee,Insurance Commissioner,Kimberly Fobbs,DEM,55,126,921,1102,
 Okfuskee,Corporation Commissioner,Bob Anthony,REP,59,207,1644,1910,
 Okfuskee,Corporation Commissioner,Ashley Nicole Mccray,DEM,49,122,835,1006,
 Okfuskee,Corporation Commissioner,Jackie Short,IND,8,11,133,152,
-Okfuskee,U.S. House,Richard Castaldo,LIB,5,7,39,51,02
-Okfuskee,U.S. House,Markwayne Mullin,REP,60,203,1662,1925,02
-Okfuskee,U.S. House,Jason Nichols,DEM,47,123,817,987,02
-Okfuskee,U.S. House,John Foreman,IND,5,10,111,126,02
+Okfuskee,U.S. House,Richard Castaldo,LIB,5,7,39,51,2
+Okfuskee,U.S. House,Markwayne Mullin,REP,60,203,1662,1925,2
+Okfuskee,U.S. House,Jason Nichols,DEM,47,123,817,987,2
+Okfuskee,U.S. House,John Foreman,IND,5,10,111,126,2
 Okfuskee,State Senate,Roger Thompson,REP,44,151,1139,1334,8
 Okfuskee,State Senate,Shannan Tucker,DEM,50,138,1022,1210,8
 Okfuskee,State Senate,Marlena Nobles,IND,4,7,73,84,8
@@ -1665,11 +1665,11 @@ Oklahoma,Insurance Commissioner,Kimberly Fobbs,DEM,11452,9134,91907,112493,
 Oklahoma,Corporation Commissioner,Bob Anthony,REP,11104,6714,96512,114330,
 Oklahoma,Corporation Commissioner,Ashley Nicole Mccray,DEM,10121,8390,82694,101205,
 Oklahoma,Corporation Commissioner,Jackie Short,IND,1068,612,12416,14096,
-Oklahoma,U.S. House,Tom Cole,REP,793,295,10264,11352,04
-Oklahoma,U.S. House,Mary Brannon,DEM,578,479,7115,8172,04
-Oklahoma,U.S. House,Ruby Peters,IND,41,20,830,891,04
-Oklahoma,U.S. House,Steve Russell,REP,9772,5994,85059,100825,05
-Oklahoma,U.S. House,Kendra Horn,DEM,11326,9053,90348,110727,05
+Oklahoma,U.S. House,Tom Cole,REP,793,295,10264,11352,4
+Oklahoma,U.S. House,Mary Brannon,DEM,578,479,7115,8172,4
+Oklahoma,U.S. House,Ruby Peters,IND,41,20,830,891,4
+Oklahoma,U.S. House,Steve Russell,REP,9772,5994,85059,100825,5
+Oklahoma,U.S. House,Kendra Horn,DEM,11326,9053,90348,110727,5
 Oklahoma,State Senate,Stephanie Bice,REP,1150,813,9527,11490,22
 Oklahoma,State Senate,William Andrews,DEM,784,652,4842,6278,22
 Oklahoma,State Senate,John Symcox,REP,831,319,9110,10260,30
@@ -1740,10 +1740,10 @@ Okmulgee,Insurance Commissioner,Kimberly Fobbs,DEM,142,468,3897,4507,
 Okmulgee,Corporation Commissioner,Bob Anthony,REP,233,510,5457,6200,
 Okmulgee,Corporation Commissioner,Ashley Nicole Mccray,DEM,132,435,3610,4177,
 Okmulgee,Corporation Commissioner,Jackie Short,IND,17,43,492,552,
-Okmulgee,U.S. House,Richard Castaldo,LIB,3,10,171,184,02
-Okmulgee,U.S. House,Markwayne Mullin,REP,238,520,5618,6376,02
-Okmulgee,U.S. House,Jason Nichols,DEM,133,450,3553,4136,02
-Okmulgee,U.S. House,John Foreman,IND,9,19,286,314,02
+Okmulgee,U.S. House,Richard Castaldo,LIB,3,10,171,184,2
+Okmulgee,U.S. House,Markwayne Mullin,REP,238,520,5618,6376,2
+Okmulgee,U.S. House,Jason Nichols,DEM,133,450,3553,4136,2
+Okmulgee,U.S. House,John Foreman,IND,9,19,286,314,2
 Okmulgee,State Senate,Roger Thompson,REP,242,538,5594,6374,8
 Okmulgee,State Senate,Shannan Tucker,DEM,126,434,3647,4207,8
 Okmulgee,State Senate,Marlena Nobles,IND,11,23,362,396,8
@@ -1775,8 +1775,8 @@ Osage,Insurance Commissioner,Kimberly Fobbs,DEM,438,411,5019,5868,
 Osage,Corporation Commissioner,Bob Anthony,REP,462,718,7947,9127,
 Osage,Corporation Commissioner,Ashley Nicole Mccray,DEM,370,364,4527,5261,
 Osage,Corporation Commissioner,Jackie Short,IND,47,33,714,794,
-Osage,U.S. House,Frank Lucas,REP,489,715,8519,9723,03
-Osage,U.S. House,Frankie Robbins,DEM,394,401,4719,5514,03
+Osage,U.S. House,Frank Lucas,REP,489,715,8519,9723,3
+Osage,U.S. House,Frankie Robbins,DEM,394,401,4719,5514,3
 Osage,State House,Judd Strom,REP,26,33,615,674,10
 Osage,State House,Kevin Stacy,DEM,11,5,125,141,10
 Osage,State House,Ty Burns,REP,20,8,220,248,35
@@ -1806,10 +1806,10 @@ Ottawa,Insurance Commissioner,Kimberly Fobbs,DEM,103,293,2753,3149,
 Ottawa,Corporation Commissioner,Bob Anthony,REP,135,400,4405,4940,
 Ottawa,Corporation Commissioner,Ashley Nicole Mccray,DEM,104,280,2634,3018,
 Ottawa,Corporation Commissioner,Jackie Short,IND,4,31,408,443,
-Ottawa,U.S. House,Richard Castaldo,LIB,5,10,160,175,02
-Ottawa,U.S. House,Markwayne Mullin,REP,141,404,4571,5116,02
-Ottawa,U.S. House,Jason Nichols,DEM,96,275,2479,2850,02
-Ottawa,U.S. House,John Foreman,IND,2,25,306,333,02
+Ottawa,U.S. House,Richard Castaldo,LIB,5,10,160,175,2
+Ottawa,U.S. House,Markwayne Mullin,REP,141,404,4571,5116,2
+Ottawa,U.S. House,Jason Nichols,DEM,96,275,2479,2850,2
+Ottawa,U.S. House,John Foreman,IND,2,25,306,333,2
 Ottawa,State House,William Leonard,REP,110,294,3447,3851,7
 Ottawa,State House,Ben Loring,DEM,135,425,4104,4664,7
 Pawnee,Governor,Chris Powell,LIB,3,18,186,207,
@@ -1835,8 +1835,8 @@ Pawnee,Insurance Commissioner,Kimberly Fobbs,DEM,64,134,1332,1530,
 Pawnee,Corporation Commissioner,Bob Anthony,REP,95,216,2920,3231,
 Pawnee,Corporation Commissioner,Ashley Nicole Mccray,DEM,55,134,1190,1379,
 Pawnee,Corporation Commissioner,Jackie Short,IND,9,17,235,261,
-Pawnee,U.S. House,Frank Lucas,REP,103,248,3124,3475,03
-Pawnee,U.S. House,Frankie Robbins,DEM,58,121,1218,1397,03
+Pawnee,U.S. House,Frank Lucas,REP,103,248,3124,3475,3
+Pawnee,U.S. House,Frankie Robbins,DEM,58,121,1218,1397,3
 Pawnee,State Senate,Chuck Hall,REP,104,250,3065,3419,20
 Pawnee,State Senate,Heady Coleman,DEM,55,116,1262,1433,20
 Pawnee,State House,Ty Burns,REP,101,252,3078,3431,35
@@ -1864,8 +1864,8 @@ Payne,Insurance Commissioner,Kimberly Fobbs,DEM,470,1311,7244,9025,
 Payne,Corporation Commissioner,Bob Anthony,REP,461,1513,10843,12817,
 Payne,Corporation Commissioner,Ashley Nicole Mccray,DEM,440,1196,6422,8058,
 Payne,Corporation Commissioner,Jackie Short,IND,47,142,1289,1478,
-Payne,U.S. House,Frank Lucas,REP,484,1584,11925,13993,03
-Payne,U.S. House,Frankie Robbins,DEM,474,1285,6788,8547,03
+Payne,U.S. House,Frank Lucas,REP,484,1584,11925,13993,3
+Payne,U.S. House,Frankie Robbins,DEM,474,1285,6788,8547,3
 Payne,State House,Aaron Means,REP,149,556,3179,3884,34
 Payne,State House,Trish Ranson,DEM,296,911,4024,5231,34
 Payne,State House,Ty Burns,REP,39,100,904,1043,35
@@ -1893,10 +1893,10 @@ Pittsburg,Insurance Commissioner,Kimberly Fobbs,DEM,173,497,3841,4511,
 Pittsburg,Corporation Commissioner,Bob Anthony,REP,196,630,7466,8292,
 Pittsburg,Corporation Commissioner,Ashley Nicole Mccray,DEM,165,462,3484,4111,
 Pittsburg,Corporation Commissioner,Jackie Short,IND,21,50,730,801,
-Pittsburg,U.S. House,Richard Castaldo,LIB,10,18,174,202,02
-Pittsburg,U.S. House,Markwayne Mullin,REP,204,668,8082,8954,02
-Pittsburg,U.S. House,Jason Nichols,DEM,162,452,3161,3775,02
-Pittsburg,U.S. House,John Foreman,IND,5,14,389,408,02
+Pittsburg,U.S. House,Richard Castaldo,LIB,10,18,174,202,2
+Pittsburg,U.S. House,Markwayne Mullin,REP,204,668,8082,8954,2
+Pittsburg,U.S. House,Jason Nichols,DEM,162,452,3161,3775,2
+Pittsburg,U.S. House,John Foreman,IND,5,14,389,408,2
 Pittsburg,State House,Randy Randleman,REP,31,33,535,599,15
 Pittsburg,State House,Judy Ross Moore,DEM,11,8,217,236,15
 Pittsburg,State House,Jim Grego,REP,104,311,3967,4382,17
@@ -1926,9 +1926,9 @@ Pontotoc,Insurance Commissioner,Kimberly Fobbs,DEM,149,717,3526,4392,
 Pontotoc,Corporation Commissioner,Bob Anthony,REP,183,1038,5979,7200,
 Pontotoc,Corporation Commissioner,Ashley Nicole Mccray,DEM,128,630,3100,3858,
 Pontotoc,Corporation Commissioner,Jackie Short,IND,17,69,535,621,
-Pontotoc,U.S. House,Tom Cole,REP,198,1166,6738,8102,04
-Pontotoc,U.S. House,Mary Brannon,DEM,129,559,2664,3352,04
-Pontotoc,U.S. House,Ruby Peters,IND,5,33,335,373,04
+Pontotoc,U.S. House,Tom Cole,REP,198,1166,6738,8102,4
+Pontotoc,U.S. House,Mary Brannon,DEM,129,559,2664,3352,4
+Pontotoc,U.S. House,Ruby Peters,IND,5,33,335,373,4
 Pontotoc,State House,Ronny Johns,REP,152,827,4871,5850,25
 Pontotoc,State House,Daniel Manuel,DEM,160,863,4420,5443,25
 Pontotoc,State House,Gary Rhynes,IND,18,75,480,573,25
@@ -1955,8 +1955,8 @@ Pottawatomie,Insurance Commissioner,Kimberly Fobbs,DEM,609,777,5648,7034,
 Pottawatomie,Corporation Commissioner,Bob Anthony,REP,761,1388,10855,13004,
 Pottawatomie,Corporation Commissioner,Ashley Nicole Mccray,DEM,524,720,5111,6355,
 Pottawatomie,Corporation Commissioner,Jackie Short,IND,73,106,1196,1375,
-Pottawatomie,U.S. House,Steve Russell,REP,741,1371,10918,13030,05
-Pottawatomie,U.S. House,Kendra Horn,DEM,626,852,6366,7844,05
+Pottawatomie,U.S. House,Steve Russell,REP,741,1371,10918,13030,5
+Pottawatomie,U.S. House,Kendra Horn,DEM,626,852,6366,7844,5
 Pottawatomie,State Senate,Jason Smalley,REP,275,500,4781,5556,28
 Pottawatomie,State Senate,Stephanie Sanders,IND,176,182,1793,2151,28
 Pottawatomie,State House,Sherrie Conley,REP,8,4,148,160,20
@@ -1989,10 +1989,10 @@ Pushmataha,Insurance Commissioner,Kimberly Fobbs,DEM,25,105,831,961,
 Pushmataha,Corporation Commissioner,Bob Anthony,REP,69,182,1915,2166,
 Pushmataha,Corporation Commissioner,Ashley Nicole Mccray,DEM,22,106,754,882,
 Pushmataha,Corporation Commissioner,Jackie Short,IND,3,12,175,190,
-Pushmataha,U.S. House,Richard Castaldo,LIB,1,5,42,48,02
-Pushmataha,U.S. House,Markwayne Mullin,REP,68,190,2112,2370,02
-Pushmataha,U.S. House,Jason Nichols,DEM,24,105,665,794,02
-Pushmataha,U.S. House,John Foreman,IND,1,7,91,99,02
+Pushmataha,U.S. House,Richard Castaldo,LIB,1,5,42,48,2
+Pushmataha,U.S. House,Markwayne Mullin,REP,68,190,2112,2370,2
+Pushmataha,U.S. House,Jason Nichols,DEM,24,105,665,794,2
+Pushmataha,U.S. House,John Foreman,IND,1,7,91,99,2
 Pushmataha,State House,Justin Humphrey,REP,63,190,2077,2330,19
 Pushmataha,State House,Lewis Collins,DEM,29,116,835,980,19
 Roger Mills,Governor,Chris Powell,LIB,0,5,55,60,
@@ -2018,8 +2018,8 @@ Roger Mills,Insurance Commissioner,Kimberly Fobbs,DEM,13,25,254,292,
 Roger Mills,Corporation Commissioner,Bob Anthony,REP,32,139,925,1096,
 Roger Mills,Corporation Commissioner,Ashley Nicole Mccray,DEM,16,29,238,283,
 Roger Mills,Corporation Commissioner,Jackie Short,IND,3,10,77,90,
-Roger Mills,U.S. House,Frank Lucas,REP,48,172,1111,1331,03
-Roger Mills,U.S. House,Frankie Robbins,DEM,7,8,162,177,03
+Roger Mills,U.S. House,Frank Lucas,REP,48,172,1111,1331,3
+Roger Mills,U.S. House,Frankie Robbins,DEM,7,8,162,177,3
 Roger Mills,State House,Todd Russ,REP,28,82,584,694,55
 Roger Mills,State House,Dennis Dugger,DEM,25,95,684,804,55
 Rogers,Governor,Chris Powell,LIB,34,105,930,1069,
@@ -2045,12 +2045,12 @@ Rogers,Insurance Commissioner,Kimberly Fobbs,DEM,557,1364,7095,9016,
 Rogers,Corporation Commissioner,Bob Anthony,REP,922,3220,18660,22802,
 Rogers,Corporation Commissioner,Ashley Nicole Mccray,DEM,516,1263,6408,8187,
 Rogers,Corporation Commissioner,Jackie Short,IND,55,159,1458,1672,
-Rogers,U.S. House,Kevin Hern,REP,219,762,3595,4576,01
-Rogers,U.S. House,Tim Gilpin,DEM,156,345,1241,1742,01
-Rogers,U.S. House,Richard Castaldo,LIB,31,65,638,734,02
-Rogers,U.S. House,Markwayne Mullin,REP,684,2387,15246,18317,02
-Rogers,U.S. House,Jason Nichols,DEM,379,1041,5266,6686,02
-Rogers,U.S. House,John Foreman,IND,32,90,779,901,02
+Rogers,U.S. House,Kevin Hern,REP,219,762,3595,4576,1
+Rogers,U.S. House,Tim Gilpin,DEM,156,345,1241,1742,1
+Rogers,U.S. House,Richard Castaldo,LIB,31,65,638,734,2
+Rogers,U.S. House,Markwayne Mullin,REP,684,2387,15246,18317,2
+Rogers,U.S. House,Jason Nichols,DEM,379,1041,5266,6686,2
+Rogers,U.S. House,John Foreman,IND,32,90,779,901,2
 Rogers,State Senate,Marty Quinn,REP,705,2545,12593,15843,2
 Rogers,State Senate,Jennifer Esau,DEM,515,1552,7015,9082,2
 Rogers,State House,Rusty Cornwell,REP,139,339,3862,4340,6
@@ -2086,8 +2086,8 @@ Seminole,Insurance Commissioner,Kimberly Fobbs,DEM,130,187,2059,2376,
 Seminole,Corporation Commissioner,Bob Anthony,REP,166,311,3588,4065,
 Seminole,Corporation Commissioner,Ashley Nicole Mccray,DEM,112,162,1820,2094,
 Seminole,Corporation Commissioner,Jackie Short,IND,14,16,318,348,
-Seminole,U.S. House,Steve Russell,REP,162,301,3493,3956,05
-Seminole,U.S. House,Kendra Horn,DEM,130,190,2258,2578,05
+Seminole,U.S. House,Steve Russell,REP,162,301,3493,3956,5
+Seminole,U.S. House,Kendra Horn,DEM,130,190,2258,2578,5
 Seminole,State Senate,Jason Smalley,REP,131,280,3007,3418,28
 Seminole,State Senate,Stephanie Sanders,IND,72,121,1338,1531,28
 Seminole,State House,Zack Taylor,REP,154,251,3363,3768,28
@@ -2116,10 +2116,10 @@ Sequoyah,Insurance Commissioner,Kimberly Fobbs,DEM,125,399,3227,3751,
 Sequoyah,Corporation Commissioner,Bob Anthony,REP,195,638,6436,7269,
 Sequoyah,Corporation Commissioner,Ashley Nicole Mccray,DEM,101,372,2889,3362,
 Sequoyah,Corporation Commissioner,Jackie Short,IND,13,63,564,640,
-Sequoyah,U.S. House,Richard Castaldo,LIB,6,5,151,162,02
-Sequoyah,U.S. House,Markwayne Mullin,REP,188,679,6681,7548,02
-Sequoyah,U.S. House,Jason Nichols,DEM,112,378,2930,3420,02
-Sequoyah,U.S. House,John Foreman,IND,8,22,264,294,02
+Sequoyah,U.S. House,Richard Castaldo,LIB,6,5,151,162,2
+Sequoyah,U.S. House,Markwayne Mullin,REP,188,679,6681,7548,2
+Sequoyah,U.S. House,Jason Nichols,DEM,112,378,2930,3420,2
+Sequoyah,U.S. House,John Foreman,IND,8,22,264,294,2
 Sequoyah,State Senate,Mark Dean Allen,REP,168,592,6202,6962,4
 Sequoyah,State Senate,Eddie Martin,DEM,144,488,3855,4487,4
 Sequoyah,State House,Jim Olsen,REP,133,485,4560,5178,2
@@ -2149,9 +2149,9 @@ Stephens,Insurance Commissioner,Kimberly Fobbs,DEM,156,305,3130,3591,
 Stephens,Corporation Commissioner,Bob Anthony,REP,295,837,8817,9949,
 Stephens,Corporation Commissioner,Ashley Nicole Mccray,DEM,144,270,2654,3068,
 Stephens,Corporation Commissioner,Jackie Short,IND,24,45,594,663,
-Stephens,U.S. House,Tom Cole,REP,316,875,9350,10541,04
-Stephens,U.S. House,Mary Brannon,DEM,134,255,2394,2783,04
-Stephens,U.S. House,Ruby Peters,IND,14,24,399,437,04
+Stephens,U.S. House,Tom Cole,REP,316,875,9350,10541,4
+Stephens,U.S. House,Mary Brannon,DEM,134,255,2394,2783,4
+Stephens,U.S. House,Ruby Peters,IND,14,24,399,437,4
 Stephens,State House,Toni Hasenbeck,REP,6,36,440,482,65
 Stephens,State House,Brandon Thompson,DEM,4,9,111,124,65
 Texas,Governor,Chris Powell,LIB,4,7,136,147,
@@ -2177,8 +2177,8 @@ Texas,Insurance Commissioner,Kimberly Fobbs,DEM,32,89,657,778,
 Texas,Corporation Commissioner,Bob Anthony,REP,128,364,2625,3117,
 Texas,Corporation Commissioner,Ashley Nicole Mccray,DEM,26,85,643,754,
 Texas,Corporation Commissioner,Jackie Short,IND,15,16,195,226,
-Texas,U.S. House,Frank Lucas,REP,142,398,2899,3439,03
-Texas,U.S. House,Frankie Robbins,DEM,26,71,580,677,03
+Texas,U.S. House,Frank Lucas,REP,142,398,2899,3439,3
+Texas,U.S. House,Frankie Robbins,DEM,26,71,580,677,3
 Texas,State House,Kenton Patzkowsky,REP,126,322,2326,2774,61
 Texas,State House,Ashley Lehnert,DEM,45,148,1164,1357,61
 Tillman,Governor,Chris Powell,LIB,2,9,49,60,
@@ -2204,9 +2204,9 @@ Tillman,Insurance Commissioner,Kimberly Fobbs,DEM,18,71,550,639,
 Tillman,Corporation Commissioner,Bob Anthony,REP,37,196,1203,1436,
 Tillman,Corporation Commissioner,Ashley Nicole Mccray,DEM,13,60,468,541,
 Tillman,Corporation Commissioner,Jackie Short,IND,1,7,67,75,
-Tillman,U.S. House,Tom Cole,REP,40,213,1310,1563,04
-Tillman,U.S. House,Mary Brannon,DEM,13,52,409,474,04
-Tillman,U.S. House,Ruby Peters,IND,1,3,44,48,04
+Tillman,U.S. House,Tom Cole,REP,40,213,1310,1563,4
+Tillman,U.S. House,Mary Brannon,DEM,13,52,409,474,4
+Tillman,U.S. House,Ruby Peters,IND,1,3,44,48,4
 Tillman,State House,Trey Caldwell,REP,44,219,1342,1605,63
 Tillman,State House,Joan Gabelmann,DEM,11,48,418,477,63
 Tulsa,Governor,Chris Powell,LIB,170,207,5339,5716,
@@ -2232,8 +2232,8 @@ Tulsa,Insurance Commissioner,Kimberly Fobbs,DEM,4545,6549,71953,83047,
 Tulsa,Corporation Commissioner,Bob Anthony,REP,5285,6197,101489,112971,
 Tulsa,Corporation Commissioner,Ashley Nicole Mccray,DEM,4248,6093,65730,76071,
 Tulsa,Corporation Commissioner,Jackie Short,IND,398,412,8934,9744,
-Tulsa,U.S. House,Kevin Hern,REP,5096,5874,102048,113018,01
-Tulsa,U.S. House,Tim Gilpin,DEM,4931,6944,76029,87904,01
+Tulsa,U.S. House,Kevin Hern,REP,5096,5874,102048,113018,1
+Tulsa,U.S. House,Tim Gilpin,DEM,4931,6944,76029,87904,1
 Tulsa,State Senate,James Leewright,REP,66,55,1610,1731,12
 Tulsa,State Senate,Rick Parris,DEM,29,36,723,788,12
 Tulsa,State Senate,Kim David,REP,17,36,547,600,18
@@ -2301,8 +2301,8 @@ Wagoner,Insurance Commissioner,Kimberly Fobbs,DEM,314,1003,6447,7764,
 Wagoner,Corporation Commissioner,Bob Anthony,REP,573,2301,14437,17311,
 Wagoner,Corporation Commissioner,Ashley Nicole Mccray,DEM,297,937,5661,6895,
 Wagoner,Corporation Commissioner,Jackie Short,IND,29,137,1218,1384,
-Wagoner,U.S. House,Kevin Hern,REP,595,2364,15218,18177,01
-Wagoner,U.S. House,Tim Gilpin,DEM,307,1029,6252,7588,01
+Wagoner,U.S. House,Kevin Hern,REP,595,2364,15218,18177,1
+Wagoner,U.S. House,Tim Gilpin,DEM,307,1029,6252,7588,1
 Wagoner,State Senate,Kim David,REP,383,1193,10930,12506,18
 Wagoner,State Senate,Charles Arnall,DEM,188,585,4969,5742,18
 Wagoner,State Senate,John Haste,REP,216,1135,3980,5331,36
@@ -2344,8 +2344,8 @@ Washington,Insurance Commissioner,Kimberly Fobbs,DEM,263,652,4119,5034,
 Washington,Corporation Commissioner,Bob Anthony,REP,363,1212,10552,12127,
 Washington,Corporation Commissioner,Ashley Nicole Mccray,DEM,248,574,3647,4469,
 Washington,Corporation Commissioner,Jackie Short,IND,27,60,876,963,
-Washington,U.S. House,Kevin Hern,REP,359,1160,10952,12471,01
-Washington,U.S. House,Tim Gilpin,DEM,283,703,4267,5253,01
+Washington,U.S. House,Kevin Hern,REP,359,1160,10952,12471,1
+Washington,U.S. House,Tim Gilpin,DEM,283,703,4267,5253,1
 Washington,State House,Judd Strom,REP,133,385,5164,5682,10
 Washington,State House,Kevin Stacy,DEM,103,176,1875,2154,10
 Washita,Governor,Chris Powell,LIB,8,11,170,189,
@@ -2371,8 +2371,8 @@ Washita,Insurance Commissioner,Kimberly Fobbs,DEM,42,85,766,893,
 Washita,Corporation Commissioner,Bob Anthony,REP,121,157,2445,2723,
 Washita,Corporation Commissioner,Ashley Nicole Mccray,DEM,38,80,674,792,
 Washita,Corporation Commissioner,Jackie Short,IND,13,17,220,250,
-Washita,U.S. House,Frank Lucas,REP,137,201,2810,3148,03
-Washita,U.S. House,Frankie Robbins,DEM,36,54,560,650,03
+Washita,U.S. House,Frank Lucas,REP,137,201,2810,3148,3
+Washita,U.S. House,Frankie Robbins,DEM,36,54,560,650,3
 Washita,State Senate,Brent Howard,REP,113,143,2260,2516,38
 Washita,State Senate,Jeff Berrong,DEM,58,112,1097,1267,38
 Washita,State House,Todd Russ,REP,104,115,1817,2036,55
@@ -2400,8 +2400,8 @@ Woods,Insurance Commissioner,Kimberly Fobbs,DEM,36,124,478,638,
 Woods,Corporation Commissioner,Bob Anthony,REP,97,307,1677,2081,
 Woods,Corporation Commissioner,Ashley Nicole Mccray,DEM,26,121,443,590,
 Woods,Corporation Commissioner,Jackie Short,IND,6,20,134,160,
-Woods,U.S. House,Frank Lucas,REP,96,334,1894,2324,03
-Woods,U.S. House,Frankie Robbins,DEM,34,112,363,509,03
+Woods,U.S. House,Frank Lucas,REP,96,334,1894,2324,3
+Woods,U.S. House,Frankie Robbins,DEM,34,112,363,509,3
 Woodward,Governor,Chris Powell,LIB,0,17,167,184,
 Woodward,Governor,Kevin Stitt,REP,114,617,3595,4326,
 Woodward,Governor,Drew Edmondson,DEM,47,216,1125,1388,
@@ -2425,7 +2425,7 @@ Woodward,Insurance Commissioner,Kimberly Fobbs,DEM,38,166,978,1182,
 Woodward,Corporation Commissioner,Bob Anthony,REP,117,649,3712,4478,
 Woodward,Corporation Commissioner,Ashley Nicole Mccray,DEM,37,165,841,1043,
 Woodward,Corporation Commissioner,Jackie Short,IND,5,35,291,331,
-Woodward,U.S. House,Frank Lucas,REP,131,701,4127,4959,03
-Woodward,U.S. House,Frankie Robbins,DEM,30,150,744,924,03
+Woodward,U.S. House,Frank Lucas,REP,131,701,4127,4959,3
+Woodward,U.S. House,Frankie Robbins,DEM,30,150,744,924,3
 Woodward,State House,Kenton Patzkowsky,REP,1,3,70,74,61
 Woodward,State House,Ashley Lehnert,DEM,0,1,32,33,61
